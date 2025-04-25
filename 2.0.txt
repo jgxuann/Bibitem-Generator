@@ -1,1016 +1,2727 @@
-%Type = Inproceedings
-\bibitem[{\AA}man and Liikkanen(2010)]{aaman2010survey}
-  {\AA}man, P., Liikkanen, L.A., 
-  \textit{A survey of music recommendation aids}, 
-  in: \textit{Proceedings of the 1st Workshop on Music Recommendation and Discovery (WOMRAD) colocated with ACM RecSys}, pp. 25--28, 2010.,
-  doi = {10.1007/978-3-030-66450-3_7}
-
-
-%Type = Article
-\bibitem[{\AA}man and Liikkanen(2017)]{aaman2017interacting}
-  {\AA}man, P., Liikkanen, L.A., 
-  \textit{Interacting with context factors in music recommendation and discovery}, 
-  \textit{International Journal of Human--Computer Interaction}, vol. 33, pp. 165--179, 2017.,
-  doi = {10.1080/10447318.2016.1225881}
-
-
-%Type = Inproceedings
-\bibitem[Abowd et~al.(1999)]{abowd1999towards}
-  Abowd, G.D., Dey, A.K., Brown, P.J., Davies, N., Smith, M., Steggles, P., 
-  \textit{Towards a better understanding of context and context-awareness}, 
-  in: \textit{Handheld and Ubiquitous Computing: First International Symposium, HUC’99 Karlsruhe, Germany, September 27--29, 1999 Proceedings 1}, 
-  Springer, pp. 304--307, 1999.,
-  doi = {10.1007/3-540-48157-5_29}
-
-
-%Type = Incollection
-\bibitem[Adomavicius and Tuzhilin(2010)]{adomavicius2010context}
-  Adomavicius, G., Tuzhilin, A., 
-  \textit{Context-aware recommender systems}, in: \textit{Recommender systems handbook}, 
-  Springer, pp. 217--253, 2010.,
-  doi = {10.1145/1454008.1454068}
-
-
-%Type = Article
-\bibitem[Agres et~al.(2021)]{agres2021music}
-  Agres, K.R., Schaefer, R.S., Volk, A., van Hooren, S., Holzapfel, A., Dalla Bella, S., 
-  Müller, M., De Witte, M., Herremans, D., Ramirez Melendez, R., et~al., 
-  \textit{Music, computing, and health: a roadmap for the current and future roles of music technology for health care and well-being}, 
-  \textit{Music \& Science}, vol. 4, pp. 2059204321997709, 2021.,
-  doi = {10.31219/osf.io/mgjwv}
-
-
-%Type = Article
-\bibitem[Andjelkovic et~al.(2019)]{andjelkovic2019moodplay}
-  Andjelkovic, I., Parra, D., O’Donovan, J., 
-  \textit{Moodplay: interactive music recommendation based on artists’ mood similarity}, 
-  \textit{International Journal of Human-Computer Studies}, vol. 121, pp. 142--159, 2019.,
-  doi = {10.1016/j.ijhcs.2018.04.004}
-
-
-%Type = Article
-\bibitem[Assuncao et~al.(2022)]{assuncao2022considering}
-  Assuncao, W.G., Piccolo, L.S., Zaina, L.A., 
-  \textit{Considering emotions and contextual factors in music recommendation: a systematic literature review}, 
-  \textit{Multimedia Tools and Applications}, vol. 81, pp. 8367--8407, 2022.,
-  doi = {10.1007/s11042-022-12110-z}
-
-
-%Type = Article
-\bibitem[Ayata et~al.(2018a)]{ayata2018emotion}
-  Ayata, D., Yaslan, Y., Kamasak, M.E., 
-  \textit{Emotion based music recommendation system using wearable physiological sensors}, 
-  \textit{IEEE transactions on consumer electronics}, vol. 64, pp. 196--203, 2018.,
-  doi = {10.1109/tce.2018.2844736}
-
-
-%Type = Article
-\bibitem[Ayata et~al.(2018b)]{8374807}
-  Ayata, D., Yaslan, Y., Kamasak, M.E., 
-  \textit{Emotion based music recommendation system using wearable physiological sensors}, 
-  \textit{IEEE Transactions on Consumer Electronics}, vol. 64, pp. 196--203, 2018, 
-  \url{10.1109/TCE.2018.2844736}.,
-  doi = {10.1109/tce.2018.2844736}
-
-
-%Type = Article
-\bibitem[Bagby et~al.(1994)]{bagby1994twenty}
-  Bagby, R.M., Parker, J.D., Taylor, G.J., 
-  \textit{The twenty-item toronto alexithymia scale—i. item selection and cross-validation of the factor structure}, 
-  \textit{Journal of psychosomatic research}, vol. 38, pp. 23--32, 1994.,
-  doi = {10.1016/0022-3999(94)90005-1}
-
-
-%Type = Article
-\bibitem[Bakaeva et~al.(2022)]{bakaeva2022influence}
-  Bakaeva, Z., Shumov, D., Yakunina, E., Starshinov, Y.P., Sveshnikov, D., Torshin, V., 
-  Dorokhov, V., Karpov, V., 
-  \textit{The influence of music with the binaural beat effect on heart rate during daytime sleep in humans}, 
-  \textit{Neuroscience and Behavioral Physiology}, vol. 52, pp. 218--222, 2022.,
-  doi = {10.1007/s11055-022-01227-1}
-
-
-%Type = Inproceedings
-\bibitem[Bazire and Brézillon(2005)]{bazire2005understanding}
-  Bazire, M., Brézillon, P., 
-  \textit{Understanding context before using it}, 
-  in: \textit{Modeling and Using Context: 5th International and Interdisciplinary Conference CONTEXT 2005, Paris, France, July 5-8, 2005. Proceedings}, Springer, pp. 29--40, 2005.,
-  doi = {10.1007/11508373_3}
-
-
-%Type = Article
-\bibitem[Bonnin and Jannach(2014)]{bonnin2014automated}
-  Bonnin, G., Jannach, D., 
-  \textit{Automated generation of music playlists: Survey and experiments}, 
-  \textit{ACM Computing Surveys (CSUR)}, vol. 47, pp. 1--35, 2014.,
-  doi = {10.1145/2652481}
-
-
-%Type = Article
-\bibitem[Botonis et~al.(2021)]{botonis2021impact}
-  Botonis, P.G., Koutouvakis, N., Toubekis, A.G., 
-  \textit{The impact of daytime napping on athletic performance--a narrative review}, 
-  \textit{Scandinavian journal of medicine \& science in sports}, vol. 31, pp. 2164--2177, 2021.,
-  doi = {10.1111/sms.14060}
-
-
-%Type = Article
-\bibitem[Bowman et~al.(2024)]{bowman2024exploring}
-  Bowman, R., Cooney, O., Newbold, J.W., Thieme, A., Clark, L., Doherty, G., Cowan, B., 
-  \textit{Exploring how politeness impacts the user experience of chatbots for mental health support}, 
-  \textit{International Journal of Human-Computer Studies}, 
-  vol. 184, p. 103181, Elsevier, 2024.,
-  doi = {10.1016/j.ijhcs.2023.103181}
-
-
-%Type = Article
-\bibitem[Bradley and Lang(1994)]{bradley1994measuring}
-  Bradley, M.M., Lang, P.J., 
-  \textit{Measuring emotion: the self-assessment manikin and the semantic differential}, 
-  \textit{Journal of Behavior Therapy and Experimental Psychiatry}, vol. 25, pp. 49--59, 1994.,
-  doi = {10.1016/0005-7916(94)90063-9}
-
-
-%Type = TechReport
-\bibitem[Bradley and Lang(1999)]{bradley1999affective}
-  Bradley, M.M., Lang, P.J., 
-  \textit{Affective norms for English words (ANEW): Instruction manual and affective ratings}, 
-  Tech. rep., The Center for Research in Psychophysiology, 1999.,
-  doi = {10.3758/bf03193031}
-
-
-%Type = Inproceedings
-\bibitem[Broder(2002)]{broder2002taxonomy}
-  Broder, A., 
-  \textit{A taxonomy of web search}, 
-  in: \textit{Proceedings of the ACM SIGIR Conference on Research and Development in Information Retrieval}, ACM, pp. 3--10, 2002.,
-  doi = {10.1145/792550.792552}
-
-
-%Type = Article
-\bibitem[Burrai et~al.(2020)]{burrai2020beneficial}
-  Burrai, F., Sanna, G.D., Moccia, E., Morlando, F., Cosentino, E.R., Bui, V., Micheluzzi, V., Borghi, C., Parodi, G., 
-  \textit{Beneficial effects of listening to classical music in patients with heart failure: a randomized controlled trial}, 
-  \textit{Journal of Cardiac Failure}, vol. 26, pp. 541--549, 2020.,
-  doi = {10.1016/j.cardfail.2019.12.005}
-
-
-%Type = Article
-\bibitem[Buysse et~al.(1989)]{buysse1989pittsburgh}
-  Buysse, D.J., Reynolds III, C.F., Monk, T.H., Berman, S.R., Kupfer, D.J., 
-  \textit{The Pittsburgh sleep quality index: a new instrument for psychiatric practice and research}, 
-  \textit{Psychiatry Research}, vol. 28, pp. 193--213, 1989.,
-  doi = {10.1016/0165-1781(89)90047-4}
-
-
-%Type = Inproceedings
-\bibitem[Caine(2016)]{caine2016local}
-  Caine, K., 
-  \textit{Local standards for sample size at chi}, 
-  in: \textit{Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems}, ACM, pp. 981--992, 2016.,
-  doi = {10.1145/2858036.2858498}
-
-
-%Type = Inproceedings
-\bibitem[{\c{C}}ano et~al.(2017)]{ccano2017mood}
-  {\c{C}}ano, E., Coppola, R., Gargiulo, E., Marengo, M., Morisio, M., 
-  \textit{Mood-based on-car music recommendations}, 
-  in: \textit{Proceedings of the 2nd International Conference on Industrial Networks and Intelligent Systems}, Springer, pp. 154--163, 2017.,
-  doi = {10.1007/978-3-319-52569-3_14}
-
-
-%Type = Article
-\bibitem[Chan et~al.(2010)]{chan2010effects}
-  Chan, M.F., Chan, E.A., Mok, E., 
-  \textit{Effects of music on depression and sleep quality in elderly people: A randomised controlled trial}, 
-  \textit{Complementary Therapies in Medicine}, vol. 18, pp. 150--159, 2010.,
-  doi = {10.1016/j.ctim.2010.02.004}
-
-
-%Type = Article
-\bibitem[Chang et~al.(2012)]{chang2012effects}
-  Chang, E.T., Lai, H.L., Chen, P.W., Hsieh, Y.M., Lee, L.H., 
-  \textit{The effects of music on the sleep quality of adults with chronic insomnia using evidence from polysomnographic and self-reported analysis: A randomized control trial}, 
-  \textit{International Journal of Nursing Studies}, vol. 49, pp. 921--930, 2012.,
-  doi = {10.1016/j.ijnurstu.2012.02.019}
-
-
-%Type = Article
-\bibitem[Chen et~al.(2014)]{chen2014sedative}
-  Chen, C.K., Pei, Y.C., Chen, N.H., Huang, L.T., Chou, S.W., Wu, K.P., Ko, P.C., Wong, A.M., Wu, C.K., 
-  \textit{Sedative music facilitates deep sleep in young adults}, 
-  \textit{The Journal of Alternative and Complementary Medicine}, vol. 20, pp. 312--317, 2014.,
-  doi = {10.1089/acm.2012.0050}
-
-
-%Type = Inproceedings
-\bibitem[Chen et~al.(2013)]{chen2013a}
-  Chen, C.M., Tsai, M.F., Liu, J.Y., Yang, Y.H., 
-  \textit{Music recommendation based on multiple contextual similarity information}, 
-  in: \textit{2013 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT)}, IEEE, pp. 65--72, 2013.,
-  doi = {10.1109/wi-iat.2013.10}
-
-
-%Type = Inproceedings
-\bibitem[Chen et~al.(2013)]{chen2013b}
-  Chen, C.M., Tsai, M.F., Liu, J.Y., Yang, Y.H., 
-  \textit{Using emotional context from article for contextual music recommendation}, 
-  in: \textit{Proceedings of the 21st ACM International Conference on Multimedia}, ACM, pp. 649--652, 2013.,
-  doi = {10.1145/2502081.2502170}
-
-
-%Type = Inproceedings
-\bibitem[Chen et~al.(2015)]{chen2015amg1608}
-  Chen, Y.A., Yang, Y.H., Wang, J.C., Chen, H., 
-  \textit{The amg1608 dataset for music emotion recognition}, 
-  in: \textit{2015 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, IEEE, pp. 693--697, 2015.,
-  doi = {10.1109/icassp.2015.7178058}
-
-
-%Type = Article
-\bibitem[Cordi et~al.(2019)]{cordi2019effects}
-  Cordi, M.J., Ackermann, S., Rasch, B., 
-  \textit{Effects of relaxing music on healthy sleep}, 
-  \textit{Scientific Reports}, vol. 9, pp. 9079, 2019.,
-  doi = {10.1038/s41598-019-45608-y}
-
-
-%Type = Inproceedings
-\bibitem[de Assuncao and de Almeida Neris(2018)]{de2018algorithm}
-  de Assuncao, W.G., de Almeida Neris, V.P., 
-  \textit{An algorithm for music recommendation based on the user's musical preferences and desired emotions}, 
-  in: \textit{Proceedings of the 17th international conference on mobile and ubiquitous multimedia}, pp. 205--213, 2018.,
-  doi = {10.1145/3282894.3282915}
-
-
-%Type = Book
-\bibitem[DeVellis and Thorpe(2021)]{devellis2021scale}
-  DeVellis, R.F., Thorpe, C.T., 
-  \textit{Scale Development: Theory and Applications}, 
-  Sage Publications, 2021.,
-  doi = {10.2307/2075704}
-
-
-%Type = Article
-\bibitem[Dey(2001)]{dey2001understanding}
-  Dey, A.K., 
-  \textit{Understanding and using context}, 
-  \textit{Personal and Ubiquitous Computing}, vol. 5, pp. 4--7, 2001.,
-  doi = {10.1007/s007790170019}
-
-
-%Type = Article
-\bibitem[Dharmapriya et~al.(2021)]{dharmapriya2021music}
-  Dharmapriya, J., Dayarathne, L., Diasena, T., Arunathilake, S., Kodikara, N., Wijesekera, P., 
-  \textit{Music emotion visualization through colour}, 
-  \textit{Proceedings of the 2021 International Conference on Electronics, Information, and Communication (ICEIC)}, 
-  IEEE, pp. 1--6, 2021.,
-  doi = {10.1109/iceic51217.2021.9369788}
-
-
-%Type = Article
-\bibitem[Dickson and Schubert(2019)]{dickson2019does}
-  Dickson, G.T., Schubert, E., 
-  \textit{How does music aid sleep? Literature review}, 
-  \textit{Sleep Medicine}, vol. 63, pp. 142--150, 2019.,
-  doi = {10.1016/j.sleep.2019.05.016}
-
-
-%Type = Article
-\bibitem[Dickson and Schubert(2020)]{dickson2020musical}
-  Dickson, G.T., Schubert, E., 
-  \textit{Musical features that aid sleep}, 
-  \textit{Musicae Scientiae}, vol. 26, pp. 497--515, 2020.,
-  doi = {10.1177/1029864920972161}
-
-
-%Type = Article
-\bibitem[Dos~Reis et~al.(2020)]{dos2020use}
-  Dos~Reis, A.C., Vidal, C.L., de~Souza~Caetano, K.A., Dias, H.D., 
-  \textit{Use of recorded poetic audios to manage levels of anxiety and sleep disorders}, 
-  \textit{Journal of Religion and Health}, vol. 59, pp. 1626--1634, 2020.,
-  doi = {10.1007/s10943-019-00947-y}
-
-
-%Type = Article
-\bibitem[Dourish(2004)]{dourish2004we}
-  Dourish, P., 
-  \textit{What we talk about when we talk about context}, 
-  \textit{Personal and Ubiquitous Computing}, vol. 8, pp. 19--30, 2004.,
-  doi = {10.1007/s00779-003-0253-8}
-
-
-%Type = Article
-\bibitem[Dubey et~al.(2019)]{dubey2019effect}
-  Dubey, P., Kumar, Y., Singh, R., Jha, K., Kumar, R., 
-  \textit{Effect of music of specific frequency upon the sleep architecture and electroencephalographic pattern of individuals with delayed sleep latency: A daytime nap study}, 
-  \textit{Journal of Family Medicine and Primary Care}, vol. 8, p. 3915, 2019.,
-  doi = {10.4103/jfmpc.jfmpc_575_19}
-
-
-%Type = Article
-\bibitem[Dutheil et~al.(2021)]{dutheil2021effects}
-  Dutheil, F., Danini, B., Bagheri, R., Fantini, M.L., Pereira, B., Moustafa, F., Trousselard, M., Navel, V., 
-  \textit{Effects of a short daytime nap on the cognitive performance: A systematic review and meta-analysis}, 
-  \textit{International Journal of Environmental Research and Public Health}, vol. 18, p. 10212, 2021.,
-  doi = {10.3390/ijerph181910212}
-
-
-%Type = Article
-\bibitem[Eerola and Vuoskoski(2012)]{eerola2012review}
-  Eerola, T., Vuoskoski, J.K., 
-  \textit{A review of music and emotion studies: Approaches, emotion models, and stimuli}, 
-  \textit{Music Perception: An Interdisciplinary Journal}, vol. 30, pp. 307--340, 2012.,
-  doi = {10.1525/mp.2012.30.3.307}
-
-
-%Type = Article
-\bibitem[Ekman(1992)]{ekman1992argument}
-  Ekman, P., 
-  \textit{An argument for basic emotions}, 
-  \textit{Cognition \& Emotion}, vol. 6, pp. 169--200, 1992.,
-  doi = {10.1080/02699939208411068}
-
-
-%Type = Article
-\bibitem[Enders and Tofighi, 2007]{enders2007centering}
-  Enders, C.~K., and Tofighi, D., 
-  \textit{Centering predictor variables in cross-sectional multilevel models: a new look at an old issue}, 
-  \textit{Psychological Methods}, vol. 12, no. 2, pp. 121, 2007, 
-  American Psychological Association.,
-  doi = {10.1037/1082-989x.12.2.121}
-
-
-%Type = Article
-\bibitem[Evans and Schubert(2008)]{evans2008relationships}
-  Evans, P., Schubert, E., 
-  \textit{Relationships between expressed and felt emotions in music}, 
-  \textit{Musicae Scientiae}, vol. 12, pp. 75--99, 2008.,
-  doi = {10.1177/102986490801200105}
-
-
-%Type = Article
-\bibitem[Field(1999)]{field1999music}
-  Field, T., 
-  \textit{Music enhances sleep in preschool children}, 
-  \textit{Early Child Development and Care}, vol. 150, pp. 65--68, 1999.,
-  doi = {10.1080/0300443991500106}
-
-
-%Type = Article
-\bibitem[Gabrielsson(2001)]{gabrielsson2001emotion}
-  Gabrielsson, A., 
-  \textit{Emotion perceived and emotion felt: Same or different?}, 
-  \textit{Musicae Scientiae}, vol. 5, pp. 123--147, 2001.,
-  doi = {10.1177/10298649020050s105}
-
-
-%Type = Book
-\bibitem[Gelman, 2007]{gelman2007data}
-  Gelman, A., 
-  \textit{Data analysis using regression and multilevel/hierarchical models}, 
-  Cambridge University Press, 2007.,
-  doi = {10.18637/jss.v030.b03}
-
-
-%Type = Inproceedings
-\bibitem[Gilda et~al.(2017)]{gilda2017smart}
-  Gilda, S., Zafar, H., Soni, C., Waghurdekar, K., 
-  \textit{Smart music player integrating facial emotion recognition and music mood recommendation}, in: \textit{2017 International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET)}, IEEE, pp. 154--158, 2017.,
-  doi = {10.1109/wispnet.2017.8299738}
-
-
-%Type = Article
-\bibitem[Grekow(2018)]{grekow2018musical}
-  Grekow, J., 
-  \textit{Musical performance analysis in terms of emotions it evokes}, 
-  \textit{Journal of Intelligent Information Systems}, vol. 51, pp. 415--437, 2018.,
-  doi = {10.1007/s10844-018-0510-y}
-
-
-%Type = Article
-\bibitem[Jangraw et~al.(2023)]{jangraw2023highly}
-  Jangraw, D.C., Keren, H., Sun, H., Bedder, R.L., Rutledge, R.B., Pereira, F., 
-  Thomas, A.G., Pine, D.S., Zheng, C., Nielson, D.M., and others, 
-  \textit{A highly replicable decline in mood during rest and simple tasks}, 
-  \textit{Nature human behaviour}, vol. 7, no. 4, pp. 596--610, 2023, 
-  Nature Publishing Group UK London.,
-  doi = {10.31234/osf.io/bwv58}
-
-
-%Type = Article
-\bibitem[Jespersen et~al.(2015)]{jespersen2015music}
-  Jespersen, K.V., Koenig, J., Jennum, P., Vuust, P., 
-  \textit{Music for insomnia in adults}, 
-  \textit{Cochrane Database of Systematic Reviews}, 2015.,
-  doi = {10.1002/14651858.cd010459.pub2}
-
-
-%Type = Inproceedings
-\bibitem[Jin et~al.(2019)]{jin2019contextplay}
-  Jin, Y., Htun, N.N., Tintarev, N., Verbert, K., 
-  \textit{Contextplay: Evaluating user control for context-aware music recommendation}, 
-  in: \textit{Proceedings of the 27th ACM Conference on User Modeling, Adaptation and Personalization}, pp. 294--302, 2019.,
-  doi = {10.1007/s11042-020-09890-7}
-
-
-%Type = Book
-\bibitem[Juslin and Sloboda(2011)]{juslin2011handbook}
-  Juslin, P.N., Sloboda, J., 
-  \textit{Handbook of music and emotion: Theory, research, applications}, 
-  Oxford University Press, 2011.,
-  doi = {10.1093/acprof:oso/9780199230143.001.0001}
-
-
-%Type = Article
-\bibitem[Kabuk et~al.(2022)]{kabuk2022effect}
-  Kabuk, A., {\c{S}}endir, M., Filinte, G., 
-  \textit{The effect of reflexology massage and passive music therapy intervention before burn dressing on pain, anxiety level and sleep quality}, 
-  \textit{Burns}, vol. 48, pp. 1743--1752, 2022.,
-  doi = {10.1016/j.burns.2021.10.012}
-
-
-%Type = Article
-\bibitem[Kahn et~al.(2013)]{kahn2013sleep}
-  Kahn, M., Sheppes, G., Sadeh, A., 
-  \textit{Sleep and emotions: bidirectional links and underlying mechanisms}, 
-  \textit{International Journal of Psychophysiology}, vol. 89, pp. 218--228, 2013.,
-  doi = {10.1016/j.ijpsycho.2013.05.010}
-
-
-%Type = Article
-\bibitem[Kallinen and Ravaja(2006)]{kallinen2006emotion}
-  Kallinen, K., Ravaja, N., 
-  \textit{Emotion perceived and emotion felt: Same and different}, 
-  \textit{Musicae Scientiae}, vol. 10, pp. 191--213, 2006.,
-  doi = {10.1177/10298649020050s105}
-
-
-%Type = Article
-\bibitem[Kaminskas and Ricci(2012)]{kaminskas2012contextual}
-  Kaminskas, M., Ricci, F., 
-  \textit{Contextual music information retrieval and recommendation: State of the art and challenges}, 
-  \textit{Computer Science Review}, vol. 6, pp. 89--119, 2012.,
-  doi = {10.1016/j.cosrev.2012.04.002}
-
-
-%Type = Incollection
-\bibitem[Kle{\'c} and Wieczorkowska(2021)]{klec2021music}
-  Kle{\'c}, M., Wieczorkowska, A., 
-  \textit{Music recommendation systems: a survey}, in: \textit{Recommender Systems for Medicine and Music}, Springer, pp. 107--118, 2021.,
-  doi = {10.1007/978-3-030-66450-3_7}
-
-
-%Type = Article
-\bibitem[Knijnenburg et~al.(2012)]{knijnenburg2012explaining}
-  Knijnenburg, B.P., Willemsen, M.C., Gantner, Z., Soncu, H., Newell, C., 
-  \textit{Explaining the user experience of recommender systems}, 
-  \textit{User Modeling and User-Adapted Interaction}, vol. 22, pp. 441--504, 2012.,
-  doi = {10.1007/s11257-011-9118-4}
-
-
-%Type = Article
-\bibitem[Koenig et~al.(2013)]{koenig2013music}
-  Koenig, J., Jarczok, M., Warth, M., Harmat, L., Hesse, N., Jespersen, K., Thayer, J.F., Hillecke, T., 
-  \textit{Music listening has no positive or negative effects on sleep quality of normal sleepers: Results of a randomized controlled trial}, 
-  \textit{Nordic Journal of Music Therapy}, vol. 22, pp. 233--242, 2013.,
-  doi = {10.1080/08098131.2013.783095}
-
-
-%Type = Phdthesis
-\bibitem[Kolesnik(2014)]{kolesnik2014music}
-  Kolesnik, M., 
-  \textit{Music therapy in the alleviation of the first night effect}, 
-  Ph.D. thesis, Boston University, 2014.,
-  doi = {10.1017/s1092852923004509}
-
-
-%Type = Article
-\bibitem[Konstan and Riedl(2012)]{konstan2012recommender}
-  Konstan, J.A., Riedl, J., 
-  \textit{Recommender systems: from algorithms to user experience}, 
-  \textit{User Modeling and User-Adapted Interaction}, vol. 22, pp. 101--123, 2012.,
-  doi = {10.1007/s11257-011-9112-x}
-
-
-%Type = Article
-\bibitem[Kubo et~al.(2007)]{kubo2007impact}
-  Kubo, T., Takeyama, H., Matsumoto, S., Ebara, T., Murata, K., Tachi, N., Itani, T., 
-  \textit{Impact of nap length, timing, and sleep quality on sustaining early morning performance}, 
-  \textit{Industrial Health}, vol. 45, pp. 552--563, 2007.,
-  doi = {10.2486/indhealth.45.552}
-
-
-%Type = Article
-\bibitem[Kulkarni and Rodd(2020)]{kulkarni2020context}
-  Kulkarni, S., Rodd, S.F., 
-  \textit{Context aware recommendation systems: A review of the state of the art techniques}, 
-  \textit{Computer Science Review}, vol. 37, p. 100255, 2020.,
-  doi = {10.1016/j.cosrev.2020.100255}
-
-
-%Type = Article
-\bibitem[Kuula et~al.(2020)]{kuula2020effects}
-  Kuula, L., Halonen, R., Kajanto, K., Lipsanen, J., Makkonen, T., Peltonen, M., Pesonen, A.K., 
-  \textit{The effects of presleep slow breathing and music listening on polysomnographic sleep measures--a pilot trial}, 
-  \textit{Scientific Reports}, vol. 10, p. 7427, 2020.,
-  doi = {10.1038/s41598-020-64218-7}
-
-
-%Type = Article
-\bibitem[Lai and Good(2006)]{lai2006music}
-  Lai, H.L., Good, M., 
-  \textit{Music improves sleep quality in older adults}, 
-  \textit{Journal of Advanced Nursing}, vol. 53, pp. 134--144, 2006.,
-  doi = {10.1111/j.1365-2648.2004.03281.x}
-
-
-%Type = Article
-\bibitem[Lazic and Ogilvie(2007)]{lazic2007lack}
-  Lazic, S.E., Ogilvie, R.D., 
-  \textit{Lack of efficacy of music to improve sleep: a polysomnographic and quantitative EEG analysis}, 
-  \textit{International Journal of Psychophysiology}, vol. 63, pp. 232--239, 2007.,
-  doi = {10.1016/j.ijpsycho.2006.10.004}
-
-
-%Type = Inproceedings
-\bibitem[Lehtiniemi and Holm(2012)]{lehtiniemi2012using}
-  Lehtiniemi, A., Holm, J., 
-  \textit{Using animated mood pictures in music recommendation}, 
-  in: \textit{2012 16th International Conference on Information Visualisation}, IEEE, pp. 143--150, 2012.,
-  doi = {10.1109/iv.2012.34}
-
-
-%Type = Article
-\bibitem[Liang and Willemsen(2021)]{liang2021interactive}
-  Liang, Y., Willemsen, M.C., 
-  \textit{Interactive music genre exploration with visualization and mood control}, 
-  \textit{Proceedings of the 26th International Conference on Intelligent User Interfaces}, pp. 175--185, 2021.,
-  doi = {10.1145/3397481.3450700}
-
-
-%Type = Article
-\bibitem[Liang(2022)]{liang2022context}
-  Liang, Z., 
-  \textit{Context-aware sleep health recommender systems (CASHRS): A narrative review}, 
-  \textit{Electronics}, vol. 11, p. 3384, 2022.,
-  doi = {10.20944/preprints202205.0029.v1}
-
-
-%Type = Article
-\bibitem[Liikkanen and {\AA}man(2016)]{liikkanen2016shuffling}
-  Liikkanen, L.A., {\AA}man, P., 
-  \textit{Shuffling services: Current trends in interacting with digital music}, 
-  \textit{Interacting with Computers}, vol. 28, pp. 352--371, 2016.,
-  doi = {10.1093/iwc/iwv004}
-
-
-%Type = Article
-\bibitem[Lovato and Lack(2010)]{lovato2010effects}
-  Lovato, N., Lack, L., 
-  \textit{The effects of napping on cognitive functioning}, 
-  \textit{Progress in Brain Research}, vol. 185, pp. 155--166, 2010.,
-  doi = {10.1016/b978-0-444-53702-7.00009-9}
-
-
-%Type = Article
-\bibitem[Lozano~Murciego et~al.(2021)]{lozano2021context}
-  Lozano~Murciego, {\'{A}}., Jim{\'e}nez-Bravo, D.M., Valera~Rom{\'a}n, A., De~Paz~Santana, J.F., Moreno-Garc{\'\i}a, M.N., 
-  \textit{Context-aware recommender systems in the music domain: A systematic literature review}, 
-  \textit{Electronics}, vol. 10, p. 1555, 2021.,
-  doi = {10.3390/electronics10131555}
-
-
-%Type = Article
-\bibitem[Maestre et~al.(2017)]{maestre2017enriched}
-  Maestre, E., Papiotis, P., Marchini, M., Llimona, Q., Mayor, O., P{\'e}rez, A., Wanderley, M.M., 
-  \textit{Enriched multimodal representations of music performances: Online access and visualization}, 
-  \textit{IEEE Multimedia}, vol. 24, pp. 24--34, 2017.,
-  doi = {10.1109/mmul.2017.3}
-
-
-%Type = Article
-\bibitem[Majeed et~al.(2021)]{majeed2021does}
-  Majeed, N.M., Lua, V.Y., Chong, J.S., Lew, Z., Hartanto, A., 
-  \textit{Does bedtime music listening improve subjective sleep quality and next-morning well-being in young adults? A randomized cross-over trial}, 
-  \textit{Psychomusicology: Music, Mind, and Brain}, vol. 31, p. 149, 2021.,
-  doi = {10.1037/pmu0000283}
-
-
-%Type = Article
-\bibitem[McCrae and John(1992)]{mccrae1992introduction}
-  McCrae, R.R., John, O.P., 
-  \textit{An introduction to the five-factor model and its applications}, 
-  \textit{Journal of Personality}, vol. 60, pp. 175--215, 1992.,
-  doi = {10.1111/j.1467-6494.1992.tb00970.x}
-
-
-%Type = Book
-\bibitem[Meyer(2008)]{meyer2008emotion}
-  Meyer, L.B., 
-  \textit{Emotion and meaning in music}, 
-  University of Chicago Press, 2008.,
-  doi = {10.1111/j.0021-8529.2004.00155.x}
-
-
-%Type = Article
-\bibitem[Mollayeva et~al.(2016)]{mollayeva2016pittsburgh}
-  Mollayeva, T., Thurairajah, P., Burton, K., Mollayeva, S., Shapiro, C.M., Colantonio, A., 
-  \textit{The Pittsburgh sleep quality index as a screening tool for sleep dysfunction in clinical and non-clinical samples: A systematic review and meta-analysis}, 
-  \textit{Sleep Medicine Reviews}, vol. 25, pp. 52--73, 2016.,
-  doi = {10.1016/j.sleep.2015.02.156}
-
-
-%Type = Article
-\bibitem[Moore(2013)]{moore2013systematic}
-  Moore, K.S., 
-  \textit{A systematic review on the neural effects of music on emotion regulation: Implications for music therapy practice}, 
-  \textit{Journal of Music Therapy}, vol. 50, pp. 198--242, 2013.,
-  doi = {10.1093/jmt/50.3.198}
-
-
-%Type = Article
-\bibitem[Morin et~al.(2006)]{morin2006epidemiology}
-  Morin, C.M., LeBlanc, M., Daley, M., Gregoire, J., Merette, C., 
-  \textit{Epidemiology of insomnia: prevalence, self-help treatments, consultations, and determinants of help-seeking behaviors}, 
-  \textit{Sleep Medicine}, vol. 7, pp. 123--130, 2006.,
-  doi = {10.1016/j.sleep.2005.08.008}
-
-
-%Type = Article
-\bibitem[North and Hargreaves(1996)]{north1996situational}
-  North, A.C., Hargreaves, D.J., 
-  \textit{Situational influences on reported musical preference}, 
-  \textit{Psychomusicology: A Journal of Research in Music Cognition}, vol. 15, p. 30, 1996.,
-  doi = {10.1037/h0094081}
-
-
-%Type = Article
-\bibitem[Ottoni et~al.(2011)]{ottoni2011association}
-  Ottoni, G.L., Lorenzi, T.M., Lara, D.R., 
-  \textit{Association of temperament with subjective sleep patterns}, 
-  \textit{Journal of Affective Disorders}, vol. 128, no. 1-2, pp. 120--127, 2011.,
-  doi = {10.1016/j.jad.2010.06.014}
-
-
-%Type = Article
-\bibitem[Polignano et~al.(2021)]{polignano2021towards}
-  Polignano, M., Narducci, F., de~Gemmis, M., Semeraro, G., 
-  \textit{Towards emotion-aware recommender systems: an affective coherence model based on emotion-driven behaviours}, 
-  \textit{Expert Systems with Applications}, vol. 170, p. 114382, 2021.,
-  doi = {10.1016/j.eswa.2020.114382}
-
-
-%Type = Article
-\bibitem[Prey(2019)]{prey2019knowing}
-  Prey, R., 
-  \textit{Knowing me, knowing you: Datafication on music streaming platforms}, 
-  \textit{Big Data und Musik: Jahrbuch für Musikwirtschafts- und Musikkulturforschung 1/2018}, pp. 9--21, 2019.,
-  doi = {10.1007/978-3-658-21220-9_2}
-
-
-%Type = Inproceedings
-\bibitem[Pu et~al.(2011)]{pu2011user}
-  Pu, P., Chen, L., Hu, R., 
-  \textit{A user-centric evaluation framework for recommender systems}, in: \textit{Proceedings of the Fifth ACM Conference on Recommender Systems}, pp. 157--164, 2011.,
-  doi = {10.1007/978-3-642-12630-7_47}
-
-
-%Type = Book
-\bibitem[Ras and Wieczorkowska(2010)]{ras2010advances}
-  Ras, Z.W., Wieczorkowska, A., 
-  \textit{Advances in music information retrieval}, vol. 274, Springer, 2010.,
-  doi = {10.1007/978-3-642-11674-2}
-
-
-%Type = Article
-\bibitem[Rentfrow and Gosling(2003)]{rentfrow2003re}
-  Rentfrow, P.J., Gosling, S.D., 
-  \textit{The do re mi's of everyday life: the structure and personality correlates of music preferences}, 
-  \textit{Journal of Personality and Social Psychology}, vol. 84, p. 1236, 2003.,
-  doi = {10.1037/0022-3514.84.6.1236}
-
-
-%Type = Article
-\bibitem[Rentfrow and McDonald(2010)]{rentfrow2010preference}
-  Rentfrow, P.J., McDonald, J.A., 
-  \textit{Preference, personality, and emotion}, 2010.,
-  doi = {10.1093/acprof:oso/9780199230143.003.0024}
-
-
-%Type = Article
-\bibitem[Riedy et~al.(2021)]{riedy2021noise}
-  Riedy, S.M., Smith, M.G., Rocha, S., Basner, M., 
-  \textit{Noise as a sleep aid: A systematic review}, 
-  \textit{Sleep Medicine Reviews}, vol. 55, p. 101385, 2021.,
-  doi = {10.1016/j.smrv.2020.101385}
-
-
-%Type = Article
-\bibitem[Russell(1980)]{russell1980circumplex}
-  Russell, J.A., 
-  \textit{A circumplex model of affect}, 
-  \textit{Journal of Personality and Social Psychology}, vol. 39, p. 1161, 1980.,
-  doi = {10.1037/h0077714}
-
-
-%Type = Article
-\bibitem[Schedl et~al.(2017)]{schedl2017interrelation}
-  Schedl, M., Gomez, E., Trent, E.S., Tkal{\v{c}}i{\v{c}}, M., Eghbal-Zadeh, H., Martorell, A., 
-  \textit{On the interrelation between listener characteristics and the perception of emotions in classical orchestra music}, 
-  \textit{IEEE Transactions on Affective Computing}, vol. 9, pp. 507--525, 2017.,
-  doi = {10.1109/taffc.2017.2663421}
-
-
-%Type = Article
-\bibitem[Schedl et~al.(2015)]{schedl2015music}
-  Schedl, M., Knees, P., McFee, B., Bogdanov, D., Kaminskas, M., 
-  \textit{Music recommender systems}, 
-  \textit{Recommender Systems Handbook}, pp. 453--492, 2015.,
-  doi = {10.4135/9781483317731.n497}
-
-
-%Type = Article
-\bibitem[Schedl et~al.(2018)]{schedl2018current}
-  Schedl, M., Zamani, H., Chen, C.W., Deldjoo, Y., Elahi, M., 
-  \textit{Current challenges and visions in music recommender systems research}, 
-  \textit{International Journal of Multimedia Information Retrieval}, vol. 7, pp. 95--116, 2018.,
-  doi = {10.1007/s13735-018-0154-2}
-
-
-%Type = Article
-\bibitem[Scherer(2004)]{scherer2004emotions}
-  Scherer, K.R., 
-  \textit{Which emotions can be induced by music? What are the underlying mechanisms? And how can we measure them?}, 
-  \textit{Journal of New Music Research}, vol. 33, pp. 239--251, 2004.,
-  doi = {10.1080/0929821042000317822}
-
-
-%Type = Article
-\bibitem[Scherer et~al.(2000)]{scherer2000psychological}
-  Scherer, K.R., et~al., 
-  \textit{Psychological models of emotion}, 
-  \textit{The Neuropsychology of Emotion}, vol. 137, pp. 137--162, 2000.,
-  doi = {10.18653/v1/2021.naacl-main.230}
-
-
-%Type = Inproceedings
-\bibitem[Semertzidis et~al.(2019)]{semertzidis2019towards}
-  Semertzidis, N.A., Sargeant, B., Dwyer, J., Mueller, F.F., Zambetta, F., 
-  \textit{Towards understanding the design of positive pre-sleep through a neurofeedback artistic experience}, in: \textit{Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems}, pp. 1--14, 2019.,
-  doi = {10.1145/3290605.3300804}
-
-
-%Type = Inproceedings
-\bibitem[Sen and Larson(2015)]{sen2015sensors}
-  Sen, A., Larson, M.A., 
-  \textit{From sensors to songs: A learning-free novel music recommendation system using contextual sensor data}, in: \textit{LocalRec@ RecSys}, pp. 40--43, 2015.,
-  doi = {10.1109/icce.2019.8662028}
-
-
-%Type = Inproceedings
-\bibitem[Shen et~al.(2020)]{shen2020peia}
-  Shen, T., Jia, J., Li, Y., Ma, Y., Bu, Y., Wang, H., Chen, B., Chua, T.S., Hall, W., 
-  \textit{Peia: Personality and emotion integrated attentive model for music recommendation on social media platforms}, in: \textit{Proceedings of the AAAI Conference on Artificial Intelligence}, pp. 206--213, 2020.,
-  doi = {10.1609/aaai.v34i01.5352}
-
-
-%Type = Article
-\bibitem[Shum et~al.(2014)]{shum2014effects}
-  Shum, A., Taylor, B.J., Thayala, J., Chan, M.F., 
-  \textit{The effects of sedative music on sleep quality of older community-dwelling adults in Singapore}, 
-  \textit{Complementary Therapies in Medicine}, vol. 22, pp. 49--56, 2014.,
-  doi = {10.1016/j.ctim.2013.11.003}
-
-
-%Type = Article
-\bibitem[Snyder(1997)]{snyder1997expressive}
-  Snyder, B.A., 
-  \textit{Expressive art therapy techniques: Healing the soul through creativity}, 
-  \textit{The Journal of Humanistic Education and Development}, vol. 36, pp. 74--82, 1997.,
-  doi = {10.1002/j.2164-4683.1997.tb00375.x}
-
-
-%Type = Inproceedings
-\bibitem[Soleymani et~al.(2013)]{soleymani20131000}
-  Soleymani, M., Caro, M.N., Schmidt, E.M., Sha, C.Y., Yang, Y.H., 
-  \textit{1000 songs for emotional analysis of music}, in: \textit{Proceedings of the 2nd ACM International Workshop on Crowdsourcing for Multimedia}, pp. 1--6, 2013.,
-  doi = {10.1145/2506364.2506365}
-
-
-%Type = Article
-\bibitem[Song et~al.(2016)]{song2016perceived}
-  Song, Y., Dixon, S., Pearce, M.T., Halpern, A.R., 
-  \textit{Perceived and induced emotion responses to popular music: Categorical and dimensional models}, 
-  \textit{Music Perception: An Interdisciplinary Journal}, vol. 33, pp. 472--492, 2016.,
-  doi = {10.1525/mp.2016.33.4.472}
-
-
-%Type = Article
-\bibitem[Sutin et~al.(2020)]{sutin2020personality}
-  Sutin, A.R., Gamaldo, A.A., Stephan, Y., Strickhouser, J.E., Terracciano, A., 
-  \textit{Personality traits and the subjective and objective experience of sleep}, 
-  \textit{International Journal of Behavioral Medicine}, vol. 27, pp. 481--485, 2020.,
-  doi = {10.1007/s12529-019-09828-w}
-
-
-%Type = Inproceedings
-\bibitem[Tai and Lin(2018)]{tai2018influence}
-  Tai, S.K., Lin, Y.K., 
-  \textit{The influence of different kinds of music on brainwave signals}, in: \textit{2018 IEEE International Conference on Advanced Manufacturing (ICAM)}, IEEE, pp. 223--226, 2018.,
-  doi = {10.1109/amcon.2018.8614971}
-
-
-%Type = Article
-\bibitem[Talbot et~al.(2009)]{talbot2009effect}
-  Talbot, L.S., Hairston, I.S., Eidelman, P., Gruber, J., Harvey, A.G., 
-  \textit{The effect of mood on sleep onset latency and REM sleep in interepisode bipolar disorder}, 
-  \textit{Journal of Abnormal Psychology}, vol. 118, no. 3, pp. 448, 2009.,
-  doi = {10.1037/a0016605}
-
-
-%Type = Article
-\bibitem[Tan(2004)]{tan2004effects}
-  Tan, L.P., 
-  \textit{The effects of background music on quality of sleep in elementary school children}, 
-  \textit{Journal of Music Therapy}, vol. 41, pp. 128--150, 2004.,
-  doi = {10.1093/jmt/41.2.128}
-
-
-%Type = Article
-\bibitem[Tan et~al.(2012)]{tan2012interplay}
-  Tan, X., Yowler, C.J., Super, D.M., Fratianne, R.B., 
-  \textit{The interplay of preference, familiarity and psychophysical properties in defining relaxation music}, 
-  \textit{Journal of Music Therapy}, vol. 49, pp. 150--179, 2012.,
-  doi = {10.1093/jmt/49.2.150}
-
-
-%Type = Article
-\bibitem[Tang et~al.(2021)]{tang2021efficacy}
-  Tang, H., Chen, L., Wang, Y., Zhang, Y., Yang, N., Yang, N., 
-  \textit{Music therapy's efficacy in relieving pain, anxiety, and promoting sleep quality, in patients with small cell lung cancer receiving platinum-based chemotherapy}, 
-  \textit{Supportive Care in Cancer}, vol. 29, pp. 7299--7306, 2021.,
-  doi = {10.1007/s00520-021-06152-6}
-
-
-%Type = Article
-\bibitem[Tenera(2021)]{tenera2021towards}
-  Tenera, J.A.M., 
-  \textit{Towards context-aware recommendation systems in music streaming platforms}, 2021.,
-  doi = {10.1016/j.knosys.2016.04.020}
-
-
-%Type = Article
-\bibitem[Ten~Brink et~al.(2022)]{ten2022sleep}
-  Ten~Brink, M., Dietch, J.R., Tutek, J., Suh, S.A., Gross, J.J., Manber, R., 
-  \textit{Sleep and affect: A conceptual review}, 
-  \textit{Sleep Medicine Reviews}, p. 101670, 2022.,
-  doi = {10.31234/osf.io/y74fd}
-
-
-%Type = Article
-\bibitem[Thoma et~al.(2012)]{thoma2012emotion}
-  Thoma, M.V., Ryf, S., Mohiyeddini, C., Ehlert, U., Nater, U.M., 
-  \textit{Emotion regulation through listening to music in everyday situations}, 
-  \textit{Cognition \& Emotion}, vol. 26, pp. 550--560, 2012.,
-  doi = {10.1080/02699931.2011.595390}
-
-
-%Type = Article
-\bibitem[Tietzel and Lack(2001)]{tietzel2001short}
-  Tietzel, A.J., Lack, L.C., 
-  \textit{The short-term benefits of brief and long naps following nocturnal sleep restriction}, 
-  \textit{Sleep}, vol. 24, pp. 293--300, 2001.,
-  doi = {10.1093/sleep/24.3.293}
-
-
-%Type = Inproceedings
-\bibitem[Tintarev and Masthoff(2007)]{tintarev2007survey}
-  Tintarev, N., Masthoff, J., 
-  \textit{A survey of explanations in recommender systems}, in: \textit{2007 IEEE 23rd International Conference on Data Engineering Workshop}, IEEE, pp. 801--810, 2007.,
-  doi = {10.1109/icdew.2007.4401070}
-
-
-%Type = Incollection
-\bibitem[Tintarev and Masthoff(2010)]{tintarev2010designing}
-  Tintarev, N., Masthoff, J., 
-  \textit{Designing and evaluating explanations for recommender systems}, in: \textit{Recommender Systems Handbook}, Springer, pp. 479--510, 2010.,
-  doi = {10.1007/978-0-387-85820-3_15}
-
-
-%Type = Article
-\bibitem[Trahan et~al.(2018)]{trahan2018music}
-  Trahan, T., Durrant, S.J., M{\"u}llensiefen, D., Williamson, V.J., 
-  \textit{The music that helps people sleep and the reasons they believe it works: A mixed methods analysis of online survey reports}, 
-  \textit{PloS One}, vol. 13, p. e0206531, 2018.,
-  doi = {10.1371/journal.pone.0206531}
-
-
-%Type = Article
-\bibitem[Vandekerckhove and Cluydts(2010)]{vandekerckhove2010emotional}
-  Vandekerckhove, M., Cluydts, R., 
-  \textit{The emotional brain and sleep: An intimate relationship}, 
-  \textit{Sleep Medicine Reviews}, vol. 14, pp. 219--226, 2010.,
-  doi = {10.1016/j.smrv.2010.01.002}
-
-
-%Type = Article
-\bibitem[Van~Goethem and Sloboda(2011)]{van2011functions}
-  Van~Goethem, A., Sloboda, J., 
-  \textit{The functions of music for affect regulation}, 
-  \textit{Musicae Scientiae}, vol. 15, pp. 208--228, 2011.,
-  doi = {10.1177/1029864911401174}
-
-
-%Type = Article
-\bibitem[Vuoskoski and Eerola(2011)]{vuoskoski2011measuring}
-  Vuoskoski, J.K., Eerola, T., 
-  \textit{Measuring music-induced emotion: A comparison of emotion models, personality biases, and intensity of experiences}, 
-  \textit{Musicae Scientiae}, vol. 15, pp. 159--173, 2011.,
-  doi = {10.1177/102986491101500203}
-
-
-%Type = Inproceedings
-\bibitem[Völkel et~al.(2021)]{volkel2021eliciting}
-  Völkel, S.T., Buschek, D., Eiband, M., Cowan, B.R., Hussmann, H., 
-  \textit{Eliciting and analysing users’ envisioned dialogues with perfect voice assistants}, 
-  in: \textit{Proceedings of the 2021 CHI conference on human factors in computing systems}, 
-  ACM, pp. 1--15, 2021.,
-  doi = {10.1145/3411764.3445536}
-
-
-%Type = Article
-\bibitem[Watson et~al.(1988)]{watson1988development}
-  Watson, D., Clark, L.A., Tellegen, A., 
-  \textit{Development and validation of brief positive and negative affect measures: The PANAS scales}, 
-  \textit{Journal of Personality and Social Psychology}, vol. 54, pp. 1063, 1988.,
-  doi = {10.1037/0022-3514.54.6.1063}
-
-
-%Type = Book
-\bibitem[Wheeler(2015)]{wheeler2015music}
-  Wheeler, B.L., 
-  \textit{Music Therapy Handbook}, 
-  Guilford Publications, 2015.,
-  doi = {10.1093/jmt/thv007}
-
-
-%Type = Inproceedings
-\bibitem[Wood and Semwal(2015)]{wood2015exploring}
-  Wood, P.A., Semwal, S.K., 
-  \textit{On exploring the connection between music classification and evoking emotion}, in: \textit{2015 International Conference on Collaboration Technologies and Systems (CTS)}, IEEE, pp. 474--476, 2015.,
-  doi = {10.1109/cts.2015.7210471}
-
-
-%Type = Article
-\bibitem[Xu et~al.(2020)]{xu2020effect}
-  Xu, X., Cai, J., Yu, N., Yang, Y., Li, X., 
-  \textit{Effect of loudness and spectral centroid on the music masking of low frequency noise from road traffic}, 
-  \textit{Applied Acoustics}, vol. 166, pp. 107343, 2020, Elsevier.,
-  doi = {10.1016/j.apacoust.2020.107343}
-
-
-%Type = Article
-\bibitem[Xue et~al.(2018)]{xue2018influence}
-  Xue, C., Li, T., Yin, S., Zhu, X., Tan, Y., 
-  \textit{The influence of induced mood on music preference}, 
-  \textit{Cognitive Processing}, vol. 19, pp. 517--525, 2018.,
-  doi = {10.1007/s10339-018-0872-7}
-
-
-%Type = Inproceedings
-\bibitem[Yang et~al.(2016)]{yang2016emotion}
-  Yang, J., Chae, W., Kim, S., Choi, H., 
-  \textit{Emotion-aware music recommendation}, in: \textit{Design, User Experience, and Usability: Novel User Experiences: 5th International Conference, DUXU 2016, Held as Part of HCI International 2016, Toronto, Canada, July 17--22, 2016, Proceedings, Part II}, Springer, pp. 110--121, 2016.,
-  doi = {10.1609/aaai.v37i13.26911}
-
-
-%Type = Article
-\bibitem[Yoon and Baek(2022)]{yoon2022external}
-  Yoon, H., Baek, H.J., 
-  \textit{External auditory stimulation as a non-pharmacological sleep aid}, 
-  \textit{Sensors}, vol. 22, p. 1264, 2022.,
-  doi = {10.3390/s22031264}
-
-
-%Type = Article
-\bibitem[Yoon et~al.(2012)]{yoon2012music}
-  Yoon, K., Lee, J., Kim, M.U., 
-  \textit{Music recommendation system using emotion triggering low-level features}, 
-  \textit{IEEE Transactions on Consumer Electronics}, vol. 58, pp. 612--618, 2012.,
-  doi = {10.1109/tce.2012.6227467}
-
-
-%Type = Article
-\bibitem[Zentner et~al.(2008)]{zentner2008emotions}
-  Zentner, M., Grandjean, D., Scherer, K.R., 
-  \textit{Emotions evoked by the sound of music: Characterization, classification, and measurement}, 
-  \textit{Emotion}, vol. 8, p. 494, 2008.,
-  doi = {10.1037/1528-3542.8.4.494}
-
-
-%Type = Inproceedings
-\bibitem[Zhang et~al.(2018)]{zhang2018pmemo}
-  Zhang, K., Zhang, H., Li, S., Yang, C., Sun, L., 
-  \textit{The PMemo dataset for music emotion recognition}, in: \textit{Proceedings of the 2018 ACM on International Conference on Multimedia Retrieval}, pp. 135--142, 2018.,
-  doi = {10.1145/3206025.3206037}
+@article{kasneci2023chatgpt,
+  title={ChatGPT for good? On opportunities and challenges of large language models for education},
+  author={Kasneci, Enkelejda and Se{\ss}ler, Kathrin and K{\"u}chemann, Stefan and Bannert, Maria and Dementieva, Daryna and Fischer, Frank and Gasser, Urs and Groh, Georg and G{\"u}nnemann, Stephan and H{\"u}llermeier, Eyke and others},
+  journal={Learning and individual differences},
+  volume={103},
+  pages={102274},
+  year={2023},
+  publisher={Elsevier}
+},
+  doi = {10.35542/osf.io/5er8f}
+
+
+@article{liu2023summary,
+  title={Summary of chatgpt-related research and perspective towards the future of large language models},
+  author={Liu, Yiheng and Han, Tianle and Ma, Siyuan and Zhang, Jiayue and Yang, Yuanyuan and Tian, Jiaming and He, Hao and Li, Antong and He, Mengshen and Liu, Zhengliang and others},
+  journal={Meta-Radiology},
+  pages={100017},
+  year={2023},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.metrad.2023.100017}
+
+
+@article{10.1145/3686963,
+author = {Lassiter, Tina B. and Fleischmann, Kenneth R.},
+title = {"Something Fast and Cheap" or "A Core Element of Building Trust"? - AI Auditing Professionals' Perspectives on Trust in AI},
+year = {2024},
+issue_date = {November 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {8},
+number = {CSCW2},
+url = {https://doi.org/10.1145/3686963},
+doi = {10.1145/3686963},
+abstract = {Artificial Intelligence (AI) auditing is a relatively new area of work. Currently, there is a lack of uniform standards and regulation. As a result, the AI auditing ecosystem is very diverse, and AI auditing professionals use a variety of different auditing methods. So far, little is known about how AI auditors approach the concept of trust in AI through AI audits, in particular regarding the trust of users. This paper reports findings from interviews with 19 AI auditing stakeholders to understand how AI auditing professionals seek to create calibrated trust in AI tools and AI audits. Themes identified included the AI auditing ecosystem, participants' experiences with AI auditing, and trust in AI audits and AI. The paper adds to the existing research on trust in AI and trustworthiness in AI by adding perspectives of key stakeholders regarding trust in AI Audits by users as an essential and currently less explored part of the trust in AI research. This paper shows how information asymmetry in respect to AI audits can decrease the value of audits for users and consequently their trust in AI systems. Study participants suggest key elements for rebuilding trust and suggest recommendations for the AI auditing industry, such as monitoring of auditors and effective communication about AI audits.},
+journal = {Proc. ACM Hum.-Comput. Interact.},
+month = nov,
+articleno = {424},
+numpages = {22},
+keywords = {ai auditing, ai auditors, ai users, qualitative field research, trust in ai-based systems}
+},
+  doi = {10.1093/owc/9780199553877.003.0002}
+
+
+@book{axelrod1981role,
+  title={Role of volcanism in climate and evolution},
+  author={Axelrod, Daniel I},
+  volume={185},
+  year={1981},
+  publisher={Geological Society of America}
+},
+  doi = {10.1130/spe185-p1}
+
+
+@article{Song2024A,title={A High-Quality Generation Approach for Educational Programming Projects Using LLM},author={Tian Song and Hang Zhang and Yijia Xiao},journal={IEEE Transactions on Learning Technologies},year={2024},volume={17},pages={2296-2309},doi={10.1109/TLT.2024.3499751}},
+  doi = {10.1109/tlt.2024.3499751}
+
+
+@article{Rizvi2023Exploring,title={Exploring the landscape of artificial intelligence in education: Challenges and opportunities},author={Mohammed Rizvi},journal={2023 5th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA)},year={2023},pages={01-03},doi={10.1109/HORA58378.2023.10156773}},
+  doi = {10.1109/hora58378.2023.10156773}
+
+
+@article{Hamdi2024How,title={How AI is Transforming and Shaping the Future of Education},author={Mounir Hamdi},journal={2024 IEEE 28th International Conference on Intelligent Engineering Systems (INES)},year={2024},pages={000115-000116},doi={10.1109/ines63318.2024.10629089}},
+  doi = {10.1109/ines63318.2024.10629089}
+
+
+@article{An2024Developing,title={Developing an LLM-Empowered Agent to Enhance Student Collaborative Learning Through Group Discussion},author={Sixu An and Yicong Li and Yunsi Ma and Gary Cheng and Guandong Xu},journal={International Conference on Computers in Education},year={2024},doi={10.58459/icce.2024.4953}},
+  doi = {10.58459/icce.2024.4953}
+
+
+@article{oh2018systematic,
+  title={A systematic review of social presence: Definition, antecedents, and implications},
+  author={Oh, Catherine S and Bailenson, Jeremy N and Welch, Gregory F},
+  journal={Frontiers in Robotics and AI},
+  volume={5},
+  pages={114},
+  year={2018},
+  publisher={Frontiers Media SA}
+},
+  doi = {10.3389/frobt.2018.00114}
+
+
+@article{alicke2009self,
+  title={Self-enhancement and self-protection: What they are and what they do},
+  author={Alicke, Mark D and Sedikides, Constantine},
+  journal={European review of social psychology},
+  volume={20},
+  number={1},
+  pages={1--48},
+  year={2009},
+  publisher={Taylor \& Francis}
+},
+  doi = {10.1080/10463280802613866}
+
+
+@article{Vaccaro2024When,title={When combinations of humans and AI are useful: A systematic review and meta-analysis},author={Michelle Vaccaro and Abdullah Almaatouq and Thomas W. Malone},journal={Nature Human Behaviour},year={2024},volume={8},pages={2293 - 2303},doi={10.1038/s41562-024-02024-1}},
+  doi = {10.1038/s41562-024-02024-1}
+
+
+@article{rudin2019we,
+  title={Why are we using black box models in AI when we don’t need to? A lesson from an explainable AI competition},
+  author={Rudin, Cynthia and Radin, Joanna},
+  journal={Harvard Data Science Review},
+  volume={1},
+  number={2},
+  pages={1--9},
+  year={2019},
+  publisher={The MIT Press}
+},
+  doi = {10.1162/99608f92.5a8a3a3d}
+
+
+@article{Dignum2018Ethics,title={Ethics in artificial intelligence: introduction to the special issue},author={Virginia Dignum},journal={Ethics and Information Technology},year={2018},volume={20},pages={1 - 3},doi={10.1007/s10676-018-9450-z}},
+  doi = {10.1007/s10676-018-9450-z}
+
+
+@article{Endsley2023Supporting,title={Supporting Human-AI Teams: Transparency, explainability, and situation awareness},author={M. Endsley},journal={Comput. Hum. Behav.},year={2023},volume={140},pages={107574},doi={10.1016/j.chb.2022.107574}},
+  doi = {10.1016/j.chb.2022.107574}
+
+
+@article{Gambino2020Building,title={Building a Stronger CASA: Extending the Computers Are Social Actors Paradigm},author={Andrew Gambino and Jesse Fox and R. Ratan},year={2020},volume={1},pages={71-86},doi={10.30658/hmc.1.5}},
+  doi = {10.30658/hmc.1.5}
+
+
+@article{Cohn2024Believing,title={Believing Anthropomorphism: Examining the Role of Anthropomorphic Cues on Trust in Large Language Models},author={Michelle Cohn and Mahima Pushkarna and Gbolahan O. Olanubi and Joseph M. Moran and Daniel Padgett and Zion Mengesha and Courtney Heldreth},journal={Extended Abstracts of the CHI Conference on Human Factors in Computing Systems},year={2024},doi={10.1145/3613905.3650818}},
+  doi = {10.1145/3613905.3650818}
+
+
+@article{Liew2021Social,title={Social cues and implications for designing expert and competent artificial agents: A systematic review},author={Tze Wei Liew and Su-Mae Tan},journal={Telematics Informatics},year={2021},volume={65},pages={101721},doi={10.1016/j.tele.2021.101721}},
+  doi = {10.1016/j.tele.2021.101721}
+
+
+@article{sachin2024advice,
+  title={Advice Utilization in Combined Human-Algorithm Decision-Making: An Analysis of Preferences and Behaviors},
+  author={Sachin, Panda Kumar and Schecter, Aaron},
+  journal={Journal of the Association for Information Systems},
+  volume={25},
+  number={6},
+  pages={1439--1465},
+  year={2024}
+},
+  doi = {10.17705/1jais.00896}
+
+
+@article{jermutus2022influences,
+  title={Influences on user trust in healthcare artificial intelligence: A systematic review},
+  author={Jermutus, Eva and Kneale, Dylan and Thomas, James and Michie, Susan},
+  journal={Wellcome Open Research},
+  volume={7},
+  number={65},
+  pages={65},
+  year={2022},
+  publisher={F1000 Research Limited}
+},
+  doi = {10.12688/wellcomeopenres.17550.1}
+
+
+@article{xu2025enhancing,
+  title={Enhancing User Information Disclosure Intention in Dynamic Conversations of Intelligent Recommendation Systems Based on Large Language Models: A Perspective of User Gratification and Privacy Calculus},
+  author={Xu, Chunze and Gao, Fengqiang and Han, Lei},
+  journal={International Journal of Human-Computer Studies},
+  pages={103511},
+  year={2025},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.ijhcs.2025.103511}
+
+
+@article{Xi2024Enhancing,title={Enhancing or impeding? Exploring the dual impact of anthropomorphism in large language models on user aggression},author={Yipeng Xi and Aitong Ji and Weihua Yu},journal={Telematics Informatics},year={2024},volume={95},pages={102194},doi={10.1016/j.tele.2024.102194}},
+  doi = {10.1016/j.tele.2024.102194}
+
+
+@article{haesevoets2018behavioural,
+  title={Behavioural consistency within the prisoner's dilemma game: the role of personality and situation},
+  author={Haesevoets, Tessa and Reinders Folmer, Chris and Bostyn, Dries H and Van Hiel, Alain},
+  journal={European Journal of Personality},
+  volume={32},
+  number={4},
+  pages={405--426},
+  year={2018},
+  publisher={SAGE Publications Sage UK: London, England}
+},
+  doi = {10.1002/per.2158}
+
+
+@article{oskamp1971effects,
+  title={Effects of programmed strategies on cooperation in the Prisoner's Dilemma and other mixed-motive games},
+  author={Oskamp, Stuart},
+  journal={Journal of Conflict Resolution},
+  volume={15},
+  number={2},
+  pages={225--259},
+  year={1971},
+  publisher={Sage Publications Sage CA: Thousand Oaks, CA}
+},
+  doi = {10.1177/002200277101500207}
+
+
+@article{makovi2023trust,
+  title={Trust within human-machine collectives depends on the perceived consensus about cooperative norms},
+  author={Makovi, Kinga and Sargsyan, Anahit and Li, Wendi and Bonnefon, Jean-Fran{\c{c}}ois and Rahwan, Talal},
+  journal={Nature Communications},
+  volume={14},
+  number={1},
+  pages={3108},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+},
+  doi = {10.1038/s41467-023-38592-5}
+
+
+@article{burr2018analysis,
+  title={An analysis of the interaction between intelligent software agents and human users},
+  author={Burr, Christopher and Cristianini, Nello and Ladyman, James},
+  journal={Minds and machines},
+  volume={28},
+  number={4},
+  pages={735--774},
+  year={2018},
+  publisher={Springer}
+},
+  doi = {10.1007/s11023-018-9479-0}
+
+
+@article{ishowo2019behavioural,
+  title={Behavioural evidence for a transparency--efficiency tradeoff in human--machine cooperation},
+  author={Ishowo-Oloko, Fatimah and Bonnefon, Jean-Fran{\c{c}}ois and Soroye, Zakariyah and Crandall, Jacob and Rahwan, Iyad and Rahwan, Talal},
+  journal={Nature Machine Intelligence},
+  volume={1},
+  number={11},
+  pages={517--521},
+  year={2019},
+  publisher={Nature Publishing Group UK London}
+},
+  doi = {10.1038/s42256-019-0113-5}
+
+
+@article{ahn2022effect,
+  title={The effect of gender stereotypes on artificial intelligence recommendations},
+  author={Ahn, Jungyong and Kim, Jungwon and Sung, Yongjun},
+  journal={Journal of Business Research},
+  volume={141},
+  pages={50--59},
+  year={2022},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.jbusres.2021.12.007}
+
+
+@article{jang2022development,
+  title={Development and validation of an instrument to measure undergraduate students’ attitudes toward the ethics of artificial intelligence (AT-EAI) and analysis of its difference by gender and experience of AI education},
+  author={Jang, Yeonju and Choi, Seongyune and Kim, Hyeoncheol},
+  journal={Education and Information Technologies},
+  volume={27},
+  number={8},
+  pages={11635--11667},
+  year={2022},
+  publisher={Springer}
+},
+  doi = {10.1007/s10639-022-11086-5}
+
+
+@inproceedings{10.1145/3678698.3678700,
+author = {Jiang, Guanxuan and Wang, Yuyang and Li, Yue and Moosavi, Nafise Sadat and Hui, Pan},
+title = {Blending Social Interaction Realms: Harmonizing Online and Offline Interactions through Augmented Reality},
+year = {2024},
+isbn = {9798400709678},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3678698.3678700},
+doi = {10.1145/3678698.3678700},
+abstract = {Online social media has revolutionized human interaction by fostering unparalleled cooperation and connectivity, surpassing the bounds of conventional, location-based methods. Despite their inherent limitations—such as physical boundaries, ongoing maintenance expenses, and rigidity—traditional methods impart a vital local context often neglected by digital platforms, potentially overshadowing local environmental engagement in favor of broader online networks. To mitigate this imbalance, it is essential to revitalize the significance of location-specific interactions. Augmented Reality (AR) stands out as a powerful means to enhance the accessibility and allure of such engagements. In this context, our research involved a detailed review and synthesis of existing location-based interactive services, pinpointing prevalent obstacles as well as offering strategic recommendations. Building upon these findings, we innovated ARMessageBoard, a prototype fusing AR with users’ immediate surroundings to craft virtual message boards. Our within-subjects study comprised 15 participants with an average age of 21.2 years (SD=5.5), systematically comparing ARMessageBoard with standard location-based mechanisms. Furthermore, we deliberated how blending AR with online social media could positively influence the convergence of virtual and real-world interaction landscapes, potentially enriching the individual’s role in shaping socio-digital exchanges.},
+booktitle = {Proceedings of the 17th International Symposium on Visual Information Communication and Interaction},
+articleno = {23},
+numpages = {8},
+keywords = {Location-based interaction, Human-computer interaction, Augmented reality, Social media, Human behaviour},
+location = {
+},
+series = {VINCI '24}
+},
+  doi = {10.1093/benz/9780199773787.article.b00194271}
+
+
+@article{seppala2015proof,
+  title={Proof that positive work cultures are more productive},
+  author={Seppala, Emma and Cameron, Kim},
+  journal={Harvard Business Review},
+  volume={12},
+  number={1},
+  pages={44--50},
+  year={2015}
+},
+  doi = {10.1007/bf00733089}
+
+
+@article{renz2024me,
+  title={Me, myself and AI: How gender, personality and emotions determine willingness to use Strong AI for self-improvement},
+  author={Renz, Sabrina and Kalimeris, Jeanette and Hofreiter, Sebastian and Sp{\"o}rrle, Matthias},
+  journal={Technological Forecasting and Social Change},
+  volume={209},
+  pages={123760},
+  year={2024},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.techfore.2024.123760}
+
+
+@article{ofosu2023gender,
+  title={Gender differences in perception of artificial intelligence-based tools},
+  author={Ofosu-Ampong, Kingsley},
+  journal={Journal of Digital Art \& Humanities},
+  volume={4},
+  number={2},
+  pages={52--56},
+  year={2023}
+},
+  doi = {10.33847/2712-8149.4.2_6}
+
+
+@article{liu2021ai,
+  title={In AI we trust? Effects of agency locus and transparency on uncertainty reduction in human--AI interaction},
+  author={Liu, Bingjie},
+  journal={Journal of computer-mediated communication},
+  volume={26},
+  number={6},
+  pages={384--402},
+  year={2021},
+  publisher={Oxford University Press}
+},
+  doi = {10.1093/jcmc/zmab013}
+
+
+@inproceedings{10.1145/3584931.3607492,
+author = {Shen, Hua and Huang, Chieh-Yang and Wu, Tongshuang and Huang, Ting-Hao Kenneth},
+title = {ConvXAI : Delivering Heterogeneous AI Explanations via Conversations to Support Human-AI Scientific Writing},
+year = {2023},
+isbn = {9798400701290},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3584931.3607492},
+doi = {10.1145/3584931.3607492},
+abstract = {Despite a surge collection of XAI methods, users still struggle to obtain required AI explanations. Previous research suggests chatbots as dynamic solutions, but the effective design of conversational XAI agents for practical human needs remains under-explored. This paper focuses on Conversational XAI for AI-assisted scientific writing tasks. Drawing from human linguistic theories and formative studies, we identify four design rationales: “multifaceted”, “controllability”, “mix-initiative”, “context-aware drill-down”. We incorporate them into an interactive prototype, ConvXAI 1, which facilitates heterogeneous AI explanations for scientific writing through dialogue. In two studies with 21 users, ConvXAI outperforms a GUI-based baseline on improving human-perceived understanding and writing improvement. The paper further discusses the practical human usage patterns in interacting with ConvXAI for scientific co-writing2.},
+booktitle = {Companion Publication of the 2023 Conference on Computer Supported Cooperative Work and Social Computing},
+pages = {384–387},
+numpages = {4},
+keywords = {Conversational AI, Explainable AI, Scientific Writing Support},
+location = {Minneapolis, MN, USA},
+series = {CSCW '23 Companion}
+},
+  doi = {10.1093/benz/9780199773787.article.b00090357}
+
+
+@article{liao2024effective,
+  title={How effective is AI augmentation in human--AI collaboration? Evidence from a field experiment},
+  author={Liao, Chengcheng and Wen, Xin and Li, Shan and Du, Peiyuan},
+  journal={Information Technology \& People},
+  year={2024},
+  publisher={Emerald Publishing Limited}
+},
+  doi = {10.1108/itp-11-2022-0859}
+
+
+@article{seeber2020machines,
+  title={Machines as teammates: A research agenda on AI in team collaboration},
+  author={Seeber, Isabella and Bittner, Eva and Briggs, Robert O and De Vreede, Triparna and De Vreede, Gert-Jan and Elkins, Aaron and Maier, Ronald and Merz, Alexander B and Oeste-Rei{\ss}, Sarah and Randrup, Nils and others},
+  journal={Information \& management},
+  volume={57},
+  number={2},
+  pages={103174},
+  year={2020},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.im.2019.103174}
+
+
+@article{kelly2023factors,
+  title={What factors contribute to the acceptance of artificial intelligence? A systematic review},
+  author={Kelly, Sage and Kaye, Sherrie-Anne and Oviedo-Trespalacios, Oscar},
+  journal={Telematics and Informatics},
+  volume={77},
+  pages={101925},
+  year={2023},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.tele.2022.101925}
+
+
+@book{tversky1982judgment,
+  title={Judgment under uncertainty: Heuristics and biases},
+  author={Tversky, Amos and Kahneman, Daniel and Slovic, Paul},
+  year={1982},
+  publisher={Cambridge}
+},
+  doi = {10.4324/9780203496398-10}
+
+
+@book{camerer2011behavioral,
+  title={Behavioral game theory: Experiments in strategic interaction},
+  author={Camerer, Colin F},
+  year={2011},
+  publisher={Princeton university press}
+},
+  doi = {10.1016/j.socec.2003.10.009}
+
+
+@article{fehr2000cooperation,
+  title={Cooperation and punishment in public goods experiments},
+  author={Fehr, Ernst and G{\"a}chter, Simon},
+  journal={American Economic Review},
+  volume={90},
+  number={4},
+  pages={980--994},
+  year={2000},
+  publisher={American Economic Association}
+},
+  doi = {10.2139/ssrn.203194}
+
+
+@article{wang2023incorporating,
+  title={Incorporating neuro-inspired adaptability for continual learning in artificial intelligence},
+  author={Wang, Liyuan and Zhang, Xingxing and Li, Qian and Zhang, Mingtian and Su, Hang and Zhu, Jun and Zhong, Yi},
+  journal={Nature Machine Intelligence},
+  volume={5},
+  number={12},
+  pages={1356--1368},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+},
+  doi = {10.1038/s42256-023-00747-w}
+
+
+@article{curzon2021privacy,
+  title={Privacy and artificial intelligence},
+  author={Curzon, James and Kosa, Tracy Ann and Akalu, Rajen and El-Khatib, Khalil},
+  journal={IEEE Transactions on Artificial Intelligence},
+  volume={2},
+  number={2},
+  pages={96--108},
+  year={2021},
+  publisher={IEEE}
+},
+  doi = {10.58830/ozgur.pub710.c3020}
+
+
+@article{arrieta2020explainable,
+  title={Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI},
+  author={Arrieta, Alejandro Barredo and D{\'\i}az-Rodr{\'\i}guez, Natalia and Del Ser, Javier and Bennetot, Adrien and Tabik, Siham and Barbado, Alberto and Garc{\'\i}a, Salvador and Gil-L{\'o}pez, Sergio and Molina, Daniel and Benjamins, Richard and others},
+  journal={Information fusion},
+  volume={58},
+  pages={82--115},
+  year={2020},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.inffus.2019.12.012}
+
+
+@article{pratchett1999new,
+  title={New technologies and the modernization of local government: an analysis of biases and constraints},
+  author={Pratchett, Lawrence},
+  journal={Public administration},
+  volume={77},
+  number={4},
+  pages={731--751},
+  year={1999},
+  publisher={Wiley Online Library}
+},
+  doi = {10.1111/1467-9299.00177}
+
+
+@article{kemp2024competitive,
+  title={Competitive advantage through artificial intelligence: Toward a theory of situated AI},
+  author={Kemp, Ayenda},
+  journal={Academy of Management Review},
+  volume={49},
+  number={3},
+  pages={618--635},
+  year={2024},
+  publisher={Academy of Management Valhalla, NY}
+},
+  doi = {10.5465/amr.2020.0205}
+
+
+@article{wiethof2021implementing,
+  title={Implementing an intelligent collaborative agent as teammate in collaborative writing: toward a synergy of humans and AI},
+  author={Wiethof, Christina and Tavanapour, Navid and Bittner, Eva},
+  year={2021}
+},
+  doi = {10.24251/hicss.2021.047}
+
+
+@article{mou2017media,
+  title={The media inequality: Comparing the initial human-human and human-AI social interactions},
+  author={Mou, Yi and Xu, Kun},
+  journal={Computers in Human Behavior},
+  volume={72},
+  pages={432--440},
+  year={2017},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.chb.2017.02.067}
+
+
+@article{ferrario2020ai,
+  title={In AI we trust incrementally: A multi-layer model of trust to analyze human-artificial intelligence interactions},
+  author={Ferrario, Andrea and Loi, Michele and Vigan{\`o}, Eleonora},
+  journal={Philosophy \& Technology},
+  volume={33},
+  number={3},
+  pages={523--539},
+  year={2020},
+  publisher={Springer}
+},
+  doi = {10.1007/s13347-019-00378-3}
+
+
+@article{mou2024does,
+  title={Does self-disclosing to a robot induce liking for the robot? Testing the disclosure and liking hypotheses in human--robot interaction},
+  author={Mou, Yi and Zhang, Lin and Wu, Yuheng and Pan, Shuyi and Ye, Xiaoyu},
+  journal={International Journal of Human--Computer Interaction},
+  volume={40},
+  number={10},
+  pages={2534--2545},
+  year={2024},
+  publisher={Taylor \& Francis}
+},
+  doi = {10.1080/10447318.2022.2163350}
+
+
+@article{kim2019effects,
+  title={Effects of gender and relationship type on the response to artificial intelligence},
+  author={Kim, Ahyeon and Cho, Minha and Ahn, Jungyong and Sung, Yongjun},
+  journal={Cyberpsychology, Behavior, and Social Networking},
+  volume={22},
+  number={4},
+  pages={249--253},
+  year={2019},
+  publisher={Mary Ann Liebert, Inc., publishers 140 Huguenot Street, 3rd Floor New~…}
+},
+  doi = {10.1089/cyber.2018.0581}
+
+
+@article{tyler2003group,
+  title={The group engagement model: Procedural justice, social identity, and cooperative behavior},
+  author={Tyler, Tom R and Blader, Steven L},
+  journal={Personality and social psychology review},
+  volume={7},
+  number={4},
+  pages={349--361},
+  year={2003},
+  publisher={Sage Publications Sage CA: Los Angeles, CA}
+},
+  doi = {10.1207/s15327957pspr0704_07}
+
+
+@article{fehr2000fairness,
+  title={Fairness and retaliation: The economics of reciprocity},
+  author={Fehr, Ernst and G{\"a}chter, Simon},
+  journal={Journal of economic perspectives},
+  volume={14},
+  number={3},
+  pages={159--182},
+  year={2000},
+  publisher={American Economic Association}
+},
+  doi = {10.2139/ssrn.229149}
+
+
+@article{krakowski2023artificial,
+  title={Artificial intelligence and the changing sources of competitive advantage},
+  author={Krakowski, Sebastian and Luger, Johannes and Raisch, Sebastian},
+  journal={Strategic Management Journal},
+  volume={44},
+  number={6},
+  pages={1425--1452},
+  year={2023},
+  publisher={Wiley Online Library}
+},
+  doi = {10.1002/smj.3387}
+
+
+@inproceedings{bender2021dangers,
+  title={On the dangers of stochastic parrots: Can language models be too big?��},
+  author={Bender, Emily M and Gebru, Timnit and McMillan-Major, Angelina and Shmitchell, Shmargaret},
+  booktitle={Proceedings of the 2021 ACM conference on fairness, accountability, and transparency},
+  pages={610--623},
+  year={2021}
+},
+  doi = {10.1145/3442188.3445922}
+
+
+@article{axelrod1981evolution,
+  title={The evolution of cooperation},
+  author={Axelrod, Robert and Hamilton, William D},
+  journal={science},
+  volume={211},
+  number={4489},
+  pages={1390--1396},
+  year={1981},
+  publisher={American Association for the Advancement of Science}
+},
+  doi = {10.1016/b978-0-12-384719-5.00161-1}
+
+
+@book{porter2008competition,
+  title={On competition},
+  author={Porter, Michael E},
+  year={2008},
+  publisher={Harvard Business Press}
+},
+  doi = {10.1016/j.econlet.2013.05.021}
+
+
+@article{lancaster2024s,
+  title={“It’s Everybody’s Role to Speak Up... But Not Everyone Will”: Understanding AI Professionals’ Perceptions of Accountability for AI Bias Mitigation},
+  author={Lancaster, Caitlin M and Schulenberg, Kelsea and Flathmann, Christopher and McNeese, Nathan J and Freeman, Guo},
+  journal={ACM Journal on Responsible Computing},
+  volume={1},
+  number={1},
+  pages={1--30},
+  year={2024},
+  publisher={ACM New York, NY}
+},
+  doi = {10.1145/3632121}
+
+
+@inproceedings{ehsan2021expanding,
+  title={Expanding explainability: Towards social transparency in ai systems},
+  author={Ehsan, Upol and Liao, Q Vera and Muller, Michael and Riedl, Mark O and Weisz, Justin D},
+  booktitle={Proceedings of the 2021 CHI conference on human factors in computing systems},
+  pages={1--19},
+  year={2021}
+},
+  doi = {10.1145/3411764.3445188}
+
+
+@inproceedings{ehsan2021expanding,
+  title={Expanding explainability: Towards social transparency in ai systems},
+  author={Ehsan, Upol and Liao, Q Vera and Muller, Michael and Riedl, Mark O and Weisz, Justin D},
+  booktitle={Proceedings of the 2021 CHI conference on human factors in computing systems},
+  pages={1--19},
+  year={2021}
+},
+  doi = {10.1145/3411764.3445188}
+
+
+@article{vossing2022designing,
+  title={Designing transparency for effective human-AI collaboration},
+  author={V{\"o}ssing, Michael and K{\"u}hl, Niklas and Lind, Matteo and Satzger, Gerhard},
+  journal={Information Systems Frontiers},
+  volume={24},
+  number={3},
+  pages={877--895},
+  year={2022},
+  publisher={Springer}
+},
+  doi = {10.1007/s10796-022-10284-3}
+
+
+@article{10.1145/3653708,
+author = {Lu, Zhuoran and Wang, Dakuo and Yin, Ming},
+title = {Does More Advice Help? The Effects of Second Opinions in AI-Assisted Decision Making},
+year = {2024},
+issue_date = {April 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {8},
+number = {CSCW1},
+url = {https://doi.org/10.1145/3653708},
+doi = {10.1145/3653708},
+abstract = {AI assistance in decision-making has become popular, yet people's inappropriate reliance on AI often leads to unsatisfactory human-AI collaboration performance. In this paper, through three pre-registered, randomized human subject experiments, we explore whether and how the provision of second opinions may affect decision-makers' behavior and performance in AI-assisted decision-making. We find that if both the AI model's decision recommendation and a second opinion are always presented together, decision-makers reduce their over-reliance on AI while increase their under-reliance on AI, regardless whether the second opinion is generated by a peer or another AI model. However, if decision-makers have the control to decide when to solicit a peer's second opinion, we find that their active solicitations of second opinions have the potential to mitigate over-reliance on AI without inducing increased under-reliance in some cases. We conclude by discussing the implications of our findings for promoting effective human-AI collaborations in decision-making.},
+journal = {Proc. ACM Hum.-Comput. Interact.},
+month = apr,
+articleno = {217},
+numpages = {31},
+keywords = {appropriate reliance, human-ai interaction, machine learning, second opinions}
+},
+  doi = {10.1179/014703780788764866}
+
+
+@inproceedings{10.1145/3678884.3689134,
+author = {Morris, Meredith Ringel and Bernstein, Michael S. and Bigham, Jeffrey P. and Bruckman, Amy S. and Monroy-Hern\'{a}ndez, Andr\'{e}s},
+title = {Is Human-AI Interaction CSCW?},
+year = {2024},
+isbn = {9798400711145},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3678884.3689134},
+doi = {10.1145/3678884.3689134},
+abstract = {As AI systems progress in their capabilities, Human-AI Collaboration is likely to become an increasingly prevalent paradigm in many domains, including business, education, entertainment, and social activities. Historically, only computer-mediated collaborations involving at least two people have been considered part of the field of study known as CSCW (computer-supported cooperative work). This panel will engage CSCW 2024 attendees with the controversial and timely question of whether the purview of CSCW should be expanded to include research on "collaborations" involving a single person and one or more AI models or agents.},
+booktitle = {Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing},
+pages = {95–97},
+numpages = {3},
+keywords = {artificial intelligence, cscw, human-ai collaboration, machine learning},
+location = {San Jose, Costa Rica},
+series = {CSCW Companion '24}
+},
+  doi = {10.1093/benz/9780199773787.article.b00197482}
+
+
+@article{flathmann2024empirically,
+  title={Empirically Understanding the Potential Impacts and Process of Social Influence in Human-AI Teams},
+  author={Flathmann, Christopher and Duan, Wen and Mcneese, Nathan J and Hauptman, Allyson and Zhang, Rui},
+  journal={Proceedings of the ACM on Human-Computer Interaction},
+  volume={8},
+  number={CSCW1},
+  pages={1--32},
+  year={2024},
+  publisher={ACM New York, NY, USA}
+},
+  doi = {10.1145/3637326}
+
+
+@article{yang2024talk2care,
+  title={Talk2Care: An LLM-based Voice Assistant for Communication between Healthcare Providers and Older Adults},
+  author={Yang, Ziqi and Xu, Xuhai and Yao, Bingsheng and Rogers, Ethan and Zhang, Shao and Intille, Stephen and Shara, Nawar and Gao, Guodong Gordon and Wang, Dakuo},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={8},
+  number={2},
+  pages={1--35},
+  year={2024},
+  publisher={ACM New York, NY, USA}
+},
+  doi = {10.1145/3659625}
+
+
+@article{kolasani2023optimizing,
+  title={Optimizing natural language processing, large language models (LLMs) for efficient customer service, and hyper-personalization to enable sustainable growth and revenue},
+  author={Kolasani, Saydulu},
+  journal={Transactions on Latest Trends in Artificial Intelligence},
+  volume={4},
+  number={4},
+  year={2023}
+},
+  doi = {10.1007/979-8-8688-0902-6_6}
+
+
+@article{kirk2024benefits,
+  title={The benefits, risks and bounds of personalizing the alignment of large language models to individuals},
+  author={Kirk, Hannah Rose and Vidgen, Bertie and R{\"o}ttger, Paul and Hale, Scott A},
+  journal={Nature Machine Intelligence},
+  pages={1--10},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+},
+  doi = {10.1038/s42256-024-00820-y}
+
+
+@article{chang2024survey,
+  title={A survey on evaluation of large language models},
+  author={Chang, Yupeng and Wang, Xu and Wang, Jindong and Wu, Yuan and Yang, Linyi and Zhu, Kaijie and Chen, Hao and Yi, Xiaoyuan and Wang, Cunxiang and Wang, Yidong and others},
+  journal={ACM Transactions on Intelligent Systems and Technology},
+  volume={15},
+  number={3},
+  pages={1--45},
+  year={2024},
+  publisher={ACM New York, NY}
+},
+  doi = {10.1145/3641289}
+
+
+@article{demszky2023using,
+  title={Using large language models in psychology},
+  author={Demszky, Dorottya and Yang, Diyi and Yeager, David S and Bryan, Christopher J and Clapper, Margarett and Chandhok, Susannah and Eichstaedt, Johannes C and Hecht, Cameron and Jamieson, Jeremy and Johnson, Meghann and others},
+  journal={Nature Reviews Psychology},
+  volume={2},
+  number={11},
+  pages={688--701},
+  year={2023},
+  publisher={Nature Publishing Group US New York}
+},
+  doi = {10.1038/s44159-023-00241-5}
+
+
+@article{birhane2023science,
+  title={Science in the age of large language models},
+  author={Birhane, Abeba and Kasirzadeh, Atoosa and Leslie, David and Wachter, Sandra},
+  journal={Nature Reviews Physics},
+  volume={5},
+  number={5},
+  pages={277--280},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+},
+  doi = {10.1038/s42254-023-00581-4}
+
+
+@misc{openai2024gpt,
+  author = {OpenAI},
+  title = {GPT},
+  year = {2024},
+  howpublished = {\url{https://www.openai.com}},
+},
+  doi = {10.1007/978-1-4842-3285-9_3}
+
+
+@misc{google2024gemini,
+  author = {Google},
+  title = {Gemini},
+  year = {2024},
+  howpublished = {\url{https://deepmind.google/technologies/gemini/}},
+},
+  doi = {10.7771/2380-176x.2734}
+
+
+@misc{baidu2024ernie,
+  author = {Baidu},
+  title = {Ernie},
+  year = {2024},
+  howpublished = {\url{https://yiyan.baidu.com/welcome}},
+},
+  doi = {10.4135/9781473960367.n20}
+
+
+@misc{anthropic2024claude,
+  author = {Anthropic},
+  title = {Claude},
+  year = {2024},
+  howpublished = {\url{https://www.anthropic.com}},
+},
+  doi = {10.22478/ufpb.2446-7006.46v27n3.64719}
+
+
+@article{barua2024exploring,
+  title={Exploring Autonomous Agents through the Lens of Large Language Models: A Review},
+  author={Barua, Saikat},
+  journal={arXiv preprint arXiv:2404.04442},
+  year={2024}
+},
+  doi = {10.1039/d4sc03921a}
+
+
+@article{mehandru2024evaluating,
+  title={Evaluating large language models as agents in the clinic},
+  author={Mehandru, Nikita and Miao, Brenda Y and Almaraz, Eduardo Rodriguez and Sushil, Madhumita and Butte, Atul J and Alaa, Ahmed},
+  journal={NPJ digital medicine},
+  volume={7},
+  number={1},
+  pages={84},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+},
+  doi = {10.1038/s41746-024-01083-y}
+
+
+@article{shaw2018self,
+  title={Self-attention with relative position representations},
+  author={Shaw, Peter and Uszkoreit, Jakob and Vaswani, Ashish},
+  journal={arXiv preprint arXiv:1803.02155},
+  year={2018}
+},
+  doi = {10.18653/v1/n18-2074}
+
+
+@article{zhao2023survey,
+  title={A survey of large language models},
+  author={Zhao, Wayne Xin and Zhou, Kun and Li, Junyi and Tang, Tianyi and Wang, Xiaolei and Hou, Yupeng and Min, Yingqian and Zhang, Beichen and Zhang, Junjie and Dong, Zican and others},
+  journal={arXiv preprint arXiv:2303.18223},
+  year={2023}
+},
+  doi = {10.1109/bigdata59044.2023.10386743}
+
+
+@article{han2021transformer,
+  title={Transformer in transformer},
+  author={Han, Kai and Xiao, An and Wu, Enhua and Guo, Jianyuan and Xu, Chunjing and Wang, Yunhe},
+  journal={Advances in neural information processing systems},
+  volume={34},
+  pages={15908--15919},
+  year={2021}
+},
+  doi = {10.31871/ijntr.7.4.18}
+
+
+@article{shanahan2024talking,
+  title={Talking about large language models},
+  author={Shanahan, Murray},
+  journal={Communications of the ACM},
+  volume={67},
+  number={2},
+  pages={68--79},
+  year={2024},
+  publisher={ACM New York, NY, USA}
+},
+  doi = {10.1145/3624724}
+
+
+@article{zhao2024explainability,
+  title={Explainability for large language models: A survey},
+  author={Zhao, Haiyan and Chen, Hanjie and Yang, Fan and Liu, Ninghao and Deng, Huiqi and Cai, Hengyi and Wang, Shuaiqiang and Yin, Dawei and Du, Mengnan},
+  journal={ACM Transactions on Intelligent Systems and Technology},
+  volume={15},
+  number={2},
+  pages={1--38},
+  year={2024},
+  publisher={ACM New York, NY}
+},
+  doi = {10.1145/3639372}
+
+
+@article{d2024large,
+  title={Large language models in radiology: fundamentals, applications, ethical considerations, risks, and future directions},
+  author={D’Antonoli, Tugba Akinci and Stanzione, Arnaldo and Bluethgen, Christian and Vernuccio, Federica and Ugga, Lorenzo and Klontzas, Michail E and Cuocolo, Renato and Cannella, Roberto and Ko{\c{c}}ak, Burak},
+  journal={Diagnostic and Interventional Radiology},
+  volume={30},
+  number={2},
+  pages={80},
+  year={2024},
+  publisher={Turkish Society of Radiology}
+},
+  doi = {10.4274/dir.2023.232417}
+
+
+@article{li2022human,
+  title={Human-AI cooperation: modes and their effects on attitudes},
+  author={Li, Jian and Huang, Jinsong and Liu, Jiaxiang and Zheng, Tianqi},
+  journal={Telematics and Informatics},
+  volume={73},
+  pages={101862},
+  year={2022},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.tele.2022.101862}
+
+
+@article{nguyen2023black,
+  title={Black-box analysis: GPTs across time in legal textual entailment task},
+  author={Nguyen, Ha-Thanh and Goebel, Randy and Toni, Francesca and Stathis, Kostas and Satoh, Ken},
+  journal={arXiv preprint arXiv:2309.05501},
+  year={2023}
+},
+  doi = {10.1109/icodse.2014.7062670}
+
+
+@inproceedings{amershi2019guidelines,
+  title={Guidelines for human-AI interaction},
+  author={Amershi, Saleema and Weld, Dan and Vorvoreanu, Mihaela and Fourney, Adam and Nushi, Besmira and Collisson, Penny and Suh, Jina and Iqbal, Shamsi and Bennett, Paul N and Inkpen, Kori and others},
+  booktitle={Proceedings of the 2019 chi conference on human factors in computing systems},
+  pages={1--13},
+  year={2019}
+},
+  doi = {10.1145/3290605.3300233}
+
+
+@article{xu2021human,
+  title={From human-computer interaction to human-AI Interaction: new challenges and opportunities for enabling human-centered AI},
+  author={Xu, Wei and Dainoff, Marvin J and Ge, Liezhong and Gao, Zaifeng},
+  journal={arXiv preprint arXiv:2105.05424},
+  volume={5},
+  year={2021}
+},
+  doi = {10.1080/10447318.2022.2041900}
+
+
+@article{peeters2021hybrid,
+  title={Hybrid collective intelligence in a human--AI society},
+  author={Peeters, Marieke MM and van Diggelen, Jurriaan and Van Den Bosch, Karel and Bronkhorst, Adelbert and Neerincx, Mark A and Schraagen, Jan Maarten and Raaijmakers, Stephan},
+  journal={AI \& society},
+  volume={36},
+  pages={217--238},
+  year={2021},
+  publisher={Springer}
+},
+  doi = {10.1007/s00146-020-01005-y}
+
+
+@inproceedings{ueno2022trust,
+  title={Trust in human-ai interaction: Scoping out models, measures, and methods},
+  author={Ueno, Takane and Sawa, Yuto and Kim, Yeongdae and Urakami, Jacqueline and Oura, Hiroki and Seaborn, Katie},
+  booktitle={CHI Conference on Human Factors in Computing Systems Extended Abstracts},
+  pages={1--7},
+  year={2022}
+},
+  doi = {10.1145/3491101.3519772}
+
+
+@article{ke2024exploring,
+  title={Exploring the Frontiers of LLMs in Psychological Applications: A Comprehensive Review},
+  author={Ke, Luoma and Tong, Song and Chen, Peng and Peng, Kaiping},
+  journal={arXiv preprint arXiv:2401.01519},
+  year={2024}
+},
+  doi = {10.1016/j.mssp.2024.108862}
+
+
+@article{schwartz2024black,
+  title={Black box warning: large language models and the future of infectious diseases consultation},
+  author={Schwartz, Ilan S and Link, Katherine E and Daneshjou, Roxana and Cort{\'e}s-Penfield, Nicol{\'a}s},
+  journal={Clinical Infectious Diseases},
+  volume={78},
+  number={4},
+  pages={860--866},
+  year={2024},
+  publisher={Oxford University Press US}
+},
+  doi = {10.1093/cid/ciad633}
+
+
+@misc{exmachina2014,
+  title        = {Ex Machina},
+  year         = {2014},
+  director     = {Alex Garland},
+  producer     = {Andrew Macdonald and Allon Reich},
+  note         = {Distributed by A24, USA, 108 mins}
+},
+  doi = {10.1075/msw.17003.pop}
+
+
+@misc{westworld2016,
+  title        = {Westworld},
+  year         = {2016},
+  director     = {Jonathan Nolan and Lisa Joy},
+  note         = {TV Series. Distributed by HBO}
+},
+  doi = {10.4324/9781003244998-6}
+
+
+@article{rose1995trust,
+  title={Trust in the Mirror of Betrayal},
+  author={Rose, Carol M},
+  journal={BUL Rev.},
+  volume={75},
+  pages={531},
+  year={1995},
+  publisher={HeinOnline}
+},
+  doi = {10.1097/01.cot.0000295917.48490.eb}
+
+
+@article{bates1994role,
+  title={The role of emotion in believable agents},
+  author={Bates, Joseph and others},
+  journal={Communications of the ACM},
+  volume={37},
+  number={7},
+  pages={122--125},
+  year={1994},
+  publisher={Citeseer}
+},
+  doi = {10.1145/176789.176803}
+
+
+@article{molleman2019people,
+  title={People prefer coordinated punishment in cooperative interactions},
+  author={Molleman, Lucas and K{\"o}lle, Felix and Starmer, Chris and G{\"a}chter, Simon},
+  journal={Nature Human Behaviour},
+  volume={3},
+  number={11},
+  pages={1145--1153},
+  year={2019},
+  publisher={Nature Publishing Group UK London}
+},
+  doi = {10.1038/s41562-019-0707-2}
+
+
+@article{wood1996social,
+  title={What is social comparison and how should we study it?},
+  author={Wood, Joanne V},
+  journal={Personality and social psychology bulletin},
+  volume={22},
+  number={5},
+  pages={520--537},
+  year={1996},
+  publisher={Sage Publications Sage CA: Thousand Oaks, CA}
+},
+  doi = {10.1177/0146167296225009}
+
+
+@article{suls2002social,
+  title={Social comparison: Why, with whom, and with what effect?},
+  author={Suls, Jerry and Martin, Rene and Wheeler, Ladd},
+  journal={Current directions in psychological science},
+  volume={11},
+  number={5},
+  pages={159--163},
+  year={2002},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+},
+  doi = {10.1111/1467-8721.00191}
+
+
+@article{dietvorst2015algorithm,
+  title={Algorithm aversion: people erroneously avoid algorithms after seeing them err.},
+  author={Dietvorst, Berkeley J and Simmons, Joseph P and Massey, Cade},
+  journal={Journal of experimental psychology: General},
+  volume={144},
+  number={1},
+  pages={114},
+  year={2015},
+  publisher={American Psychological Association}
+},
+  doi = {10.2139/ssrn.2466040}
+
+
+@article{neudert2020global,
+  title={Global attitudes towards AI, machine learning \& automated decision making},
+  author={Neudert, Lisa-Maria and Knuutila, Aleksi and Howard, Philip N},
+  journal={Google Scholar Google Scholar Reference},
+  year={2020}
+},
+  doi = {10.3233/ip-211516}
+
+
+@article{froding2021friendly,
+  title={Friendly AI},
+  author={Fr{\"o}ding, Barbro and Peterson, Martin},
+  journal={Ethics and Information Technology},
+  volume={23},
+  pages={207--214},
+  year={2021},
+  publisher={Springer}
+},
+  doi = {10.1007/s10676-020-09556-w}
+
+
+@article{park2024ai,
+  title={AI deception: A survey of examples, risks, and potential solutions},
+  author={Park, Peter S and Goldstein, Simon and O’Gara, Aidan and Chen, Michael and Hendrycks, Dan},
+  journal={Patterns},
+  volume={5},
+  number={5},
+  year={2024},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.patter.2024.100988}
+
+
+@article{de2021ai,
+  title={AI should augment human intelligence, not replace it},
+  author={De Cremer, David and Kasparov, Garry},
+  journal={Harvard Business Review},
+  volume={18},
+  number={1},
+  year={2021}
+},
+  doi = {10.1109/inocon57975.2023.10101202}
+
+
+@techreport{luz2024enhancing,
+  title={Enhancing the Interpretability and Explainability of AI-Driven Risk Models Using LLM Capabilities},
+  author={Luz, Ayuns},
+  year={2024},
+  institution={EasyChair}
+},
+  doi = {10.1145/3706599.3719795}
+
+
+@article{kuzior2022cognitive,
+  title={Cognitive technologies and artificial intelligence in social perception},
+  author={Kuzior, Aleksandra and Kwilinski, Aleksy},
+  journal={Management Systems in Production Engineering},
+  volume={30},
+  number={2},
+  pages={109--115},
+  year={2022}
+},
+  doi = {10.2478/mspe-2022-0014}
+
+
+@article{zhang2023trust,
+  title={Trust in an AI versus a Human teammate: The effects of teammate identity and performance on Human-AI cooperation},
+  author={Zhang, Guanglu and Chong, Leah and Kotovsky, Kenneth and Cagan, Jonathan},
+  journal={Computers in Human Behavior},
+  volume={139},
+  pages={107536},
+  year={2023},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.chb.2022.107536}
+
+
+@inproceedings{aquilino2024trust,
+  title={Trust in AI: Transparency, and Uncertainty Reduction. Development of a new theoretical framework},
+  author={Aquilino, Letizia and Bisconti, Piercosma and Marchetti, Antonella and others},
+  booktitle={CEUR WORKSHOP PROCEEDINGS},
+  pages={19--26},
+  year={2024},
+  organization={CEUR-WS. org}
+},
+  doi = {10.1093/jcmc/zmab013}
+
+
+@article{alievolution,
+  title={The Evolution of Artificial Intelligence: From Rule-Based Systems to Neural Networks},
+  author={Ali, Ali Ahmad},
+  publisher={OSF}
+},
+  doi = {10.1109/eurcon.2007.4400349}
+
+
+@article{luo2024large,
+  title={Large language models surpass human experts in predicting neuroscience results},
+  author={Luo, Xiaoliang and Rechardt, Akilles and Sun, Guangzhi and Nejad, Kevin K and Y{\'a}{\~n}ez, Felipe and Yilmaz, Bati and Lee, Kangjoo and Cohen, Alexandra O and Borghesani, Valentina and Pashkov, Anton and others},
+  journal={arXiv preprint arXiv:2403.03230},
+  year={2024}
+},
+  doi = {10.1038/s41562-024-02046-9}
+
+
+@article{joachimiak2024artificial,
+  title={The Artificial Intelligence Ontology: LLM-assisted construction of AI concept hierarchies},
+  author={Joachimiak, Marcin P and Miller, Mark A and Caufield, J Harry and Ly, Ryan and Harris, Nomi L and Tritt, Andrew and Mungall, Christopher J and Bouchard, Kristofer E},
+  journal={arXiv preprint arXiv:2404.03044},
+  year={2024}
+},
+  doi = {10.2118/169507-ms}
+
+
+@article{wang2024large,
+  title={Large language models cannot replace human participants because they cannot portray identity groups},
+  author={Wang, Angelina and Morgenstern, Jamie and Dickerson, John P},
+  journal={arXiv preprint arXiv:2402.01908},
+  year={2024}
+},
+  doi = {10.1007/s00146-023-01725-x}
+
+
+@article{zhang2024should,
+  title={Should We Fear Large Language Models? A Structural Analysis of the Human Reasoning System for Elucidating LLM Capabilities and Risks Through the Lens of Heidegger's Philosophy},
+  author={Zhang, Jianqiiu},
+  journal={arXiv preprint arXiv:2403.03288},
+  year={2024}
+},
+  doi = {10.1109/wnyispw63690.2024.10786497}
+
+
+@article{azeem2024llm,
+  title={LLM-Driven Robots Risk Enacting Discrimination, Violence, and Unlawful Actions},
+  author={Azeem, Rumaisa and Hundt, Andrew and Mansouri, Masoumeh and Brand{\~a}o, Martim},
+  journal={arXiv preprint arXiv:2406.08824},
+  year={2024}
+},
+  doi = {10.54097/taqbjh83}
+
+
+@article{archer2021friendship,
+  title={Friendship between human beings and AI robots?},
+  author={Archer, Margaret S},
+  journal={Robotics, AI, and humanity: science, ethics, and policy},
+  pages={177--189},
+  year={2021},
+  publisher={Springer International Publishing}
+},
+  doi = {10.1007/978-3-030-54173-6_15}
+
+
+@article{10.1145/3579612,
+author = {Cabrera, \'{A}ngel Alexander and Perer, Adam and Hong, Jason I.},
+title = {Improving Human-AI Collaboration With Descriptions of AI Behavior},
+year = {2023},
+issue_date = {April 2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {7},
+number = {CSCW1},
+url = {https://doi.org/10.1145/3579612},
+doi = {10.1145/3579612},
+abstract = {People work with AI systems to improve their decision making, but often under- or over-rely on AI predictions and perform worse than they would have unassisted. To help people appropriately rely on AI aids, we propose showing them behavior descriptions, details of how AI systems perform on subgroups of instances. We tested the efficacy of behavior descriptions through user studies with 225 participants in three distinct domains: fake review detection, satellite image classification, and bird classification. We found that behavior descriptions can increase human-AI accuracy through two mechanisms: helping people identify AI failures and increasing people's reliance on the AI when it is more accurate. These findings highlight the importance of people's mental models in human-AI collaboration and show that informing people of high-level AI behaviors can significantly improve AI-assisted decision making.},
+journal = {Proc. ACM Hum.-Comput. Interact.},
+month = {apr},
+articleno = {136},
+numpages = {21},
+keywords = {human-AI collaboration, machine learning}
+},
+  doi = {10.2307/40138207}
+
+
+@article{van2021evaluating,
+  title={Evaluating XAI: A comparison of rule-based and example-based explanations},
+  author={van der Waa, Jasper and Nieuwburg, Elisabeth and Cremers, Anita and Neerincx, Mark},
+  journal={Artificial intelligence},
+  volume={291},
+  pages={103404},
+  year={2021},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.artint.2020.103404}
+
+
+@article{gradin2016neural,
+  title={Neural correlates of social exchanges during the Prisoner's Dilemma game in depression},
+  author={Gradin, VB and P{\'e}rez, A and Macfarlane, JA and Cavin, Ian and Waiter, G and Tone, EB and Dritschel, B and Maiche, A and Steele, JD},
+  journal={Psychological medicine},
+  volume={46},
+  number={6},
+  pages={1289--1300},
+  year={2016},
+  publisher={Cambridge University Press}
+},
+  doi = {10.1017/s0033291715002834}
+
+
+@article{komorita1967betrayal,
+  title={Betrayal and reconciliation in a two-person game.},
+  author={Komorita, Samuel S and Mechling, John},
+  journal={Journal of Personality and Social Psychology},
+  volume={6},
+  number={3},
+  pages={349},
+  year={1967},
+  publisher={American Psychological Association}
+},
+  doi = {10.1037/h0024736}
+
+
+@article{dafoe2020open,
+  title={Open problems in cooperative ai},
+  author={Dafoe, Allan and Hughes, Edward and Bachrach, Yoram and Collins, Tantum and McKee, Kevin R and Leibo, Joel Z and Larson, Kate and Graepel, Thore},
+  journal={arXiv preprint arXiv:2012.08630},
+  year={2020}
+},
+  doi = {10.1145/602382.602407}
+
+
+@book{christian2021alignment,
+  title={The alignment problem: How can machines learn human values?},
+  author={Christian, Brian},
+  year={2021},
+  publisher={Atlantic Books}
+},
+  doi = {10.1007/978-3-319-21365-1_35}
+
+
+@article{bellaiche2023humans,
+  title={Humans versus AI: whether and why we prefer human-created compared to AI-created artwork},
+  author={Bellaiche, Lucas and Shahi, Rohin and Turpin, Martin Harry and Ragnhildstveit, Anya and Sprockett, Shawn and Barr, Nathaniel and Christensen, Alexander and Seli, Paul},
+  journal={Cognitive Research: Principles and Implications},
+  volume={8},
+  number={1},
+  pages={42},
+  year={2023},
+  publisher={Springer}
+},
+  doi = {10.1186/s41235-023-00499-6}
+
+
+@article{ahmad2023impact,
+  title={Impact of artificial intelligence on human loss in decision making, laziness and safety in education},
+  author={Ahmad, Sayed Fayaz and Han, Heesup and Alam, Muhammad Mansoor and Rehmat, Mohd and Irshad, Muhammad and Arra{\~n}o-Mu{\~n}oz, Marcelo and Ariza-Montes, Antonio and others},
+  journal={Humanities and Social Sciences Communications},
+  volume={10},
+  number={1},
+  pages={1--14},
+  year={2023},
+  publisher={Palgrave}
+},
+  doi = {10.1057/s41599-023-01787-8}
+
+
+@article{fietta2021dissociation,
+  title={Dissociation between users’ explicit and implicit attitudes toward artificial intelligence: An experimental study},
+  author={Fietta, Valentina and Zecchinato, Francesca and Di Stasi, Brigida and Polato, Mirko and Monaro, Merylin},
+  journal={IEEE Transactions on Human-Machine Systems},
+  volume={52},
+  number={3},
+  pages={481--489},
+  year={2021},
+  publisher={IEEE}
+},
+  doi = {10.1109/thms.2021.3125280}
+
+
+@article{jussupow2020we,
+  title={Why are we averse towards algorithms? A comprehensive literature review on algorithm aversion},
+  author={Jussupow, Ekaterina and Benbasat, Izak and Heinzl, Armin},
+  year={2020}
+},
+  doi = {10.1891/9780826146373.0004}
+
+
+@article{shankar2024validates,
+  title={Who Validates the Validators? Aligning LLM-Assisted Evaluation of LLM Outputs with Human Preferences},
+  author={Shankar, Shreya and Zamfirescu-Pereira, JD and Hartmann, Bj{\"o}rn and Parameswaran, Aditya G and Arawjo, Ian},
+  journal={arXiv preprint arXiv:2404.12272},
+  year={2024}
+},
+  doi = {10.1145/3654777.3676450}
+
+
+@article{jain2024smartflow,
+  title={SmartFlow: Robotic Process Automation using LLMs},
+  author={Jain, Arushi and Paliwal, Shubham and Sharma, Monika and Vig, Lovekesh and Shroff, Gautam},
+  journal={arXiv preprint arXiv:2405.12842},
+  year={2024}
+},
+  doi = {10.22214/ijraset.2022.45111}
+
+
+@article{liu2024large,
+  title={Large Language Models for Networking: Workflow, Advances and Challenges},
+  author={Liu, Chang and Xie, Xiaohui and Zhang, Xinggong and Cui, Yong},
+  journal={arXiv preprint arXiv:2404.12901},
+  year={2024}
+},
+  doi = {10.1109/mnet.2024.3510936}
+
+
+@article{wang2024hybrid,
+  title={A hybrid LLM workflow can help identify user privilege related variables in programs of any size},
+  author={Wang, Haizhou and Wang, Zhilong and Liu, Peng},
+  journal={arXiv preprint arXiv:2403.15723},
+  year={2024}
+},
+  doi = {10.1016/j.jss.2021.07.003}
+
+
+@inproceedings{zeng2023flowmind,
+  title={FlowMind: automatic workflow generation with LLMs},
+  author={Zeng, Zhen and Watson, William and Cho, Nicole and Rahimi, Saba and Reynolds, Shayleen and Balch, Tucker and Veloso, Manuela},
+  booktitle={Proceedings of the Fourth ACM International Conference on AI in Finance},
+  pages={73--81},
+  year={2023}
+},
+  doi = {10.1145/3604237.3626908}
+
+
+@article{frank2023openly,
+  title={Openly accessible LLMs can help us to understand human cognition},
+  author={Frank, Michael C},
+  journal={Nature Human Behaviour},
+  volume={7},
+  number={11},
+  pages={1825--1827},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+},
+  doi = {10.1038/s41562-023-01732-4}
+
+
+@article{wu2022reward,
+  title={Reward, punishment, and prosocial behavior: Recent developments and implications},
+  author={Wu, Junhui and Luan, Shenghua and Raihani, Nichola},
+  journal={Current Opinion in Psychology},
+  volume={44},
+  pages={117--123},
+  year={2022},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.copsyc.2021.09.003}
+
+
+@article{kumar2020trust,
+  title={Trust between Humans and AI: A Short Review”},
+  author={Kumar, Aakriti},
+  year={2020}
+},
+  doi = {10.1145/3538392}
+
+
+@article{pelau2021gender,
+  title={Gender specific preferences towards anthropomorphic AI devices and robots},
+  author={Pelau, Corina and Niculescu, Miruna and Bojescu, Irina},
+  journal={The Bucharest University of Economic Studies Bucharest Romania},
+  year={2021}
+},
+  doi = {10.24818/basiq/2021/07/099}
+
+
+@article{daskalakis2009complexity,
+  title={The complexity of computing a Nash equilibrium},
+  author={Daskalakis, Constantinos and Goldberg, Paul W and Papadimitriou, Christos H},
+  journal={Communications of the ACM},
+  volume={52},
+  number={2},
+  pages={89--97},
+  year={2009},
+  publisher={ACM New York, NY, USA}
+},
+  doi = {10.1142/9789814525053_0012}
+
+
+@article{vrieze2012model,
+  title={Model selection and psychological theory: a discussion of the differences between the Akaike information criterion (AIC) and the Bayesian information criterion (BIC).},
+  author={Vrieze, Scott I},
+  journal={Psychological methods},
+  volume={17},
+  number={2},
+  pages={228},
+  year={2012},
+  publisher={American Psychological Association}
+},
+  doi = {10.1037/a0027127}
+
+
+@article{healey2014selection,
+  title={Selection procedures for simulations with multiple constraints under independent and correlated sampling},
+  author={Healey, Christopher and Andrad{\'o}ttir, Sigr{\'u}n and Kim, Seong-Hee},
+  journal={ACM Transactions on Modeling and Computer Simulation (TOMACS)},
+  volume={24},
+  number={3},
+  pages={1--25},
+  year={2014},
+  publisher={ACM New York, NY, USA}
+},
+  doi = {10.1145/2567921}
+
+
+@article{gorsuch1973data,
+  title={Data analysis of correlated independent variables},
+  author={Gorsuch, Richard L},
+  journal={Multivariate Behavioral Research},
+  volume={8},
+  number={1},
+  pages={89--107},
+  year={1973},
+  publisher={Taylor \& Francis}
+},
+  doi = {10.1207/s15327906mbr0801_6}
+
+
+@article{rosnow1989definition,
+  title={Definition and interpretation of interaction effects.},
+  author={Rosnow, Ralph L and Rosenthal, Robert},
+  journal={Psychological Bulletin},
+  volume={105},
+  number={1},
+  pages={143},
+  year={1989},
+  publisher={American Psychological Association}
+},
+  doi = {10.1037//0033-2909.105.1.143}
+
+
+@article{mansouri2004aligned,
+  title={Aligned rank transform techniques for analysis of variance and multiple comparisons},
+  author={Mansouri, Hossein and Paige, Robert L and Surles, James G},
+  journal={Communications in Statistics-Theory and Methods},
+  volume={33},
+  number={9},
+  pages={2217--2232},
+  year={2004},
+  publisher={Taylor \& Francis}
+},
+  doi = {10.1081/sta-200026599}
+
+
+@inproceedings{wobbrock2011aligned,
+  title={The aligned rank transform for nonparametric factorial analyses using only anova procedures},
+  author={Wobbrock, Jacob O and Findlater, Leah and Gergle, Darren and Higgins, James J},
+  booktitle={Proceedings of the SIGCHI conference on human factors in computing systems},
+  pages={143--146},
+  year={2011}
+},
+  doi = {10.1145/1978942.1978963}
+
+
+@article{li2024personal,
+  title={Personal llm agents: Insights and survey about the capability, efficiency and security},
+  author={Li, Yuanchun and Wen, Hao and Wang, Weijun and Li, Xiangyu and Yuan, Yizhen and Liu, Guohong and Liu, Jiacheng and Xu, Wenxing and Wang, Xiang and Sun, Yi and others},
+  journal={arXiv preprint arXiv:2401.05459},
+  year={2024}
+},
+  doi = {10.32388/ocltz6}
+
+
+@article{han2024llm,
+  title={LLM-Personalize: Aligning LLM Planners with Human Preferences via Reinforced Self-Training for Housekeeping Robots},
+  author={Han, Dongge and McInroe, Trevor and Jelley, Adam and Albrecht, Stefano V and Bell, Peter and Storkey, Amos},
+  journal={arXiv preprint arXiv:2404.14285},
+  year={2024}
+},
+  doi = {10.1145/3654777.3676450}
+
+
+@article{10.1257/000282805775014434,
+Author = {Bó, Pedro Dal},
+Title = {Cooperation under the Shadow of the Future: Experimental Evidence from Infinitely Repeated Games},
+Journal = {American Economic Review},
+Volume = {95},
+Number = {5},
+Year = {2005},
+Month = {December},
+Pages = {1591–1604},
+DOI = {10.1257/000282805775014434},
+URL = {https://www.aeaweb.org/articles?id=10.1257/000282805775014434}},
+  doi = {10.18764/2674-6972v4n10.2022.16}
+
+
+@article{yu2022solution,
+  title={Solution Analysis of Prisoner's Dilemma Based on Referee Game Theory},
+  author={Yu, Wang},
+  journal={CMU Academy Journal of Management and Business Education},
+  volume={1},
+  number={1},
+  pages={10--15},
+  year={2022}
+},
+  doi = {10.53797/cjmbe.v1i1.3.2022}
+
+
+@article{you2022influence,
+  title={The influence of experienced guider on cooperative behavior in the Prisoner’s dilemma game},
+  author={You, Tao and Zhang, Hailun and Zhang, Ying and Li, Qing and Zhang, Peng and Yang, Mei},
+  journal={Applied Mathematics and Computation},
+  volume={426},
+  pages={127093},
+  year={2022},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.amc.2022.127093}
+
+
+@article{yang2020overview,
+  title={An overview of multi-agent reinforcement learning from game theoretical perspective},
+  author={Yang, Yaodong and Wang, Jun},
+  journal={arXiv preprint arXiv:2011.00583},
+  year={2020}
+},
+  doi = {10.1088/1742-6596/2646/1/012021}
+
+
+@article{jain2020recognition,
+  title={Recognition of opinion leaders coalitions in online social network using game theory},
+  author={Jain, Lokesh and Katarya, Rahul and Sachdeva, Shelly},
+  journal={Knowledge-Based Systems},
+  volume={203},
+  pages={106158},
+  year={2020},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.knosys.2020.106158}
+
+
+@article{xu2020game,
+  title={Game theory and reinforcement learning based secure edge caching in mobile social networks},
+  author={Xu, Qichao and Su, Zhou and Lu, Rongxing},
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume={15},
+  pages={3415--3429},
+  year={2020},
+  publisher={IEEE}
+},
+  doi = {10.1109/tifs.2020.2980823}
+
+
+@book{leyton2022essentials,
+  title={Essentials of game theory: A concise multidisciplinary introduction},
+  author={Leyton-Brown, Kevin and Shoham, Yoav},
+  year={2022},
+  publisher={Springer Nature}
+},
+  doi = {10.1017/s0269888909990129}
+
+
+@book{barron2024game,
+  title={Game theory: an introduction},
+  author={Barron, Emmanual N},
+  year={2024},
+  publisher={John Wiley \& Sons}
+},
+  doi = {10.1002/9781119723950.ch2}
+
+
+@inproceedings{rajeswaran2020game,
+  title={A game theoretic framework for model based reinforcement learning},
+  author={Rajeswaran, Aravind and Mordatch, Igor and Kumar, Vikash},
+  booktitle={International conference on machine learning},
+  pages={7953--7963},
+  year={2020},
+  organization={PMLR}
+},
+  doi = {10.1109/wcnc51071.2022.9771864}
+
+
+@book{branzei2008models,
+  title={Models in cooperative game theory},
+  author={Branzei, Rodica and Dimitrov, Dinko and Tijs, Stef},
+  volume={556},
+  year={2008},
+  publisher={Springer Science \& Business Media}
+},
+  doi = {10.1007/978-3-540-69291-1_10}
+
+
+@book{fudenberg1991game,
+  title={Game theory},
+  author={Fudenberg, Drew and Tirole, Jean},
+  year={1991},
+  publisher={MIT press}
+},
+  doi = {10.1090/stml/080}
+
+
+@article{guidotti2018survey,
+  title={A survey of methods for explaining black box models},
+  author={Guidotti, Riccardo and Monreale, Anna and Ruggieri, Salvatore and Turini, Franco and Giannotti, Fosca and Pedreschi, Dino},
+  journal={ACM computing surveys (CSUR)},
+  volume={51},
+  number={5},
+  pages={1--42},
+  year={2018},
+  publisher={ACM New York, NY, USA}
+},
+  doi = {10.1145/3236009}
+
+
+@article{skraaning2021human,
+  title={Human performance benefits of the automation transparency design principle: Validation and variation},
+  author={Skraaning, Gyrd and Jamieson, Greg A},
+  journal={Human factors},
+  volume={63},
+  number={3},
+  pages={379--401},
+  year={2021},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+},
+  doi = {10.1177/0018720819887252}
+
+
+@article{xu2014nature,
+  title={The nature and consequences of trade-off transparency in the context of recommendation agents},
+  author={Xu, Jingjun and Benbasat, Izak and Cenfetelli, Ronald T},
+  journal={MIS quarterly},
+  volume={38},
+  number={2},
+  pages={379--406},
+  year={2014},
+  publisher={JSTOR}
+},
+  doi = {10.25300/misq/2014/38.2.03}
+
+
+@article{linkov2020cybertrust,
+  title={Cybertrust: From explainable to actionable and interpretable artificial intelligence},
+  author={Linkov, Igor and Galaitsi, Stephanie and Trump, Benjamin D and Keisler, Jeffrey M and Kott, Alexander},
+  journal={Computer},
+  volume={53},
+  number={9},
+  pages={91--96},
+  year={2020},
+  publisher={IEEE}
+},
+  doi = {10.1109/mc.2020.2993623}
+
+
+@inproceedings{zubek2000towards,
+  title={Towards implementation of social interaction},
+  author={Zubek, Robert},
+  booktitle={Proceedings of the 2000 AAAI Spring Symposium on Artificial Intelligence and Intercative Entertainment. AAAI Press},
+  year={2000}
+},
+  doi = {10.1007/978-3-642-32518-2_31}
+
+
+@article{bogdanovych2016makes,
+  title={What makes virtual agents believable?},
+  author={Bogdanovych, Anton and Trescak, Tomas and Simoff, Simeon},
+  journal={Connection Science},
+  volume={28},
+  number={1},
+  pages={83--108},
+  year={2016},
+  publisher={Taylor \& Francis}
+},
+  doi = {10.1080/09540091.2015.1130021}
+
+
+@book{newell1994unified,
+  title={Unified theories of cognition},
+  author={Newell, Allen},
+  year={1994},
+  publisher={Harvard University Press}
+},
+  doi = {10.1007/978-3-322-95337-7_3}
+
+
+@article{vinyals2019grandmaster,
+  title={Grandmaster level in StarCraft II using multi-agent reinforcement learning},
+  author={Vinyals, Oriol and Babuschkin, Igor and Czarnecki, Wojciech M and Mathieu, Micha{\"e}l and Dudzik, Andrew and Chung, Junyoung and Choi, David H and Powell, Richard and Ewalds, Timo and Georgiev, Petko and others},
+  journal={Nature},
+  volume={575},
+  number={7782},
+  pages={350--354},
+  year={2019},
+  publisher={Nature Publishing Group}
+},
+  doi = {10.1038/s41586-019-1724-z}
+
+
+@article{umarov2012believable,
+  title={Believable and effective AI agents in virtual worlds: Current state and future perspectives},
+  author={Umarov, Iskander and Mozgovoy, Maxim},
+  journal={International Journal of Gaming and Computer-Mediated Simulations (IJGCMS)},
+  volume={4},
+  number={2},
+  pages={37--59},
+  year={2012},
+  publisher={IGI Global}
+},
+  doi = {10.4018/jgcms.2012040103}
+
+
+@inproceedings{park2023generative,
+  title={Generative agents: Interactive simulacra of human behavior},
+  author={Park, Joon Sung and O'Brien, Joseph and Cai, Carrie Jun and Morris, Meredith Ringel and Liang, Percy and Bernstein, Michael S},
+  booktitle={Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology},
+  pages={1--22},
+  year={2023}
+},
+  doi = {10.1145/3586183.3606763}
+
+
+@inproceedings{chiang2024enhancing,
+  title={Enhancing AI-Assisted Group Decision Making through LLM-Powered Devil's Advocate},
+  author={Chiang, Chun-Wei and Lu, Zhuoran and Li, Zhuoyan and Yin, Ming},
+  booktitle={Proceedings of the 29th International Conference on Intelligent User Interfaces},
+  pages={103--119},
+  year={2024}
+},
+  doi = {10.1145/3640543.3645199}
+
+
+@article{fitness2012betrayal,
+  title={Betrayal and forgiveness in couple relationships},
+  author={Fitness, Julie},
+  journal={The Wiley-Blackwell Handbook of Couples and Family Relationships},
+  pages={259--270},
+  year={2012},
+  publisher={Wiley Online Library}
+},
+  doi = {10.1002/9781444354119.ch18}
+
+
+@article{lee2015betrayal,
+  title={How betrayal affects emotions and subsequent trust},
+  author={Lee, Wing-Shing and Selart, Marcus},
+  journal={The Open Psychology Journal},
+  volume={8},
+  pages={153--159},
+  year={2015}
+},
+  doi = {10.2174/1874350101508010153}
+
+
+@article{ramazi2015feeling,
+  title={How feeling betrayed affects cooperation},
+  author={Ramazi, Pouria and Hessel, Jop and Cao, Ming},
+  journal={PLoS One},
+  volume={10},
+  number={4},
+  pages={e0122205},
+  year={2015},
+  publisher={Public Library of Science San Francisco, CA USA}
+},
+  doi = {10.1371/journal.pone.0122205}
+
+
+@article{obrenovic2024generative,
+  title={Generative AI and human--robot interaction: implications and future agenda for business, society and ethics},
+  author={Obrenovic, Bojan and Gu, Xiao and Wang, Guoyu and Godinic, Danijela and Jakhongirov, Ilimdorjon},
+  journal={AI \& SOCIETY},
+  pages={1--14},
+  year={2024},
+  publisher={Springer}
+},
+  doi = {10.1007/s00146-024-01889-0}
+
+
+@inproceedings{kim2023help,
+  title={" Help Me Help the AI": Understanding How Explainability Can Support Human-AI Interaction},
+  author={Kim, Sunnie SY and Watkins, Elizabeth Anne and Russakovsky, Olga and Fong, Ruth and Monroy-Hern{\'a}ndez, Andr{\'e}s},
+  booktitle={Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems},
+  pages={1--17},
+  year={2023}
+},
+  doi = {10.1145/3544548.3581001}
+
+
+@article{grace2018will,
+  title={When will AI exceed human performance? Evidence from AI experts},
+  author={Grace, Katja and Salvatier, John and Dafoe, Allan and Zhang, Baobao and Evans, Owain},
+  journal={Journal of Artificial Intelligence Research},
+  volume={62},
+  pages={729--754},
+  year={2018}
+},
+  doi = {10.1613/jair.1.11222}
+
+
+@article{cugurullo2023fear,
+  title={Fear of AI: an inquiry into the adoption of autonomous cars in spite of fear, and a theoretical framework for the study of artificial intelligence technology acceptance},
+  author={Cugurullo, Federico and Acheampong, Ransford A},
+  journal={AI \& SOCIETY},
+  pages={1--16},
+  year={2023},
+  publisher={Springer}
+},
+  doi = {10.1007/s00146-022-01598-6}
+
+
+@article{ferrara2023fairness,
+  title={Fairness and bias in artificial intelligence: A brief survey of sources, impacts, and mitigation strategies},
+  author={Ferrara, Emilio},
+  journal={Sci},
+  volume={6},
+  number={1},
+  pages={3},
+  year={2023},
+  publisher={MDPI}
+},
+  doi = {10.3390/sci6010003}
+
+
+@article{varona2022discrimination,
+  title={Discrimination, bias, fairness, and trustworthy AI},
+  author={Varona, Daniel and Su{\'a}rez, Juan Luis},
+  journal={Applied Sciences},
+  volume={12},
+  number={12},
+  pages={5826},
+  year={2022},
+  publisher={MDPI}
+},
+  doi = {10.3390/app12125826}
+
+
+@article{yang2024harnessing,
+  title={Harnessing the power of llms in practice: A survey on chatgpt and beyond},
+  author={Yang, Jingfeng and Jin, Hongye and Tang, Ruixiang and Han, Xiaotian and Feng, Qizhang and Jiang, Haoming and Zhong, Shaochen and Yin, Bing and Hu, Xia},
+  journal={ACM Transactions on Knowledge Discovery from Data},
+  volume={18},
+  number={6},
+  pages={1--32},
+  year={2024},
+  publisher={ACM New York, NY}
+},
+  doi = {10.1145/3649506}
+
+
+@article{van2023ai,
+  title={AI and science: what 1,600 researchers think},
+  author={Van Noorden, Richard and Perkel, Jeffrey M},
+  journal={Nature},
+  volume={621},
+  number={7980},
+  pages={672--675},
+  year={2023},
+  publisher={Nature}
+},
+  doi = {10.1038/d41586-023-02980-0}
+
+
+@inproceedings{abbasiantaeb2024let,
+  title={Let the llms talk: Simulating human-to-human conversational qa via zero-shot llm-to-llm interactions},
+  author={Abbasiantaeb, Zahra and Yuan, Yifei and Kanoulas, Evangelos and Aliannejadi, Mohammad},
+  booktitle={Proceedings of the 17th ACM International Conference on Web Search and Data Mining},
+  pages={8--17},
+  year={2024}
+},
+  doi = {10.1145/3616855.3635856}
+
+
+@article{dehnert2021becoming,
+  title={Becoming human?: Ableism and control in'Detroit: Become human'and the implications for human-machine communication},
+  author={Dehnert, Marco and Leach, Rebecca B},
+  journal={Human-Machine Communication},
+  volume={2},
+  pages={137--152},
+  year={2021},
+  publisher={Communication and Social Robotics Labs Kalamazoo, Michigan}
+},
+  doi = {10.30658/hmc.2.7}
+
+
+@article{strachan2024testing,
+  title={Testing theory of mind in large language models and humans},
+  author={Strachan, James WA and Albergo, Dalila and Borghini, Giulia and Pansardi, Oriana and Scaliti, Eugenio and Gupta, Saurabh and Saxena, Krati and Rufo, Alessandro and Panzeri, Stefano and Manzi, Guido and others},
+  journal={Nature Human Behaviour},
+  pages={1--11},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+},
+  doi = {10.1038/s41562-024-01882-z}
+
+
+@article{teubner2023welcome,
+  title={Welcome to the era of chatgpt et al. the prospects of large language models},
+  author={Teubner, Timm and Flath, Christoph M and Weinhardt, Christof and van der Aalst, Wil and Hinz, Oliver},
+  journal={Business \& Information Systems Engineering},
+  volume={65},
+  number={2},
+  pages={95--101},
+  year={2023},
+  publisher={Springer}
+},
+  doi = {10.1007/s12599-023-00795-x}
+
+
+@article{min2023recent,
+  title={Recent advances in natural language processing via large pre-trained language models: A survey},
+  author={Min, Bonan and Ross, Hayley and Sulem, Elior and Veyseh, Amir Pouran Ben and Nguyen, Thien Huu and Sainz, Oscar and Agirre, Eneko and Heintz, Ilana and Roth, Dan},
+  journal={ACM Computing Surveys},
+  volume={56},
+  number={2},
+  pages={1--40},
+  year={2023},
+  publisher={ACM New York, NY}
+},
+  doi = {10.1145/3605943}
+
+
+@article{wu2023brief,
+  title={A brief overview of ChatGPT: The history, status quo and potential future development},
+  author={Wu, Tianyu and He, Shizhu and Liu, Jingping and Sun, Siqi and Liu, Kang and Han, Qing-Long and Tang, Yang},
+  journal={IEEE/CAA Journal of Automatica Sinica},
+  volume={10},
+  number={5},
+  pages={1122--1136},
+  year={2023},
+  publisher={IEEE}
+},
+  doi = {10.1109/jas.2023.123618}
+
+
+@article{rand2015social,
+  title={Social context and the dynamics of cooperative choice},
+  author={Rand, David G and Newman, George E and Wurzbacher, Owen M},
+  journal={Journal of behavioral decision making},
+  volume={28},
+  number={2},
+  pages={159--166},
+  year={2015},
+  publisher={Wiley Online Library}
+},
+  doi = {10.1002/bdm.1837}
+
+
+@inproceedings{gilpin2018explaining,
+  title={Explaining explanations: An overview of interpretability of machine learning},
+  author={Gilpin, Leilani H and Bau, David and Yuan, Ben Z and Bajwa, Ayesha and Specter, Michael and Kagal, Lalana},
+  booktitle={2018 IEEE 5th International Conference on data science and advanced analytics (DSAA)},
+  pages={80--89},
+  year={2018},
+  organization={IEEE}
+},
+  doi = {10.1109/dsaa.2018.00018}
+
+
+@article{van2021experimental,
+  title={Experimental games and social decision making},
+  author={van Dijk, Eric and De Dreu, Carsten KW},
+  journal={Annual Review of Psychology},
+  volume={72},
+  pages={415--438},
+  year={2021},
+  publisher={Annual Reviews}
+},
+  doi = {10.1146/annurev-psych-081420-110718}
+
+
+@article{peng2022effect,
+  title={The effect of required warmth on consumer acceptance of artificial intelligence in service: The moderating role of AI-human collaboration},
+  author={Peng, Chenming and van Doorn, Jenny and Eggers, Felix and Wieringa, Jaap E},
+  journal={International Journal of Information Management},
+  volume={66},
+  pages={102533},
+  year={2022},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.ijinfomgt.2022.102533}
+
+
+@article{bochniarz2022attitudes,
+  title={Attitudes to AI among high school students: Understanding distrust towards humans will not help us understand distrust towards AI},
+  author={Bochniarz, Klaudia T and Czerwi{\'n}ski, Stanis{\l}aw K and Sawicki, Artur and Atroszko, Pawe{\l} A},
+  journal={Personality and Individual Differences},
+  volume={185},
+  pages={111299},
+  year={2022},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.paid.2021.111299}
+
+
+@article{bao2021investigating,
+  title={Investigating the relationship between AI and trust in human-AI collaboration},
+  author={Bao, Ying and Cheng, Xusen and De Vreede, Triparna and De Vreede, Gert-Jan},
+  year={2021}
+},
+  doi = {10.24251/hicss.2021.074}
+
+
+@inproceedings{kim2024understanding,
+  title={Understanding large-language model (llm)-powered human-robot interaction},
+  author={Kim, Callie Y and Lee, Christine P and Mutlu, Bilge},
+  booktitle={Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction},
+  pages={371--380},
+  year={2024}
+},
+  doi = {10.1145/3610977.3634966}
+
+
+@article{rudin2019stop,
+  title={Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead},
+  author={Rudin, Cynthia},
+  journal={Nature machine intelligence},
+  volume={1},
+  number={5},
+  pages={206--215},
+  year={2019},
+  publisher={Nature Publishing Group UK London}
+},
+  doi = {10.1038/s42256-019-0048-x}
+
+
+@article{das2020opportunities,
+  title={Opportunities and challenges in explainable artificial intelligence (xai): A survey},
+  author={Das, Arun and Rad, Paul},
+  journal={arXiv preprint arXiv:2006.11371},
+  year={2020}
+},
+  doi = {10.4236/oalib.1112518}
+
+
+@inproceedings{lima2022conflict,
+  title={The conflict between explainable and accountable decision-making algorithms},
+  author={Lima, Gabriel and Grgi{\'c}-Hla{\v{c}}a, Nina and Jeong, Jin Keun and Cha, Meeyoung},
+  booktitle={Proceedings of the 2022 ACM conference on fairness, accountability, and transparency},
+  pages={2103--2113},
+  year={2022}
+},
+  doi = {10.1145/3531146.3534628}
+
+
+@article{weber2020integrating,
+  title={Integrating intrinsic and extrinsic explainability: The relevance of understanding neural networks for human-robot interaction},
+  author={Weber, Tom and Wermter, Stefan},
+  journal={arXiv preprint arXiv:2010.04602},
+  year={2020}
+},
+  doi = {10.1007/s11016-011-9549-x}
+
+
+@book{russell2019human,
+  title={Human compatible: AI and the problem of control},
+  author={Russell, Stuart},
+  year={2019},
+  publisher={Penguin Uk}
+},
+  doi = {10.3917/pe.204.0186o}
+
+
+@article{bates2015parsimonious,
+  title={Parsimonious mixed models},
+  author={Bates, Douglas and Kliegl, Reinhold and Vasishth, Shravan and Baayen, Harald},
+  journal={arXiv preprint arXiv:1506.04967},
+  year={2015}
+},
+  doi = {10.1007/s00357-010-9045-9}
+
+
+@inproceedings{10.1145/3584931.3606951,
+author = {Lim, Gionnieve and Kim, Hyunwoo and Choi, Yoonseo and Li, Toby Jia-Jun and Kulkarni, Chinmay and Subramonyam, Hariharan and Seering, Joseph and Bernstein, Michael S. and Zhang, Amy X. and Glassman, Elena L. and Perrault, Simon and Kim, Juho},
+title = {Designing for AI-Powered Social Computing Systems},
+year = {2023},
+isbn = {9798400701290},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3584931.3606951},
+doi = {10.1145/3584931.3606951},
+abstract = {The CSCW community has been active in designing, implementing, and evaluating novel social computing systems. In recent years, there has been a rise in using AI to empower social interactions and the capabilities of these systems. While these implementations charge ahead of the establishment of ethical and legal frameworks, it is timely to reflect on the state of AI-powered social computing systems and to identify new research agendas for the community. This Special Interest Group aims to bring in researchers and practitioners from different fields to foster discussions on the key considerations and challenges in designing for AI-powered social computing systems and to promote opportunities for new research collaborations.},
+booktitle = {Companion Publication of the 2023 Conference on Computer Supported Cooperative Work and Social Computing},
+pages = {572–575},
+numpages = {4},
+keywords = {artificial intelligence, design, human-AI interaction, social computing systems},
+location = {Minneapolis, MN, USA},
+series = {CSCW '23 Companion}
+},
+  doi = {10.1093/benz/9780199773787.article.b00109825}
+
+
+@article{xing2024designing,
+  title={Designing heterogeneous llm agents for financial sentiment analysis},
+  author={Xing, Frank},
+  journal={ACM Transactions on Management Information Systems},
+  year={2024},
+  publisher={ACM New York, NY}
+},
+  doi = {10.1145/3688399}
+
+
+@article{bilquise2022emotionally,
+  title={Emotionally intelligent chatbots: a systematic literature review},
+  author={Bilquise, Ghazala and Ibrahim, Samar and Shaalan, Khaled},
+  journal={Human Behavior and Emerging Technologies},
+  volume={2022},
+  number={1},
+  pages={9601630},
+  year={2022},
+  publisher={Wiley Online Library}
+},
+  doi = {10.1155/2022/9601630}
+
+
+@inproceedings{thomas2020expressions,
+  title={Expressions of style in information seeking conversation with an agent},
+  author={Thomas, Paul and McDuff, Daniel and Czerwinski, Mary and Craswell, Nick},
+  booktitle={Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={1171--1180},
+  year={2020}
+},
+  doi = {10.1145/3397271.3401127}
+
+
+@article{pettit1989backward,
+  title={The backward induction paradox},
+  author={Pettit, Philip and Sugden, Robert},
+  journal={The Journal of Philosophy},
+  volume={86},
+  number={4},
+  pages={169--182},
+  year={1989},
+  publisher={JSTOR}
+},
+  doi = {10.2307/2026960}
+
+
+@article{young2009learning,
+  title={Learning by trial and error},
+  author={Young, H Peyton},
+  journal={Games and economic behavior},
+  volume={65},
+  number={2},
+  pages={626--643},
+  year={2009},
+  publisher={Elsevier}
+},
+  doi = {10.1007/978-1-4614-6675-8_100626}
+
+
+@article{ribino2023role,
+  title={The role of politeness in human--machine interactions: a systematic literature review and future perspectives},
+  author={Ribino, Patrizia},
+  journal={Artificial Intelligence Review},
+  volume={56},
+  number={Suppl 1},
+  pages={445--482},
+  year={2023},
+  publisher={Springer}
+},
+  doi = {10.1007/s10462-023-10540-1}
+
+
+@article{stapel2005competition,
+  title={Competition, cooperation, and the effects of others on me.},
+  author={Stapel, Diederik A and Koomen, Willem},
+  journal={Journal of personality and social psychology},
+  volume={88},
+  number={6},
+  pages={1029},
+  year={2005},
+  publisher={American Psychological Association}
+},
+  doi = {10.1037/0022-3514.88.6.1029}
+
+
+@article{vistorte2024integrating,
+  title={Integrating artificial intelligence to assess emotions in learning environments: a systematic literature review},
+  author={Vistorte, Angel Olider Rojas and Deroncele-Acosta, Angel and Ayala, Juan Luis Mart{\'\i}n and Barrasa, Angel and L{\'o}pez-Granero, Caridad and Mart{\'\i}-Gonz{\'a}lez, Mariacarla},
+  journal={Frontiers in Psychology},
+  volume={15},
+  pages={1387089},
+  year={2024},
+  publisher={Frontiers Media SA}
+},
+  doi = {10.3389/fpsyg.2024.1387089}
+
+
+@article{glikson2020human,
+  title={Human trust in artificial intelligence: Review of empirical research},
+  author={Glikson, Ella and Woolley, Anita Williams},
+  journal={Academy of Management Annals},
+  volume={14},
+  number={2},
+  pages={627--660},
+  year={2020},
+  publisher={Briarcliff Manor, NY}
+},
+  doi = {10.5465/annals.2018.0057}
+
+
+@misc{barr2013random,
+  title={Random effects structure for testing interactions in linear mixed-effects models},
+  author={Barr, Dale J},
+  journal={Frontiers in psychology},
+  volume={4},
+  pages={328},
+  year={2013},
+  publisher={Frontiers Media SA}
+},
+  doi = {10.3389/fpsyg.2013.00328}
+
+
+@article{kuznetsova2017lmertest,
+  title={lmerTest package: tests in linear mixed effects models},
+  author={Kuznetsova, Alexandra and Brockhoff, Per B and Christensen, Rune Haubo Bojesen},
+  journal={Journal of statistical software},
+  volume={82},
+  number={13},
+  year={2017},
+  publisher={The Foundation for Open Access Statistics}
+},
+  doi = {10.18637/jss.v082.i13}
+
+
+@article{nowak1993chaos,
+  title={Chaos and the evolution of cooperation.},
+  author={Nowak, Martin and Sigmund, Karl},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={90},
+  number={11},
+  pages={5091--5094},
+  year={1993},
+  publisher={National Acad Sciences}
+},
+  doi = {10.1073/pnas.90.11.5091}
+
+
+@article{hadfield2016cooperative,
+  title={Cooperative inverse reinforcement learning},
+  author={Hadfield-Menell, Dylan and Russell, Stuart J and Abbeel, Pieter and Dragan, Anca},
+  journal={Advances in neural information processing systems},
+  volume={29},
+  year={2016}
+},
+  doi = {10.1109/icsmc.2012.6378020}
+
+
+@book{russell2016artificial,
+  title={Artificial intelligence: a modern approach},
+  author={Russell, Stuart J and Norvig, Peter},
+  year={2016},
+  publisher={Pearson}
+},
+  doi = {10.5860/choice.33-1577}
+
+
+@inproceedings{bender2020climbing,
+  title={Climbing towards NLU: On meaning, form, and understanding in the age of data},
+  author={Bender, Emily M and Koller, Alexander},
+  booktitle={Proceedings of the 58th annual meeting of the association for computational linguistics},
+  pages={5185--5198},
+  year={2020}
+},
+  doi = {10.18653/v1/2020.acl-main.463}
+
+
+@article{schick2020exploiting,
+  title={Exploiting cloze questions for few shot text classification and natural language inference},
+  author={Schick, Timo and Sch{\"u}tze, Hinrich},
+  journal={arXiv preprint arXiv:2001.07676},
+  year={2020}
+},
+  doi = {10.18653/v1/2021.eacl-main.20}
+
+
+@article{igwe2024using,
+  title={Using artificial agents to nudge outgroup altruism and reduce ingroup favoritism in human-agent interaction},
+  author={Igwe, Kevin and Durrheim, Kevin},
+  journal={Scientific reports},
+  volume={14},
+  number={1},
+  pages={15850},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+},
+  doi = {10.1038/s41598-024-64682-5}
+
+
+@article{silva2023explainable,
+  title={Explainable artificial intelligence: Evaluating the objective and subjective impacts of xai on human-agent interaction},
+  author={Silva, Andrew and Schrum, Mariah and Hedlund-Botti, Erin and Gopalan, Nakul and Gombolay, Matthew},
+  journal={International Journal of Human--Computer Interaction},
+  volume={39},
+  number={7},
+  pages={1390--1404},
+  year={2023},
+  publisher={Taylor \& Francis}
+},
+  doi = {10.1080/10447318.2022.2101698}
+
+
+@article{ishowo2019behavioral,
+  title={Behavioural evidence for a transparency--efficiency tradeoff in human--machine cooperation},
+  author={Ishowo-Oloko, Fatimah and Bonnefon, Jean-Fran{\c{c}}ois and Soroye, Zakariyah and Crandall, Jacob and Rahwan, Iyad and Rahwan, Talal},
+  journal={Nature Machine Intelligence},
+  volume={1},
+  number={11},
+  pages={517--521},
+  year={2019},
+  publisher={Nature Publishing Group UK London}
+},
+  doi = {10.1038/s42256-019-0113-5}
+
+
+@article{rudin2019stop,
+  title={Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead},
+  author={Rudin, Cynthia},
+  journal={Nature machine intelligence},
+  volume={1},
+  number={5},
+  pages={206--215},
+  year={2019},
+  publisher={Nature Publishing Group UK London}
+},
+  doi = {10.1038/s42256-019-0048-x}
+
+
+@inproceedings{Chen2014SituationAA,
+  title={Situation Awareness-Based Agent Transparency},
+  author={Jessie Y.C. Chen and Katelyn Procci and Michael W. Boyce and Julia L. Wright and Andre Garcia and Michael J. Barnes},
+  year={2014},
+  url={https://api.semanticscholar.org/CorpusID:107669903}
+},
+  doi = {10.21236/ada600351}
+
+
+@article{IshowoOloko2019BehaviouralEF,
+  title={Behavioural evidence for a transparency–efficiency tradeoff in human–machine cooperation},
+  author={Fatimah Ishowo-Oloko and Jean‐François Bonnefon and Zakariyah Soroye and Jacob W. Crandall and Iyad Rahwan and Talal Rahwan},
+  journal={Nature Machine Intelligence},
+  year={2019},
+  volume={1},
+  pages={517 - 521},
+  url={https://api.semanticscholar.org/CorpusID:209052995}
+},
+  doi = {10.1038/s42256-019-0113-5}
+
+
+@article{balasubramaniam2023transparency,
+  title={Transparency and explainability of AI systems: From ethical guidelines to requirements},
+  author={Balasubramaniam, Nagadivya and Kauppinen, Marjo and Rannisto, Antti and Hiekkanen, Kari and Kujala, Sari},
+  journal={Information and Software Technology},
+  volume={159},
+  pages={107197},
+  year={2023},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.infsof.2023.107197}
+
+
+@incollection{adnan2024importance,
+  title={The Importance of Interpretability in AI Systems and Its Implications for Deep Learning: Ensuring Transparency in Intelligent Systems},
+  author={Adnan, Muhammad},
+  booktitle={Deep Learning, Reinforcement Learning, and the Rise of Intelligent Systems},
+  pages={41--76},
+  year={2024},
+  publisher={IGI Global}
+},
+  doi = {10.4018/979-8-3693-1738-9.ch003}
+
+
+@article{crandall2014towards,
+  title={Towards minimizing disappointment in repeated games},
+  author={Crandall, Jacob W},
+  journal={Journal of Artificial Intelligence Research},
+  volume={49},
+  pages={111--142},
+  year={2014}
+},
+  doi = {10.1613/jair.4202}
+
+
+@article{dreber2008winners,
+  title={Winners don’t punish},
+  author={Dreber, Anna and Rand, David G and Fudenberg, Drew and Nowak, Martin A},
+  journal={Nature},
+  volume={452},
+  number={7185},
+  pages={348--351},
+  year={2008},
+  publisher={Nature Publishing Group UK London}
+},
+  doi = {10.1038/nature06723}
+
+
+@misc{Gates2024,
+  author = "Bill Gates",
+  title = "The Age of AI Has Begun",
+  year = "2024",
+  url = "https://www.gatesnotes.com/The-Age-of-AI-Has-Begun",
+  note = "[Online; accessed 10-June-2024]"
+}
+
+@article{geiselmann2023interacting,
+  title={Interacting with agents without a mind: the case for artificial agents},
+  author={Geiselmann, Rebecca and Tsourgianni, Afroditi and Deroy, Ophelia and Harris, Lasana T},
+  journal={Current Opinion in Behavioral Sciences},
+  volume={51},
+  pages={101282},
+  year={2023},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.cobeha.2023.101282}
+
+
+@article{fahnenstich2024trusting,
+  title={Trusting under risk--comparing human to AI decision support agents},
+  author={Fahnenstich, Hannah and Rieger, Tobias and Roesler, Eileen},
+  journal={Computers in Human Behavior},
+  volume={153},
+  pages={108107},
+  year={2024},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.chb.2023.108107}
+
+
+@article{wang2023impact,
+  title={The Impact of AI Transparency and Reliability on Human-AI Collaborative Decision-Making},
+  author={Wang, Xujinfeng and Yang, Yicheng and Tao, Da and Zhang, Tingru},
+  journal={Artificial Intelligence, Social Computing and Wearable Technologies},
+  volume={113},
+  number={113},
+  year={2023},
+  publisher={AHFE Open Acces}
+},
+  doi = {10.54941/ahfe1004203}
+
+
+@article{li2024impact,
+  title={The impact of AI identity disclosure on consumer unethical behavior: A social judgment perspective},
+  author={Li, Tian-Ge and Zhang, Chu-Bing and Chang, Ying and Zheng, Wei},
+  journal={Journal of Retailing and Consumer Services},
+  volume={76},
+  pages={103606},
+  year={2024},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.jretconser.2023.103606}
+
+
+@inproceedings{lamparth2024human,
+  title={Human vs. machine: Behavioral differences between expert humans and language models in wargame simulations},
+  author={Lamparth, Max and Corso, Anthony and Ganz, Jacob and Mastro, Oriana Skylar and Schneider, Jacquelyn and Trinkunas, Harold},
+  booktitle={Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society},
+  volume={7},
+  number={1},
+  pages={807--817},
+  year={2024}
+},
+  doi = {10.1609/aies.v7i1.31681}
+
+
+@article{Martinez-Vaquero2015Apology,title={Apology and forgiveness evolve to resolve failures in cooperative agreements},author={L. Martinez-Vaquero and T. Han and L. Pereira and Tom Lenaerts},journal={Scientific Reports},year={2015},volume={5},doi={10.1038/srep10639}},
+  doi = {10.1038/srep10639}
+
+
+@article{wang2020long,
+  title={Long deliberation times promote cooperation in the prisoner’s dilemma game},
+  author={Wang, Dongqi and Shuai, Xuanyue and Pan, Qiuhui and Li, Jingye and Lan, Xiaolong and He, Mingfeng},
+  journal={Physica A: Statistical Mechanics and its Applications},
+  volume={537},
+  pages={122719},
+  year={2020},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.physa.2019.122719}
+
+
+@article{ng2023communicative,
+  title={When communicative AIs are cooperative actors: a prisoner’s dilemma experiment on human--communicative artificial intelligence cooperation},
+  author={Ng, Yu-Leung},
+  journal={Behaviour \& Information Technology},
+  volume={42},
+  number={13},
+  pages={2141--2151},
+  year={2023},
+  publisher={Taylor \& Francis}
+},
+  doi = {10.1080/0144929x.2022.2111273}
+
+
+@misc{fontana2024nicerhumanslargelanguage,
+      title={Nicer Than Humans: How do Large Language Models Behave in the Prisoner's Dilemma?}, 
+      author={Nicoló Fontana and Francesco Pierri and Luca Maria Aiello},
+      year={2024},
+      eprint={2406.13605},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY},
+      url={https://arxiv.org/abs/2406.13605}, 
+},
+  doi = {10.18653/v1/2024.cmcl-1.4}
+
+
+@article{lu2024llms,
+  title={LLMs and generative agent-based models for complex systems research},
+  author={Lu, Yikang and Aleta, Alberto and Du, Chunpeng and Shi, Lei and Moreno, Yamir},
+  journal={Physics of Life Reviews},
+  year={2024},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.plrev.2024.10.013}
+
+
+@article{duan2025understanding,
+  title={Understanding the processes of trust and distrust contagion in Human--AI Teams: A qualitative approach},
+  author={Duan, Wen and Zhou, Shiwen and Scalia, Matthew J and Freeman, Guo and Gorman, Jamie and Tolston, Michael and McNeese, Nathan J and Funke, Gregory},
+  journal={Computers in Human Behavior},
+  volume={165},
+  pages={108560},
+  year={2025},
+  publisher={Elsevier}
+},
+  doi = {10.1016/j.chb.2025.108560}
+
+
+@inproceedings{panagoulias2023rule,
+  title={Rule-augmented artificial intelligence-empowered systems for medical diagnosis using large language models},
+  author={Panagoulias, Dimitrios P and Palamidas, Filippos A and Virvou, Maria and Tsihrintzis, George A},
+  booktitle={2023 IEEE 35th International Conference on Tools with Artificial Intelligence (ICTAI)},
+  pages={70--77},
+  year={2023},
+  organization={IEEE}
+},
+  doi = {10.1109/ictai59109.2023.00018}
+
+
+@article{Chkirbene2024Large,title={Large Language Models (LLM) in Industry: A Survey of Applications, Challenges, and Trends},author={Zina Chkirbene and R. Hamila and A. Gouissem and Unal Devrim},journal={2024 IEEE 21st International Conference on Smart Communities: Improving Quality of Life using AI, Robotics and IoT (HONET)},year={2024},pages={229-234},doi={10.1109/HONET63146.2024.10822885}},
+  doi = {10.1109/honet63146.2024.10822885}
+
+
+@article{rane2023explainable,
+  title={Explainable Artificial Intelligence (XAI) approaches for transparency and accountability in financial decision-making},
+  author={Rane, Nitin and Choudhary, Saurabh and Rane, Jayesh},
+  journal={Available at SSRN 4640316},
+  year={2023}
+}
+@article{10.1016/j.chb.2024.108448,
+author = {Chen, Hao and Wang, Pingping and Hao, Shuaikang},
+title = {AI in the spotlight: The impact of artificial intelligence disclosure on user engagement in short-form videos},
+year = {2025},
+issue_date = {Jan 2025},
+publisher = {Elsevier Science Publishers B. V.},
+address = {NLD},
+volume = {162},
+number = {C},
+issn = {0747-5632},
+url = {https://doi.org/10.1016/j.chb.2024.108448},
+doi = {10.1016/j.chb.2024.108448},
+journal = {Comput. Hum. Behav.},
+month = jan,
+numpages = {14},
+keywords = {AI disclosure, Heuristic-systematic model, Content quality, Perceived AI capabilities}
+},
+  doi = {10.2139/ssrn.4640316}
+
+
+@article{Saffarizadeh2024"My,title={"My Name is Alexa. What's Your Name?" The Impact of Reciprocal Self-Disclosure on Post-Interaction Trust in Conversational Agents},author={Kambiz Saffarizadeh and Mark Keil and Maheshwar Boodraj and Tawfiq Alashoor},journal={J. Assoc. Inf. Syst.},year={2024},volume={25},pages={9},doi={10.17705/1jais.00839}},
+  doi = {10.17705/1jais.00839}
+
+
+@article{von2021transparency,
+  title={Transparency and the black box problem: Why we do not trust AI},
+  author={Von Eschenbach, Warren J},
+  journal={Philosophy \& Technology},
+  volume={34},
+  number={4},
+  pages={1607--1622},
+  year={2021},
+  publisher={Springer}
+},
+  doi = {10.1007/s13347-021-00477-0}
+
+
+@misc{StanfordHAI2023,
+  title        = {Artificial Intelligence Index Report 2023},
+  author       = {Stanford Human-Centered Artificial Intelligence},
+  howpublished = {Stanford Human-Centered Artificial Intelligence (HAI)},
+  year         = {2023},
+  month        = {April},
+  url          = {https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf}
+},
+  doi = {10.1109/tai.2023.3339938}
+
+
+@inproceedings{yang2023against,
+  title={Against Opacity: Explainable AI and Large Language Models for Effective Digital Advertising},
+  author={Yang, Qi and Ongpin, Marlo and Nikolenko, Sergey and Huang, Alfred and Farseev, Aleksandr},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={9299--9305},
+  year={2023}
+},
+  doi = {10.1145/3581783.3612817}
+
+
+
+
+@misc{McKinseyQuantumblack2023,
+  title={The State of AI in 2023: Generative AI’s Breakout Year},
+  year ={2023},
+  author       = {McKinsey \& Company},
+  howpublished = {\url{https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year}},
+  note = {Accessed: 2024-06-30},
+  organization = {QuantumBlack, AI by McKinsey}
+},
+  doi = {10.1109/mc.2024.3374433}
+
+
+@article{hoffmann2022training,
+  title={Training compute-optimal large language models},
+  author={Hoffmann, Jordan and Borgeaud, Sebastian and Mensch, Arthur and Buchatskaya, Elena and Cai, Trevor and Rutherford, Eliza and Casas, Diego de Las and Hendricks, Lisa Anne and Welbl, Johannes and Clark, Aidan and others},
+  journal={arXiv preprint arXiv:2203.15556},
+  year={2022}
+},
+  doi = {10.1101/2024.06.06.597716}
+
+
+@article{10.1145/3641289,
+author = {Chang, Yupeng and Wang, Xu and Wang, Jindong and Wu, Yuan and Yang, Linyi and Zhu, Kaijie and Chen, Hao and Yi, Xiaoyuan and Wang, Cunxiang and Wang, Yidong and Ye, Wei and Zhang, Yue and Chang, Yi and Yu, Philip S. and Yang, Qiang and Xie, Xing},
+title = {A Survey on Evaluation of Large Language Models},
+year = {2024},
+issue_date = {June 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {15},
+number = {3},
+issn = {2157-6904},
+url = {https://doi.org/10.1145/3641289},
+doi = {10.1145/3641289},
+abstract = {Large language models (LLMs) are gaining increasing popularity in both academia and industry, owing to their unprecedented performance in various applications. As LLMs continue to play a vital role in both research and daily use, their evaluation becomes increasingly critical, not only at the task level, but also at the society level for better understanding of their potential risks. Over the past years, significant efforts have been made to examine LLMs from various perspectives. This paper presents a comprehensive review of these evaluation methods for LLMs, focusing on three key dimensions: what to evaluate, where to evaluate, and how to evaluate. Firstly, we provide an overview from the perspective of evaluation tasks, encompassing general natural language processing tasks, reasoning, medical usage, ethics, education, natural and social sciences, agent applications, and other areas. Secondly, we answer the ‘where’ and ‘how’ questions by diving into the evaluation methods and benchmarks, which serve as crucial components in assessing the performance of LLMs. Then, we summarize the success and failure cases of LLMs in different tasks. Finally, we shed light on several future challenges that lie ahead in LLMs evaluation. Our aim is to offer invaluable insights to researchers in the realm of LLMs evaluation, thereby aiding the development of more proficient LLMs. Our key point is that evaluation should be treated as an essential discipline to better assist the development of LLMs. We consistently maintain the related open-source materials at:},
+journal = {ACM Trans. Intell. Syst. Technol.},
+month = {mar},
+articleno = {39},
+numpages = {45},
+keywords = {Large language models, evaluation, model assessment, benchmark}
+},
+  doi = {10.1163/1570-6664_iyb_sim_person_53411}

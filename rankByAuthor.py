@@ -25,8 +25,14 @@ def sort_bibtex_entries(file_path, output_path):
     print(f"已排序的 BibTeX 条目保存到 {output_path}")
 
 # 文件路径（替换为你的文件路径）
-input_file = "/Users/yangshirao/Desktop/1.txt"
-output_file = "/Users/yangshirao/Desktop/1.0.txt"
+input_file = "/Users/jiangguanxuan/Downloads/Bibitem-Generator/reference.txt"
+output_file = "/Users/jiangguanxuan/Downloads/Bibitem-Generator/1.0.txt"
+
+# 确保输入文件存在
+import os
+if not os.path.exists(input_file):
+    raise FileNotFoundError(f"输入文件不存在: {input_file}")
+
 
 # 调用排序函数
 sort_bibtex_entries(input_file, output_file)

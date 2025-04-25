@@ -1,0 +1,1687 @@
+\bibitem[Kasneci, Enkelejda et al.(2023)]{kasneci2023chatgpt}
+  Kasneci, Enkelejda, Se{\ss}ler, Kathrin, et al.,
+  \textit{ChatGPT for good? On opportunities and challenges of large language models for education},
+  in: \textit{Learning and individual differences}, vol. 103, pp. 102274, 2023.
+  doi: {10.35542/osf.io/5er8f}
+
+
+\bibitem[Liu, Yiheng et al.(2023)]{liu2023summary}
+  Liu, Yiheng, Han, Tianle, et al.,
+  \textit{Summary of chatgpt-related research and perspective towards the future of large language models},
+  in: \textit{Meta-Radiology}, vol. Unknown Volume, pp. 100017, 2023.
+  doi: {10.1016/j.metrad.2023.100017}
+
+
+\bibitem[Lassiter, Tina B. & Fleischmann, Kenneth R. (2024)]{10.1145/3686963}
+  Lassiter, Tina B., Fleischmann, Kenneth R.,
+  \textit{"Something Fast and Cheap" or "A Core Element of Building Trust"? - AI Auditing Professionals' Perspectives on Trust in AI},
+  in: \textit{Proc. ACM Hum.-Comput. Interact.}, vol. 8, pp. 22, 2024.
+  doi: {10.1145/3686963}
+
+
+\bibitem[Axelrod, Daniel I (1981)]{axelrod1981role}
+  Axelrod, Daniel I,
+  \textit{Role of volcanism in climate and evolution},
+  in: \textit{Unknown Journal}, vol. 185, pp. Unknown Pages, 1981.
+  doi: {10.1130/spe185-p1}
+
+
+\bibitem[Tian Song et al.(2024)]{Song2024A}
+  Tian Song, Hang Zhang, et al.,
+  \textit{A High-Quality Generation Approach for Educational Programming Projects Using LLM},
+  in: \textit{IEEE Transactions on Learning Technologies}, vol. 17, pp. 2296-2309, 2024.
+  doi: {10.1109/TLT.2024.3499751}
+
+
+\bibitem[Mohammed Rizvi (2023)]{Rizvi2023Exploring}
+  Mohammed Rizvi,
+  \textit{Exploring the landscape of artificial intelligence in education: Challenges and opportunities},
+  in: \textit{2023 5th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA)}, vol. Unknown Volume, pp. 01-03, 2023.
+  doi: {10.1109/HORA58378.2023.10156773}
+
+
+\bibitem[Mounir Hamdi (2024)]{Hamdi2024How}
+  Mounir Hamdi,
+  \textit{How AI is Transforming and Shaping the Future of Education},
+  in: \textit{2024 IEEE 28th International Conference on Intelligent Engineering Systems (INES)}, vol. Unknown Volume, pp. 000115-000116, 2024.
+  doi: {10.1109/ines63318.2024.10629089}
+
+
+\bibitem[Sixu An et al.(2024)]{An2024Developing}
+  Sixu An, Yicong Li, et al.,
+  \textit{Developing an LLM-Empowered Agent to Enhance Student Collaborative Learning Through Group Discussion},
+  in: \textit{International Conference on Computers in Education}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.58459/icce.2024.4953}
+
+
+\bibitem[Oh, Catherine S et al.(2018)]{oh2018systematic}
+  Oh, Catherine S, Bailenson, Jeremy N, et al.,
+  \textit{A systematic review of social presence: Definition, antecedents, and implications},
+  in: \textit{Frontiers in Robotics and AI}, vol. 5, pp. 114, 2018.
+  doi: {10.3389/frobt.2018.00114}
+
+
+\bibitem[Alicke, Mark D & Sedikides, Constantine (2009)]{alicke2009self}
+  Alicke, Mark D, Sedikides, Constantine,
+  \textit{Self-enhancement and self-protection: What they are and what they do},
+  in: \textit{European review of social psychology}, vol. 20, pp. 1--48, 2009.
+  doi: {10.1080/10463280802613866}
+
+
+\bibitem[Michelle Vaccaro et al.(2024)]{Vaccaro2024When}
+  Michelle Vaccaro, Abdullah Almaatouq, et al.,
+  \textit{When combinations of humans and AI are useful: A systematic review and meta-analysis},
+  in: \textit{Nature Human Behaviour}, vol. 8, pp. 2293 - 2303, 2024.
+  doi: {10.1038/s41562-024-02024-1}
+
+
+\bibitem[Rudin, Cynthia & Radin, Joanna (2019)]{rudin2019we}
+  Rudin, Cynthia, Radin, Joanna,
+  \textit{Why are we using black box models in AI when we don’t need to? A lesson from an explainable AI competition},
+  in: \textit{Harvard Data Science Review}, vol. 1, pp. 1--9, 2019.
+  doi: {10.1162/99608f92.5a8a3a3d}
+
+
+\bibitem[Virginia Dignum (2018)]{Dignum2018Ethics}
+  Virginia Dignum,
+  \textit{Ethics in artificial intelligence: introduction to the special issue},
+  in: \textit{Ethics and Information Technology}, vol. 20, pp. 1 - 3, 2018.
+  doi: {10.1007/s10676-018-9450-z}
+
+
+\bibitem[M. Endsley (2023)]{Endsley2023Supporting}
+  M. Endsley,
+  \textit{Supporting Human-AI Teams: Transparency, explainability, and situation awareness},
+  in: \textit{Comput. Hum. Behav.}, vol. 140, pp. 107574, 2023.
+  doi: {10.1016/j.chb.2022.107574}
+
+
+\bibitem[Andrew Gambino et al.(2020)]{Gambino2020Building}
+  Andrew Gambino, Jesse Fox, et al.,
+  \textit{Building a Stronger CASA: Extending the Computers Are Social Actors Paradigm},
+  in: \textit{Unknown Journal}, vol. 1, pp. 71-86, 2020.
+  doi: {10.30658/hmc.1.5}
+
+
+\bibitem[Michelle Cohn et al.(2024)]{Cohn2024Believing}
+  Michelle Cohn, Mahima Pushkarna, et al.,
+  \textit{Believing Anthropomorphism: Examining the Role of Anthropomorphic Cues on Trust in Large Language Models},
+  in: \textit{Extended Abstracts of the CHI Conference on Human Factors in Computing Systems}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.1145/3613905.3650818}
+
+
+\bibitem[Tze Wei Liew & Su-Mae Tan (2021)]{Liew2021Social}
+  Tze Wei Liew, Su-Mae Tan,
+  \textit{Social cues and implications for designing expert and competent artificial agents: A systematic review},
+  in: \textit{Telematics Informatics}, vol. 65, pp. 101721, 2021.
+  doi: {10.1016/j.tele.2021.101721}
+
+
+\bibitem[Sachin, Panda Kumar & Schecter, Aaron (2024)]{sachin2024advice}
+  Sachin, Panda Kumar, Schecter, Aaron,
+  \textit{Advice Utilization in Combined Human-Algorithm Decision-Making: An Analysis of Preferences and Behaviors},
+  in: \textit{Journal of the Association for Information Systems}, vol. 25, pp. 1439--1465, 2024.
+  doi: {10.17705/1jais.00896}
+
+
+\bibitem[Jermutus, Eva et al.(2022)]{jermutus2022influences}
+  Jermutus, Eva, Kneale, Dylan, et al.,
+  \textit{Influences on user trust in healthcare artificial intelligence: A systematic review},
+  in: \textit{Wellcome Open Research}, vol. 7, pp. 65, 2022.
+  doi: {10.12688/wellcomeopenres.17550.1}
+
+
+\bibitem[Xu, Chunze et al.(2025)]{xu2025enhancing}
+  Xu, Chunze, Gao, Fengqiang, et al.,
+  \textit{Enhancing User Information Disclosure Intention in Dynamic Conversations of Intelligent Recommendation Systems Based on Large Language Models: A Perspective of User Gratification and Privacy Calculus},
+  in: \textit{International Journal of Human-Computer Studies}, vol. Unknown Volume, pp. 103511, 2025.
+  doi: {10.1016/j.ijhcs.2025.103511}
+
+
+\bibitem[Yipeng Xi et al.(2024)]{Xi2024Enhancing}
+  Yipeng Xi, Aitong Ji, et al.,
+  \textit{Enhancing or impeding? Exploring the dual impact of anthropomorphism in large language models on user aggression},
+  in: \textit{Telematics Informatics}, vol. 95, pp. 102194, 2024.
+  doi: {10.1016/j.tele.2024.102194}
+
+
+\bibitem[Haesevoets, Tessa et al.(2018)]{haesevoets2018behavioural}
+  Haesevoets, Tessa, Reinders Folmer, Chris, et al.,
+  \textit{Behavioural consistency within the prisoner's dilemma game: the role of personality and situation},
+  in: \textit{European Journal of Personality}, vol. 32, pp. 405--426, 2018.
+  doi: {10.1002/per.2158}
+
+
+\bibitem[Oskamp, Stuart (1971)]{oskamp1971effects}
+  Oskamp, Stuart,
+  \textit{Effects of programmed strategies on cooperation in the Prisoner's Dilemma and other mixed-motive games},
+  in: \textit{Journal of Conflict Resolution}, vol. 15, pp. 225--259, 1971.
+  doi: {10.1177/002200277101500207}
+
+
+\bibitem[Unknown Author (2023)]{makovi2023trust}
+  Unknown Author,
+  \textit{Trust within human-machine collectives depends on the perceived consensus about cooperative norms},
+  in: \textit{Nature Communications}, vol. 14, pp. 3108, 2023.
+  doi: {10.1038/s41467-023-38592-5}
+
+
+\bibitem[Burr, Christopher et al.(2018)]{burr2018analysis}
+  Burr, Christopher, Cristianini, Nello, et al.,
+  \textit{An analysis of the interaction between intelligent software agents and human users},
+  in: \textit{Minds and machines}, vol. 28, pp. 735--774, 2018.
+  doi: {10.1007/s11023-018-9479-0}
+
+
+\bibitem[Unknown Author (2019)]{ishowo2019behavioural}
+  Unknown Author,
+  \textit{Behavioural evidence for a transparency--efficiency tradeoff in human--machine cooperation},
+  in: \textit{Nature Machine Intelligence}, vol. 1, pp. 517--521, 2019.
+  doi: {10.1038/s42256-019-0113-5}
+
+
+\bibitem[Ahn, Jungyong et al.(2022)]{ahn2022effect}
+  Ahn, Jungyong, Kim, Jungwon, et al.,
+  \textit{The effect of gender stereotypes on artificial intelligence recommendations},
+  in: \textit{Journal of Business Research}, vol. 141, pp. 50--59, 2022.
+  doi: {10.1016/j.jbusres.2021.12.007}
+
+
+\bibitem[Jang, Yeonju et al.(2022)]{jang2022development}
+  Jang, Yeonju, Choi, Seongyune, et al.,
+  \textit{Development and validation of an instrument to measure undergraduate students’ attitudes toward the ethics of artificial intelligence (AT-EAI) and analysis of its difference by gender and experience of AI education},
+  in: \textit{Education and Information Technologies}, vol. 27, pp. 11635--11667, 2022.
+  doi: {10.1007/s10639-022-11086-5}
+
+
+\bibitem[Jiang, Guanxuan et al.(2024)]{10.1145/3678698.3678700}
+  Jiang, Guanxuan, Wang, Yuyang, et al.,
+  \textit{Blending Social Interaction Realms: Harmonizing Online and Offline Interactions through Augmented Reality},
+  in: \textit{Proceedings of the 17th International Symposium on Visual Information Communication and Interaction}, vol. Unknown Volume, pp. 8, 2024.
+  doi: {10.1145/3678698.3678700}
+
+
+\bibitem[Seppala, Emma & Cameron, Kim (2015)]{seppala2015proof}
+  Seppala, Emma, Cameron, Kim,
+  \textit{Proof that positive work cultures are more productive},
+  in: \textit{Harvard Business Review}, vol. 12, pp. 44--50, 2015.
+  doi: {10.1007/bf00733089}
+
+
+\bibitem[Renz, Sabrina et al.(2024)]{renz2024me}
+  Renz, Sabrina, Kalimeris, Jeanette, et al.,
+  \textit{Me, myself and AI: How gender, personality and emotions determine willingness to use Strong AI for self-improvement},
+  in: \textit{Technological Forecasting and Social Change}, vol. 209, pp. 123760, 2024.
+  doi: {10.1016/j.techfore.2024.123760}
+
+
+\bibitem[Ofosu-Ampong, Kingsley (2023)]{ofosu2023gender}
+  Ofosu-Ampong, Kingsley,
+  \textit{Gender differences in perception of artificial intelligence-based tools},
+  in: \textit{Journal of Digital Art \& Humanities}, vol. 4, pp. 52--56, 2023.
+  doi: {10.33847/2712-8149.4.2_6}
+
+
+\bibitem[Liu, Bingjie (2021)]{liu2021ai}
+  Liu, Bingjie,
+  \textit{In AI we trust? Effects of agency locus and transparency on uncertainty reduction in human--AI interaction},
+  in: \textit{Journal of computer-mediated communication}, vol. 26, pp. 384--402, 2021.
+  doi: {10.1093/jcmc/zmab013}
+
+
+\bibitem[Shen, Hua et al.(2023)]{10.1145/3584931.3607492}
+  Shen, Hua, Huang, Chieh-Yang, et al.,
+  \textit{ConvXAI : Delivering Heterogeneous AI Explanations via Conversations to Support Human-AI Scientific Writing},
+  in: \textit{Companion Publication of the 2023 Conference on Computer Supported Cooperative Work and Social Computing}, vol. Unknown Volume, pp. 384–387, 2023.
+  doi: {10.1145/3584931.3607492}
+
+
+\bibitem[Liao, Chengcheng et al.(2024)]{liao2024effective}
+  Liao, Chengcheng, Wen, Xin, et al.,
+  \textit{How effective is AI augmentation in human--AI collaboration? Evidence from a field experiment},
+  in: \textit{Information Technology \& People}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.1108/itp-11-2022-0859}
+
+
+\bibitem[Seeber, Isabella et al.(2020)]{seeber2020machines}
+  Seeber, Isabella, Bittner, Eva, et al.,
+  \textit{Machines as teammates: A research agenda on AI in team collaboration},
+  in: \textit{Information \& management}, vol. 57, pp. 103174, 2020.
+  doi: {10.1016/j.im.2019.103174}
+
+
+\bibitem[Kelly, Sage et al.(2023)]{kelly2023factors}
+  Kelly, Sage, Kaye, Sherrie-Anne, et al.,
+  \textit{What factors contribute to the acceptance of artificial intelligence? A systematic review},
+  in: \textit{Telematics and Informatics}, vol. 77, pp. 101925, 2023.
+  doi: {10.1016/j.tele.2022.101925}
+
+
+\bibitem[Tversky, Amos et al.(1982)]{tversky1982judgment}
+  Tversky, Amos, Kahneman, Daniel, et al.,
+  \textit{Judgment under uncertainty: Heuristics and biases},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 1982.
+  doi: {10.4324/9780203496398-10}
+
+
+\bibitem[Camerer, Colin F (2011)]{camerer2011behavioral}
+  Camerer, Colin F,
+  \textit{Behavioral game theory: Experiments in strategic interaction},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2011.
+  doi: {10.1016/j.socec.2003.10.009}
+
+
+\bibitem[Fehr, Ernst & G{\"a}chter, Simon (2000)]{fehr2000cooperation}
+  Fehr, Ernst, G{\"a}chter, Simon,
+  \textit{Cooperation and punishment in public goods experiments},
+  in: \textit{American Economic Review}, vol. 90, pp. 980--994, 2000.
+  doi: {10.2139/ssrn.203194}
+
+
+\bibitem[Wang, Liyuan et al.(2023)]{wang2023incorporating}
+  Wang, Liyuan, Zhang, Xingxing, et al.,
+  \textit{Incorporating neuro-inspired adaptability for continual learning in artificial intelligence},
+  in: \textit{Nature Machine Intelligence}, vol. 5, pp. 1356--1368, 2023.
+  doi: {10.1038/s42256-023-00747-w}
+
+
+\bibitem[Curzon, James et al.(2021)]{curzon2021privacy}
+  Curzon, James, Kosa, Tracy Ann, et al.,
+  \textit{Privacy and artificial intelligence},
+  in: \textit{IEEE Transactions on Artificial Intelligence}, vol. 2, pp. 96--108, 2021.
+  doi: {10.58830/ozgur.pub710.c3020}
+
+
+\bibitem[Arrieta, Alejandro Barredo et al.(2020)]{arrieta2020explainable}
+  Arrieta, Alejandro Barredo, D{\'\i}az-Rodr{\'\i}guez, Natalia, et al.,
+  \textit{Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI},
+  in: \textit{Information fusion}, vol. 58, pp. 82--115, 2020.
+  doi: {10.1016/j.inffus.2019.12.012}
+
+
+\bibitem[Pratchett, Lawrence (1999)]{pratchett1999new}
+  Pratchett, Lawrence,
+  \textit{New technologies and the modernization of local government: an analysis of biases and constraints},
+  in: \textit{Public administration}, vol. 77, pp. 731--751, 1999.
+  doi: {10.1111/1467-9299.00177}
+
+
+\bibitem[Kemp, Ayenda (2024)]{kemp2024competitive}
+  Kemp, Ayenda,
+  \textit{Competitive advantage through artificial intelligence: Toward a theory of situated AI},
+  in: \textit{Academy of Management Review}, vol. 49, pp. 618--635, 2024.
+  doi: {10.5465/amr.2020.0205}
+
+
+\bibitem[Wiethof, Christina et al.(2021)]{wiethof2021implementing}
+  Wiethof, Christina, Tavanapour, Navid, et al.,
+  \textit{Implementing an intelligent collaborative agent as teammate in collaborative writing: toward a synergy of humans and AI},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2021.
+  doi: {10.24251/hicss.2021.047}
+
+
+\bibitem[Mou, Yi & Xu, Kun (2017)]{mou2017media}
+  Mou, Yi, Xu, Kun,
+  \textit{The media inequality: Comparing the initial human-human and human-AI social interactions},
+  in: \textit{Computers in Human Behavior}, vol. 72, pp. 432--440, 2017.
+  doi: {10.1016/j.chb.2017.02.067}
+
+
+\bibitem[Ferrario, Andrea et al.(2020)]{ferrario2020ai}
+  Ferrario, Andrea, Loi, Michele, et al.,
+  \textit{In AI we trust incrementally: A multi-layer model of trust to analyze human-artificial intelligence interactions},
+  in: \textit{Philosophy \& Technology}, vol. 33, pp. 523--539, 2020.
+  doi: {10.1007/s13347-019-00378-3}
+
+
+\bibitem[Mou, Yi et al.(2024)]{mou2024does}
+  Mou, Yi, Zhang, Lin, et al.,
+  \textit{Does self-disclosing to a robot induce liking for the robot? Testing the disclosure and liking hypotheses in human--robot interaction},
+  in: \textit{International Journal of Human--Computer Interaction}, vol. 40, pp. 2534--2545, 2024.
+  doi: {10.1080/10447318.2022.2163350}
+
+
+\bibitem[Kim, Ahyeon et al.(2019)]{kim2019effects}
+  Kim, Ahyeon, Cho, Minha, et al.,
+  \textit{Effects of gender and relationship type on the response to artificial intelligence},
+  in: \textit{Cyberpsychology, Behavior, and Social Networking}, vol. 22, pp. 249--253, 2019.
+  doi: {10.1089/cyber.2018.0581}
+
+
+\bibitem[Tyler, Tom R & Blader, Steven L (2003)]{tyler2003group}
+  Tyler, Tom R, Blader, Steven L,
+  \textit{The group engagement model: Procedural justice, social identity, and cooperative behavior},
+  in: \textit{Personality and social psychology review}, vol. 7, pp. 349--361, 2003.
+  doi: {10.1207/s15327957pspr0704_07}
+
+
+\bibitem[Fehr, Ernst & G{\"a}chter, Simon (2000)]{fehr2000fairness}
+  Fehr, Ernst, G{\"a}chter, Simon,
+  \textit{Fairness and retaliation: The economics of reciprocity},
+  in: \textit{Journal of economic perspectives}, vol. 14, pp. 159--182, 2000.
+  doi: {10.2139/ssrn.229149}
+
+
+\bibitem[Krakowski, Sebastian et al.(2023)]{krakowski2023artificial}
+  Krakowski, Sebastian, Luger, Johannes, et al.,
+  \textit{Artificial intelligence and the changing sources of competitive advantage},
+  in: \textit{Strategic Management Journal}, vol. 44, pp. 1425--1452, 2023.
+  doi: {10.1002/smj.3387}
+
+
+\bibitem[Bender, Emily M et al.(2021)]{bender2021dangers}
+  Bender, Emily M, Gebru, Timnit, et al.,
+  \textit{On the dangers of stochastic parrots: Can language models be too big?��},
+  in: \textit{Proceedings of the 2021 ACM conference on fairness, accountability, and transparency}, vol. Unknown Volume, pp. 610--623, 2021.
+  doi: {10.1145/3442188.3445922}
+
+
+\bibitem[Axelrod, Robert & Hamilton, William D (1981)]{axelrod1981evolution}
+  Axelrod, Robert, Hamilton, William D,
+  \textit{The evolution of cooperation},
+  in: \textit{science}, vol. 211, pp. 1390--1396, 1981.
+  doi: {10.1016/b978-0-12-384719-5.00161-1}
+
+
+\bibitem[Porter, Michael E (2008)]{porter2008competition}
+  Porter, Michael E,
+  \textit{On competition},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2008.
+  doi: {10.1016/j.econlet.2013.05.021}
+
+
+\bibitem[Lancaster, Caitlin M et al.(2024)]{lancaster2024s}
+  Lancaster, Caitlin M, Schulenberg, Kelsea, et al.,
+  \textit{“It’s Everybody’s Role to Speak Up... But Not Everyone Will”: Understanding AI Professionals’ Perceptions of Accountability for AI Bias Mitigation},
+  in: \textit{ACM Journal on Responsible Computing}, vol. 1, pp. 1--30, 2024.
+  doi: {10.1145/3632121}
+
+
+\bibitem[Ehsan, Upol et al.(2021)]{ehsan2021expanding}
+  Ehsan, Upol, Liao, Q Vera, et al.,
+  \textit{Expanding explainability: Towards social transparency in ai systems},
+  in: \textit{Proceedings of the 2021 CHI conference on human factors in computing systems}, vol. Unknown Volume, pp. 1--19, 2021.
+  doi: {10.1145/3411764.3445188}
+
+
+\bibitem[Ehsan, Upol et al.(2021)]{ehsan2021expanding}
+  Ehsan, Upol, Liao, Q Vera, et al.,
+  \textit{Expanding explainability: Towards social transparency in ai systems},
+  in: \textit{Proceedings of the 2021 CHI conference on human factors in computing systems}, vol. Unknown Volume, pp. 1--19, 2021.
+  doi: {10.1145/3411764.3445188}
+
+
+\bibitem[V{\"o}ssing, Michael et al.(2022)]{vossing2022designing}
+  V{\"o}ssing, Michael, K{\"u}hl, Niklas, et al.,
+  \textit{Designing transparency for effective human-AI collaboration},
+  in: \textit{Information Systems Frontiers}, vol. 24, pp. 877--895, 2022.
+  doi: {10.1007/s10796-022-10284-3}
+
+
+\bibitem[Lu, Zhuoran et al.(2024)]{10.1145/3653708}
+  Lu, Zhuoran, Wang, Dakuo, et al.,
+  \textit{Does More Advice Help? The Effects of Second Opinions in AI-Assisted Decision Making},
+  in: \textit{Proc. ACM Hum.-Comput. Interact.}, vol. 8, pp. 31, 2024.
+  doi: {10.1145/3653708}
+
+
+\bibitem[Morris, Meredith Ringel et al.(2024)]{10.1145/3678884.3689134}
+  Morris, Meredith Ringel, Bernstein, Michael S., et al.,
+  \textit{Is Human-AI Interaction CSCW?},
+  in: \textit{Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing}, vol. Unknown Volume, pp. 95–97, 2024.
+  doi: {10.1145/3678884.3689134}
+
+
+\bibitem[Flathmann, Christopher et al.(2024)]{flathmann2024empirically}
+  Flathmann, Christopher, Duan, Wen, et al.,
+  \textit{Empirically Understanding the Potential Impacts and Process of Social Influence in Human-AI Teams},
+  in: \textit{Proceedings of the ACM on Human-Computer Interaction}, vol. 8, pp. 1--32, 2024.
+  doi: {10.1145/3637326}
+
+
+\bibitem[Yang, Ziqi et al.(2024)]{yang2024talk2care}
+  Yang, Ziqi, Xu, Xuhai, et al.,
+  \textit{Talk2Care: An LLM-based Voice Assistant for Communication between Healthcare Providers and Older Adults},
+  in: \textit{Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies}, vol. 8, pp. 1--35, 2024.
+  doi: {10.1145/3659625}
+
+
+\bibitem[Kolasani, Saydulu (2023)]{kolasani2023optimizing}
+  Kolasani, Saydulu,
+  \textit{Optimizing natural language processing, large language models (LLMs) for efficient customer service, and hyper-personalization to enable sustainable growth and revenue},
+  in: \textit{Transactions on Latest Trends in Artificial Intelligence}, vol. 4, pp. Unknown Pages, 2023.
+  doi: {10.1007/979-8-8688-0902-6_6}
+
+
+\bibitem[Kirk, Hannah Rose et al.(2024)]{kirk2024benefits}
+  Kirk, Hannah Rose, Vidgen, Bertie, et al.,
+  \textit{The benefits, risks and bounds of personalizing the alignment of large language models to individuals},
+  in: \textit{Nature Machine Intelligence}, vol. Unknown Volume, pp. 1--10, 2024.
+  doi: {10.1038/s42256-024-00820-y}
+
+
+\bibitem[Chang, Yupeng et al.(2024)]{chang2024survey}
+  Chang, Yupeng, Wang, Xu, et al.,
+  \textit{A survey on evaluation of large language models},
+  in: \textit{ACM Transactions on Intelligent Systems and Technology}, vol. 15, pp. 1--45, 2024.
+  doi: {10.1145/3641289}
+
+
+\bibitem[Demszky, Dorottya et al.(2023)]{demszky2023using}
+  Demszky, Dorottya, Yang, Diyi, et al.,
+  \textit{Using large language models in psychology},
+  in: \textit{Nature Reviews Psychology}, vol. 2, pp. 688--701, 2023.
+  doi: {10.1038/s44159-023-00241-5}
+
+
+\bibitem[Birhane, Abeba et al.(2023)]{birhane2023science}
+  Birhane, Abeba, Kasirzadeh, Atoosa, et al.,
+  \textit{Science in the age of large language models},
+  in: \textit{Nature Reviews Physics}, vol. 5, pp. 277--280, 2023.
+  doi: {10.1038/s42254-023-00581-4}
+
+
+\bibitem[OpenAI (2024)]{openai2024gpt}
+  OpenAI,
+  \textit{GPT},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.1007/978-1-4842-3285-9_3}
+
+
+\bibitem[Google (2024)]{google2024gemini}
+  Google,
+  \textit{Gemini},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.7771/2380-176x.2734}
+
+
+\bibitem[Baidu (2024)]{baidu2024ernie}
+  Baidu,
+  \textit{Ernie},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.4135/9781473960367.n20}
+
+
+\bibitem[Anthropic (2024)]{anthropic2024claude}
+  Anthropic,
+  \textit{Claude},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.22478/ufpb.2446-7006.46v27n3.64719}
+
+
+\bibitem[Barua, Saikat (2024)]{barua2024exploring}
+  Barua, Saikat,
+  \textit{Exploring Autonomous Agents through the Lens of Large Language Models: A Review},
+  in: \textit{arXiv preprint arXiv:2404.04442}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.1039/d4sc03921a}
+
+
+\bibitem[Mehandru, Nikita et al.(2024)]{mehandru2024evaluating}
+  Mehandru, Nikita, Miao, Brenda Y, et al.,
+  \textit{Evaluating large language models as agents in the clinic},
+  in: \textit{NPJ digital medicine}, vol. 7, pp. 84, 2024.
+  doi: {10.1038/s41746-024-01083-y}
+
+
+\bibitem[Shaw, Peter et al.(2018)]{shaw2018self}
+  Shaw, Peter, Uszkoreit, Jakob, et al.,
+  \textit{Self-attention with relative position representations},
+  in: \textit{arXiv preprint arXiv:1803.02155}, vol. Unknown Volume, pp. Unknown Pages, 2018.
+  doi: {10.18653/v1/n18-2074}
+
+
+\bibitem[Zhao, Wayne Xin et al.(2023)]{zhao2023survey}
+  Zhao, Wayne Xin, Zhou, Kun, et al.,
+  \textit{A survey of large language models},
+  in: \textit{arXiv preprint arXiv:2303.18223}, vol. Unknown Volume, pp. Unknown Pages, 2023.
+  doi: {10.1109/bigdata59044.2023.10386743}
+
+
+\bibitem[Han, Kai et al.(2021)]{han2021transformer}
+  Han, Kai, Xiao, An, et al.,
+  \textit{Transformer in transformer},
+  in: \textit{Advances in neural information processing systems}, vol. 34, pp. 15908--15919, 2021.
+  doi: {10.31871/ijntr.7.4.18}
+
+
+\bibitem[Shanahan, Murray (2024)]{shanahan2024talking}
+  Shanahan, Murray,
+  \textit{Talking about large language models},
+  in: \textit{Communications of the ACM}, vol. 67, pp. 68--79, 2024.
+  doi: {10.1145/3624724}
+
+
+\bibitem[Zhao, Haiyan et al.(2024)]{zhao2024explainability}
+  Zhao, Haiyan, Chen, Hanjie, et al.,
+  \textit{Explainability for large language models: A survey},
+  in: \textit{ACM Transactions on Intelligent Systems and Technology}, vol. 15, pp. 1--38, 2024.
+  doi: {10.1145/3639372}
+
+
+\bibitem[Unknown Author (2024)]{d2024large}
+  Unknown Author,
+  \textit{Large language models in radiology: fundamentals, applications, ethical considerations, risks, and future directions},
+  in: \textit{Diagnostic and Interventional Radiology}, vol. 30, pp. 80, 2024.
+  doi: {10.4274/dir.2023.232417}
+
+
+\bibitem[Li, Jian et al.(2022)]{li2022human}
+  Li, Jian, Huang, Jinsong, et al.,
+  \textit{Human-AI cooperation: modes and their effects on attitudes},
+  in: \textit{Telematics and Informatics}, vol. 73, pp. 101862, 2022.
+  doi: {10.1016/j.tele.2022.101862}
+
+
+\bibitem[Nguyen, Ha-Thanh et al.(2023)]{nguyen2023black}
+  Nguyen, Ha-Thanh, Goebel, Randy, et al.,
+  \textit{Black-box analysis: GPTs across time in legal textual entailment task},
+  in: \textit{arXiv preprint arXiv:2309.05501}, vol. Unknown Volume, pp. Unknown Pages, 2023.
+  doi: {10.1109/icodse.2014.7062670}
+
+
+\bibitem[Amershi, Saleema et al.(2019)]{amershi2019guidelines}
+  Amershi, Saleema, Weld, Dan, et al.,
+  \textit{Guidelines for human-AI interaction},
+  in: \textit{Proceedings of the 2019 chi conference on human factors in computing systems}, vol. Unknown Volume, pp. 1--13, 2019.
+  doi: {10.1145/3290605.3300233}
+
+
+\bibitem[Xu, Wei et al.(2021)]{xu2021human}
+  Xu, Wei, Dainoff, Marvin J, et al.,
+  \textit{From human-computer interaction to human-AI Interaction: new challenges and opportunities for enabling human-centered AI},
+  in: \textit{arXiv preprint arXiv:2105.05424}, vol. 5, pp. Unknown Pages, 2021.
+  doi: {10.1080/10447318.2022.2041900}
+
+
+\bibitem[Peeters, Marieke MM et al.(2021)]{peeters2021hybrid}
+  Peeters, Marieke MM, van Diggelen, Jurriaan, et al.,
+  \textit{Hybrid collective intelligence in a human--AI society},
+  in: \textit{AI \& society}, vol. 36, pp. 217--238, 2021.
+  doi: {10.1007/s00146-020-01005-y}
+
+
+\bibitem[Ueno, Takane et al.(2022)]{ueno2022trust}
+  Ueno, Takane, Sawa, Yuto, et al.,
+  \textit{Trust in human-ai interaction: Scoping out models, measures, and methods},
+  in: \textit{CHI Conference on Human Factors in Computing Systems Extended Abstracts}, vol. Unknown Volume, pp. 1--7, 2022.
+  doi: {10.1145/3491101.3519772}
+
+
+\bibitem[Ke, Luoma et al.(2024)]{ke2024exploring}
+  Ke, Luoma, Tong, Song, et al.,
+  \textit{Exploring the Frontiers of LLMs in Psychological Applications: A Comprehensive Review},
+  in: \textit{arXiv preprint arXiv:2401.01519}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.1016/j.mssp.2024.108862}
+
+
+\bibitem[Schwartz, Ilan S et al.(2024)]{schwartz2024black}
+  Schwartz, Ilan S, Link, Katherine E, et al.,
+  \textit{Black box warning: large language models and the future of infectious diseases consultation},
+  in: \textit{Clinical Infectious Diseases}, vol. 78, pp. 860--866, 2024.
+  doi: {10.1093/cid/ciad633}
+
+
+\bibitem[Unknown Author (2014)]{exmachina2014}
+  Unknown Author,
+  \textit{Ex Machina},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2014.
+  doi: {10.1075/msw.17003.pop}
+
+
+\bibitem[Unknown Author (2016)]{westworld2016}
+  Unknown Author,
+  \textit{Westworld},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2016.
+  doi: {10.4324/9781003244998-6}
+
+
+\bibitem[Rose, Carol M (1995)]{rose1995trust}
+  Rose, Carol M,
+  \textit{Trust in the Mirror of Betrayal},
+  in: \textit{BUL Rev.}, vol. 75, pp. 531, 1995.
+  doi: {10.1097/01.cot.0000295917.48490.eb}
+
+
+\bibitem[Bates, Joseph & others (1994)]{bates1994role}
+  Bates, Joseph, others,
+  \textit{The role of emotion in believable agents},
+  in: \textit{Communications of the ACM}, vol. 37, pp. 122--125, 1994.
+  doi: {10.1145/176789.176803}
+
+
+\bibitem[Molleman, Lucas et al.(2019)]{molleman2019people}
+  Molleman, Lucas, K{\"o}lle, Felix, et al.,
+  \textit{People prefer coordinated punishment in cooperative interactions},
+  in: \textit{Nature Human Behaviour}, vol. 3, pp. 1145--1153, 2019.
+  doi: {10.1038/s41562-019-0707-2}
+
+
+\bibitem[Wood, Joanne V (1996)]{wood1996social}
+  Wood, Joanne V,
+  \textit{What is social comparison and how should we study it?},
+  in: \textit{Personality and social psychology bulletin}, vol. 22, pp. 520--537, 1996.
+  doi: {10.1177/0146167296225009}
+
+
+\bibitem[Suls, Jerry et al.(2002)]{suls2002social}
+  Suls, Jerry, Martin, Rene, et al.,
+  \textit{Social comparison: Why, with whom, and with what effect?},
+  in: \textit{Current directions in psychological science}, vol. 11, pp. 159--163, 2002.
+  doi: {10.1111/1467-8721.00191}
+
+
+\bibitem[Dietvorst, Berkeley J et al.(2015)]{dietvorst2015algorithm}
+  Dietvorst, Berkeley J, Simmons, Joseph P, et al.,
+  \textit{Algorithm aversion: people erroneously avoid algorithms after seeing them err.},
+  in: \textit{Journal of experimental psychology: General}, vol. 144, pp. 114, 2015.
+  doi: {10.2139/ssrn.2466040}
+
+
+\bibitem[Neudert, Lisa-Maria et al.(2020)]{neudert2020global}
+  Neudert, Lisa-Maria, Knuutila, Aleksi, et al.,
+  \textit{Global attitudes towards AI, machine learning \& automated decision making},
+  in: \textit{Google Scholar Google Scholar Reference}, vol. Unknown Volume, pp. Unknown Pages, 2020.
+  doi: {10.3233/ip-211516}
+
+
+\bibitem[Fr{\"o}ding, Barbro & Peterson, Martin (2021)]{froding2021friendly}
+  Fr{\"o}ding, Barbro, Peterson, Martin,
+  \textit{Friendly AI},
+  in: \textit{Ethics and Information Technology}, vol. 23, pp. 207--214, 2021.
+  doi: {10.1007/s10676-020-09556-w}
+
+
+\bibitem[Park, Peter S et al.(2024)]{park2024ai}
+  Park, Peter S, Goldstein, Simon, et al.,
+  \textit{AI deception: A survey of examples, risks, and potential solutions},
+  in: \textit{Patterns}, vol. 5, pp. Unknown Pages, 2024.
+  doi: {10.1016/j.patter.2024.100988}
+
+
+\bibitem[De Cremer, David & Kasparov, Garry (2021)]{de2021ai}
+  De Cremer, David, Kasparov, Garry,
+  \textit{AI should augment human intelligence, not replace it},
+  in: \textit{Harvard Business Review}, vol. 18, pp. Unknown Pages, 2021.
+  doi: {10.1109/inocon57975.2023.10101202}
+
+
+\bibitem[Luz, Ayuns (2024)]{luz2024enhancing}
+  Luz, Ayuns,
+  \textit{Enhancing the Interpretability and Explainability of AI-Driven Risk Models Using LLM Capabilities},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.1145/3706599.3719795}
+
+
+\bibitem[Kuzior, Aleksandra & Kwilinski, Aleksy (2022)]{kuzior2022cognitive}
+  Kuzior, Aleksandra, Kwilinski, Aleksy,
+  \textit{Cognitive technologies and artificial intelligence in social perception},
+  in: \textit{Management Systems in Production Engineering}, vol. 30, pp. 109--115, 2022.
+  doi: {10.2478/mspe-2022-0014}
+
+
+\bibitem[Zhang, Guanglu et al.(2023)]{zhang2023trust}
+  Zhang, Guanglu, Chong, Leah, et al.,
+  \textit{Trust in an AI versus a Human teammate: The effects of teammate identity and performance on Human-AI cooperation},
+  in: \textit{Computers in Human Behavior}, vol. 139, pp. 107536, 2023.
+  doi: {10.1016/j.chb.2022.107536}
+
+
+\bibitem[Aquilino, Letizia et al.(2024)]{aquilino2024trust}
+  Aquilino, Letizia, Bisconti, Piercosma, et al.,
+  \textit{Trust in AI: Transparency, and Uncertainty Reduction. Development of a new theoretical framework},
+  in: \textit{CEUR WORKSHOP PROCEEDINGS}, vol. Unknown Volume, pp. 19--26, 2024.
+  doi: {10.1093/jcmc/zmab013}
+
+
+\bibitem[Ali, Ali Ahmad (Unknown Year)]{alievolution}
+  Ali, Ali Ahmad,
+  \textit{The Evolution of Artificial Intelligence: From Rule-Based Systems to Neural Networks},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, Unknown Year.
+  doi: {10.1109/eurcon.2007.4400349}
+
+
+\bibitem[Luo, Xiaoliang et al.(2024)]{luo2024large}
+  Luo, Xiaoliang, Rechardt, Akilles, et al.,
+  \textit{Large language models surpass human experts in predicting neuroscience results},
+  in: \textit{arXiv preprint arXiv:2403.03230}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.1038/s41562-024-02046-9}
+
+
+\bibitem[Joachimiak, Marcin P et al.(2024)]{joachimiak2024artificial}
+  Joachimiak, Marcin P, Miller, Mark A, et al.,
+  \textit{The Artificial Intelligence Ontology: LLM-assisted construction of AI concept hierarchies},
+  in: \textit{arXiv preprint arXiv:2404.03044}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.2118/169507-ms}
+
+
+\bibitem[Wang, Angelina et al.(2024)]{wang2024large}
+  Wang, Angelina, Morgenstern, Jamie, et al.,
+  \textit{Large language models cannot replace human participants because they cannot portray identity groups},
+  in: \textit{arXiv preprint arXiv:2402.01908}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.1007/s00146-023-01725-x}
+
+
+\bibitem[Zhang, Jianqiiu (2024)]{zhang2024should}
+  Zhang, Jianqiiu,
+  \textit{Should We Fear Large Language Models? A Structural Analysis of the Human Reasoning System for Elucidating LLM Capabilities and Risks Through the Lens of Heidegger's Philosophy},
+  in: \textit{arXiv preprint arXiv:2403.03288}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.1109/wnyispw63690.2024.10786497}
+
+
+\bibitem[Azeem, Rumaisa et al.(2024)]{azeem2024llm}
+  Azeem, Rumaisa, Hundt, Andrew, et al.,
+  \textit{LLM-Driven Robots Risk Enacting Discrimination, Violence, and Unlawful Actions},
+  in: \textit{arXiv preprint arXiv:2406.08824}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.54097/taqbjh83}
+
+
+\bibitem[Archer, Margaret S (2021)]{archer2021friendship}
+  Archer, Margaret S,
+  \textit{Friendship between human beings and AI robots?},
+  in: \textit{Robotics, AI, and humanity: science, ethics, and policy}, vol. Unknown Volume, pp. 177--189, 2021.
+  doi: {10.1007/978-3-030-54173-6_15}
+
+
+\bibitem[Cabrera, \'{A}ngel Alexander et al.(2023)]{10.1145/3579612}
+  Cabrera, \'{A}ngel Alexander, Perer, Adam, et al.,
+  \textit{Improving Human-AI Collaboration With Descriptions of AI Behavior},
+  in: \textit{Proc. ACM Hum.-Comput. Interact.}, vol. 7, pp. 21, 2023.
+  doi: {10.1145/3579612}
+
+
+\bibitem[van der Waa, Jasper et al.(2021)]{van2021evaluating}
+  van der Waa, Jasper, Nieuwburg, Elisabeth, et al.,
+  \textit{Evaluating XAI: A comparison of rule-based and example-based explanations},
+  in: \textit{Artificial intelligence}, vol. 291, pp. 103404, 2021.
+  doi: {10.1016/j.artint.2020.103404}
+
+
+\bibitem[Gradin, VB et al.(2016)]{gradin2016neural}
+  Gradin, VB, P{\'e}rez, A, et al.,
+  \textit{Neural correlates of social exchanges during the Prisoner's Dilemma game in depression},
+  in: \textit{Psychological medicine}, vol. 46, pp. 1289--1300, 2016.
+  doi: {10.1017/s0033291715002834}
+
+
+\bibitem[Komorita, Samuel S & Mechling, John (1967)]{komorita1967betrayal}
+  Komorita, Samuel S, Mechling, John,
+  \textit{Betrayal and reconciliation in a two-person game.},
+  in: \textit{Journal of Personality and Social Psychology}, vol. 6, pp. 349, 1967.
+  doi: {10.1037/h0024736}
+
+
+\bibitem[Dafoe, Allan et al.(2020)]{dafoe2020open}
+  Dafoe, Allan, Hughes, Edward, et al.,
+  \textit{Open problems in cooperative ai},
+  in: \textit{arXiv preprint arXiv:2012.08630}, vol. Unknown Volume, pp. Unknown Pages, 2020.
+  doi: {10.1145/602382.602407}
+
+
+\bibitem[Christian, Brian (2021)]{christian2021alignment}
+  Christian, Brian,
+  \textit{The alignment problem: How can machines learn human values?},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2021.
+  doi: {10.1007/978-3-319-21365-1_35}
+
+
+\bibitem[Bellaiche, Lucas et al.(2023)]{bellaiche2023humans}
+  Bellaiche, Lucas, Shahi, Rohin, et al.,
+  \textit{Humans versus AI: whether and why we prefer human-created compared to AI-created artwork},
+  in: \textit{Cognitive Research: Principles and Implications}, vol. 8, pp. 42, 2023.
+  doi: {10.1186/s41235-023-00499-6}
+
+
+\bibitem[Ahmad, Sayed Fayaz et al.(2023)]{ahmad2023impact}
+  Ahmad, Sayed Fayaz, Han, Heesup, et al.,
+  \textit{Impact of artificial intelligence on human loss in decision making, laziness and safety in education},
+  in: \textit{Humanities and Social Sciences Communications}, vol. 10, pp. 1--14, 2023.
+  doi: {10.1057/s41599-023-01787-8}
+
+
+\bibitem[Fietta, Valentina et al.(2021)]{fietta2021dissociation}
+  Fietta, Valentina, Zecchinato, Francesca, et al.,
+  \textit{Dissociation between users’ explicit and implicit attitudes toward artificial intelligence: An experimental study},
+  in: \textit{IEEE Transactions on Human-Machine Systems}, vol. 52, pp. 481--489, 2021.
+  doi: {10.1109/thms.2021.3125280}
+
+
+\bibitem[Jussupow, Ekaterina et al.(2020)]{jussupow2020we}
+  Jussupow, Ekaterina, Benbasat, Izak, et al.,
+  \textit{Why are we averse towards algorithms? A comprehensive literature review on algorithm aversion},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2020.
+  doi: {10.1891/9780826146373.0004}
+
+
+\bibitem[Shankar, Shreya et al.(2024)]{shankar2024validates}
+  Shankar, Shreya, Zamfirescu-Pereira, JD, et al.,
+  \textit{Who Validates the Validators? Aligning LLM-Assisted Evaluation of LLM Outputs with Human Preferences},
+  in: \textit{arXiv preprint arXiv:2404.12272}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.1145/3654777.3676450}
+
+
+\bibitem[Jain, Arushi et al.(2024)]{jain2024smartflow}
+  Jain, Arushi, Paliwal, Shubham, et al.,
+  \textit{SmartFlow: Robotic Process Automation using LLMs},
+  in: \textit{arXiv preprint arXiv:2405.12842}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.22214/ijraset.2022.45111}
+
+
+\bibitem[Liu, Chang et al.(2024)]{liu2024large}
+  Liu, Chang, Xie, Xiaohui, et al.,
+  \textit{Large Language Models for Networking: Workflow, Advances and Challenges},
+  in: \textit{arXiv preprint arXiv:2404.12901}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.1109/mnet.2024.3510936}
+
+
+\bibitem[Wang, Haizhou et al.(2024)]{wang2024hybrid}
+  Wang, Haizhou, Wang, Zhilong, et al.,
+  \textit{A hybrid LLM workflow can help identify user privilege related variables in programs of any size},
+  in: \textit{arXiv preprint arXiv:2403.15723}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.1016/j.jss.2021.07.003}
+
+
+\bibitem[Zeng, Zhen et al.(2023)]{zeng2023flowmind}
+  Zeng, Zhen, Watson, William, et al.,
+  \textit{FlowMind: automatic workflow generation with LLMs},
+  in: \textit{Proceedings of the Fourth ACM International Conference on AI in Finance}, vol. Unknown Volume, pp. 73--81, 2023.
+  doi: {10.1145/3604237.3626908}
+
+
+\bibitem[Frank, Michael C (2023)]{frank2023openly}
+  Frank, Michael C,
+  \textit{Openly accessible LLMs can help us to understand human cognition},
+  in: \textit{Nature Human Behaviour}, vol. 7, pp. 1825--1827, 2023.
+  doi: {10.1038/s41562-023-01732-4}
+
+
+\bibitem[Wu, Junhui et al.(2022)]{wu2022reward}
+  Wu, Junhui, Luan, Shenghua, et al.,
+  \textit{Reward, punishment, and prosocial behavior: Recent developments and implications},
+  in: \textit{Current Opinion in Psychology}, vol. 44, pp. 117--123, 2022.
+  doi: {10.1016/j.copsyc.2021.09.003}
+
+
+\bibitem[Kumar, Aakriti (2020)]{kumar2020trust}
+  Kumar, Aakriti,
+  \textit{Trust between Humans and AI: A Short Review”},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2020.
+  doi: {10.1145/3538392}
+
+
+\bibitem[Pelau, Corina et al.(2021)]{pelau2021gender}
+  Pelau, Corina, Niculescu, Miruna, et al.,
+  \textit{Gender specific preferences towards anthropomorphic AI devices and robots},
+  in: \textit{The Bucharest University of Economic Studies Bucharest Romania}, vol. Unknown Volume, pp. Unknown Pages, 2021.
+  doi: {10.24818/basiq/2021/07/099}
+
+
+\bibitem[Daskalakis, Constantinos et al.(2009)]{daskalakis2009complexity}
+  Daskalakis, Constantinos, Goldberg, Paul W, et al.,
+  \textit{The complexity of computing a Nash equilibrium},
+  in: \textit{Communications of the ACM}, vol. 52, pp. 89--97, 2009.
+  doi: {10.1142/9789814525053_0012}
+
+
+\bibitem[Vrieze, Scott I (2012)]{vrieze2012model}
+  Vrieze, Scott I,
+  \textit{Model selection and psychological theory: a discussion of the differences between the Akaike information criterion (AIC) and the Bayesian information criterion (BIC).},
+  in: \textit{Psychological methods}, vol. 17, pp. 228, 2012.
+  doi: {10.1037/a0027127}
+
+
+\bibitem[Healey, Christopher et al.(2014)]{healey2014selection}
+  Healey, Christopher, Andrad{\'o}ttir, Sigr{\'u}n, et al.,
+  \textit{Selection procedures for simulations with multiple constraints under independent and correlated sampling},
+  in: \textit{ACM Transactions on Modeling and Computer Simulation (TOMACS)}, vol. 24, pp. 1--25, 2014.
+  doi: {10.1145/2567921}
+
+
+\bibitem[Gorsuch, Richard L (1973)]{gorsuch1973data}
+  Gorsuch, Richard L,
+  \textit{Data analysis of correlated independent variables},
+  in: \textit{Multivariate Behavioral Research}, vol. 8, pp. 89--107, 1973.
+  doi: {10.1207/s15327906mbr0801_6}
+
+
+\bibitem[Rosnow, Ralph L & Rosenthal, Robert (1989)]{rosnow1989definition}
+  Rosnow, Ralph L, Rosenthal, Robert,
+  \textit{Definition and interpretation of interaction effects.},
+  in: \textit{Psychological Bulletin}, vol. 105, pp. 143, 1989.
+  doi: {10.1037//0033-2909.105.1.143}
+
+
+\bibitem[Mansouri, Hossein et al.(2004)]{mansouri2004aligned}
+  Mansouri, Hossein, Paige, Robert L, et al.,
+  \textit{Aligned rank transform techniques for analysis of variance and multiple comparisons},
+  in: \textit{Communications in Statistics-Theory and Methods}, vol. 33, pp. 2217--2232, 2004.
+  doi: {10.1081/sta-200026599}
+
+
+\bibitem[Wobbrock, Jacob O et al.(2011)]{wobbrock2011aligned}
+  Wobbrock, Jacob O, Findlater, Leah, et al.,
+  \textit{The aligned rank transform for nonparametric factorial analyses using only anova procedures},
+  in: \textit{Proceedings of the SIGCHI conference on human factors in computing systems}, vol. Unknown Volume, pp. 143--146, 2011.
+  doi: {10.1145/1978942.1978963}
+
+
+\bibitem[Li, Yuanchun et al.(2024)]{li2024personal}
+  Li, Yuanchun, Wen, Hao, et al.,
+  \textit{Personal llm agents: Insights and survey about the capability, efficiency and security},
+  in: \textit{arXiv preprint arXiv:2401.05459}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.32388/ocltz6}
+
+
+\bibitem[Han, Dongge et al.(2024)]{han2024llm}
+  Han, Dongge, McInroe, Trevor, et al.,
+  \textit{LLM-Personalize: Aligning LLM Planners with Human Preferences via Reinforced Self-Training for Housekeeping Robots},
+  in: \textit{arXiv preprint arXiv:2404.14285}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.1145/3654777.3676450}
+
+
+\bibitem[Bó, Pedro Dal (2005)]{10.1257/000282805775014434}
+  Bó, Pedro Dal,
+  \textit{Cooperation under the Shadow of the Future: Experimental Evidence from Infinitely Repeated Games},
+  in: \textit{American Economic Review}, vol. 95, pp. 1591–1604, 2005.
+  doi: {10.1257/000282805775014434}
+
+
+\bibitem[Yu, Wang (2022)]{yu2022solution}
+  Yu, Wang,
+  \textit{Solution Analysis of Prisoner's Dilemma Based on Referee Game Theory},
+  in: \textit{CMU Academy Journal of Management and Business Education}, vol. 1, pp. 10--15, 2022.
+  doi: {10.53797/cjmbe.v1i1.3.2022}
+
+
+\bibitem[You, Tao et al.(2022)]{you2022influence}
+  You, Tao, Zhang, Hailun, et al.,
+  \textit{The influence of experienced guider on cooperative behavior in the Prisoner’s dilemma game},
+  in: \textit{Applied Mathematics and Computation}, vol. 426, pp. 127093, 2022.
+  doi: {10.1016/j.amc.2022.127093}
+
+
+\bibitem[Yang, Yaodong & Wang, Jun (2020)]{yang2020overview}
+  Yang, Yaodong, Wang, Jun,
+  \textit{An overview of multi-agent reinforcement learning from game theoretical perspective},
+  in: \textit{arXiv preprint arXiv:2011.00583}, vol. Unknown Volume, pp. Unknown Pages, 2020.
+  doi: {10.1088/1742-6596/2646/1/012021}
+
+
+\bibitem[Jain, Lokesh et al.(2020)]{jain2020recognition}
+  Jain, Lokesh, Katarya, Rahul, et al.,
+  \textit{Recognition of opinion leaders coalitions in online social network using game theory},
+  in: \textit{Knowledge-Based Systems}, vol. 203, pp. 106158, 2020.
+  doi: {10.1016/j.knosys.2020.106158}
+
+
+\bibitem[Xu, Qichao et al.(2020)]{xu2020game}
+  Xu, Qichao, Su, Zhou, et al.,
+  \textit{Game theory and reinforcement learning based secure edge caching in mobile social networks},
+  in: \textit{IEEE Transactions on Information Forensics and Security}, vol. 15, pp. 3415--3429, 2020.
+  doi: {10.1109/tifs.2020.2980823}
+
+
+\bibitem[Leyton-Brown, Kevin & Shoham, Yoav (2022)]{leyton2022essentials}
+  Leyton-Brown, Kevin, Shoham, Yoav,
+  \textit{Essentials of game theory: A concise multidisciplinary introduction},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2022.
+  doi: {10.1017/s0269888909990129}
+
+
+\bibitem[Barron, Emmanual N (2024)]{barron2024game}
+  Barron, Emmanual N,
+  \textit{Game theory: an introduction},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.1002/9781119723950.ch2}
+
+
+\bibitem[Rajeswaran, Aravind et al.(2020)]{rajeswaran2020game}
+  Rajeswaran, Aravind, Mordatch, Igor, et al.,
+  \textit{A game theoretic framework for model based reinforcement learning},
+  in: \textit{International conference on machine learning}, vol. Unknown Volume, pp. 7953--7963, 2020.
+  doi: {10.1109/wcnc51071.2022.9771864}
+
+
+\bibitem[Branzei, Rodica et al.(2008)]{branzei2008models}
+  Branzei, Rodica, Dimitrov, Dinko, et al.,
+  \textit{Models in cooperative game theory},
+  in: \textit{Unknown Journal}, vol. 556, pp. Unknown Pages, 2008.
+  doi: {10.1007/978-3-540-69291-1_10}
+
+
+\bibitem[Fudenberg, Drew & Tirole, Jean (1991)]{fudenberg1991game}
+  Fudenberg, Drew, Tirole, Jean,
+  \textit{Game theory},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 1991.
+  doi: {10.1090/stml/080}
+
+
+\bibitem[Guidotti, Riccardo et al.(2018)]{guidotti2018survey}
+  Guidotti, Riccardo, Monreale, Anna, et al.,
+  \textit{A survey of methods for explaining black box models},
+  in: \textit{ACM computing surveys (CSUR)}, vol. 51, pp. 1--42, 2018.
+  doi: {10.1145/3236009}
+
+
+\bibitem[Skraaning, Gyrd & Jamieson, Greg A (2021)]{skraaning2021human}
+  Skraaning, Gyrd, Jamieson, Greg A,
+  \textit{Human performance benefits of the automation transparency design principle: Validation and variation},
+  in: \textit{Human factors}, vol. 63, pp. 379--401, 2021.
+  doi: {10.1177/0018720819887252}
+
+
+\bibitem[Xu, Jingjun et al.(2014)]{xu2014nature}
+  Xu, Jingjun, Benbasat, Izak, et al.,
+  \textit{The nature and consequences of trade-off transparency in the context of recommendation agents},
+  in: \textit{MIS quarterly}, vol. 38, pp. 379--406, 2014.
+  doi: {10.25300/misq/2014/38.2.03}
+
+
+\bibitem[Linkov, Igor et al.(2020)]{linkov2020cybertrust}
+  Linkov, Igor, Galaitsi, Stephanie, et al.,
+  \textit{Cybertrust: From explainable to actionable and interpretable artificial intelligence},
+  in: \textit{Computer}, vol. 53, pp. 91--96, 2020.
+  doi: {10.1109/mc.2020.2993623}
+
+
+\bibitem[Zubek, Robert (2000)]{zubek2000towards}
+  Zubek, Robert,
+  \textit{Towards implementation of social interaction},
+  in: \textit{Proceedings of the 2000 AAAI Spring Symposium on Artificial Intelligence and Intercative Entertainment. AAAI Press}, vol. Unknown Volume, pp. Unknown Pages, 2000.
+  doi: {10.1007/978-3-642-32518-2_31}
+
+
+\bibitem[Bogdanovych, Anton et al.(2016)]{bogdanovych2016makes}
+  Bogdanovych, Anton, Trescak, Tomas, et al.,
+  \textit{What makes virtual agents believable?},
+  in: \textit{Connection Science}, vol. 28, pp. 83--108, 2016.
+  doi: {10.1080/09540091.2015.1130021}
+
+
+\bibitem[Newell, Allen (1994)]{newell1994unified}
+  Newell, Allen,
+  \textit{Unified theories of cognition},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 1994.
+  doi: {10.1007/978-3-322-95337-7_3}
+
+
+\bibitem[Vinyals, Oriol et al.(2019)]{vinyals2019grandmaster}
+  Vinyals, Oriol, Babuschkin, Igor, et al.,
+  \textit{Grandmaster level in StarCraft II using multi-agent reinforcement learning},
+  in: \textit{Nature}, vol. 575, pp. 350--354, 2019.
+  doi: {10.1038/s41586-019-1724-z}
+
+
+\bibitem[Umarov, Iskander & Mozgovoy, Maxim (2012)]{umarov2012believable}
+  Umarov, Iskander, Mozgovoy, Maxim,
+  \textit{Believable and effective AI agents in virtual worlds: Current state and future perspectives},
+  in: \textit{International Journal of Gaming and Computer-Mediated Simulations (IJGCMS)}, vol. 4, pp. 37--59, 2012.
+  doi: {10.4018/jgcms.2012040103}
+
+
+\bibitem[Park, Joon Sung et al.(2023)]{park2023generative}
+  Park, Joon Sung, O'Brien, Joseph, et al.,
+  \textit{Generative agents: Interactive simulacra of human behavior},
+  in: \textit{Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology}, vol. Unknown Volume, pp. 1--22, 2023.
+  doi: {10.1145/3586183.3606763}
+
+
+\bibitem[Chiang, Chun-Wei et al.(2024)]{chiang2024enhancing}
+  Chiang, Chun-Wei, Lu, Zhuoran, et al.,
+  \textit{Enhancing AI-Assisted Group Decision Making through LLM-Powered Devil's Advocate},
+  in: \textit{Proceedings of the 29th International Conference on Intelligent User Interfaces}, vol. Unknown Volume, pp. 103--119, 2024.
+  doi: {10.1145/3640543.3645199}
+
+
+\bibitem[Fitness, Julie (2012)]{fitness2012betrayal}
+  Fitness, Julie,
+  \textit{Betrayal and forgiveness in couple relationships},
+  in: \textit{The Wiley-Blackwell Handbook of Couples and Family Relationships}, vol. Unknown Volume, pp. 259--270, 2012.
+  doi: {10.1002/9781444354119.ch18}
+
+
+\bibitem[Lee, Wing-Shing & Selart, Marcus (2015)]{lee2015betrayal}
+  Lee, Wing-Shing, Selart, Marcus,
+  \textit{How betrayal affects emotions and subsequent trust},
+  in: \textit{The Open Psychology Journal}, vol. 8, pp. 153--159, 2015.
+  doi: {10.2174/1874350101508010153}
+
+
+\bibitem[Ramazi, Pouria et al.(2015)]{ramazi2015feeling}
+  Ramazi, Pouria, Hessel, Jop, et al.,
+  \textit{How feeling betrayed affects cooperation},
+  in: \textit{PLoS One}, vol. 10, pp. e0122205, 2015.
+  doi: {10.1371/journal.pone.0122205}
+
+
+\bibitem[Obrenovic, Bojan et al.(2024)]{obrenovic2024generative}
+  Obrenovic, Bojan, Gu, Xiao, et al.,
+  \textit{Generative AI and human--robot interaction: implications and future agenda for business, society and ethics},
+  in: \textit{AI \& SOCIETY}, vol. Unknown Volume, pp. 1--14, 2024.
+  doi: {10.1007/s00146-024-01889-0}
+
+
+\bibitem[Kim, Sunnie SY et al.(2023)]{kim2023help}
+  Kim, Sunnie SY, Watkins, Elizabeth Anne, et al.,
+  \textit{" Help Me Help the AI": Understanding How Explainability Can Support Human-AI Interaction},
+  in: \textit{Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems}, vol. Unknown Volume, pp. 1--17, 2023.
+  doi: {10.1145/3544548.3581001}
+
+
+\bibitem[Grace, Katja et al.(2018)]{grace2018will}
+  Grace, Katja, Salvatier, John, et al.,
+  \textit{When will AI exceed human performance? Evidence from AI experts},
+  in: \textit{Journal of Artificial Intelligence Research}, vol. 62, pp. 729--754, 2018.
+  doi: {10.1613/jair.1.11222}
+
+
+\bibitem[Cugurullo, Federico & Acheampong, Ransford A (2023)]{cugurullo2023fear}
+  Cugurullo, Federico, Acheampong, Ransford A,
+  \textit{Fear of AI: an inquiry into the adoption of autonomous cars in spite of fear, and a theoretical framework for the study of artificial intelligence technology acceptance},
+  in: \textit{AI \& SOCIETY}, vol. Unknown Volume, pp. 1--16, 2023.
+  doi: {10.1007/s00146-022-01598-6}
+
+
+\bibitem[Ferrara, Emilio (2023)]{ferrara2023fairness}
+  Ferrara, Emilio,
+  \textit{Fairness and bias in artificial intelligence: A brief survey of sources, impacts, and mitigation strategies},
+  in: \textit{Sci}, vol. 6, pp. 3, 2023.
+  doi: {10.3390/sci6010003}
+
+
+\bibitem[Varona, Daniel & Su{\'a}rez, Juan Luis (2022)]{varona2022discrimination}
+  Varona, Daniel, Su{\'a}rez, Juan Luis,
+  \textit{Discrimination, bias, fairness, and trustworthy AI},
+  in: \textit{Applied Sciences}, vol. 12, pp. 5826, 2022.
+  doi: {10.3390/app12125826}
+
+
+\bibitem[Yang, Jingfeng et al.(2024)]{yang2024harnessing}
+  Yang, Jingfeng, Jin, Hongye, et al.,
+  \textit{Harnessing the power of llms in practice: A survey on chatgpt and beyond},
+  in: \textit{ACM Transactions on Knowledge Discovery from Data}, vol. 18, pp. 1--32, 2024.
+  doi: {10.1145/3649506}
+
+
+\bibitem[Van Noorden, Richard & Perkel, Jeffrey M (2023)]{van2023ai}
+  Van Noorden, Richard, Perkel, Jeffrey M,
+  \textit{AI and science: what 1,600 researchers think},
+  in: \textit{Nature}, vol. 621, pp. 672--675, 2023.
+  doi: {10.1038/d41586-023-02980-0}
+
+
+\bibitem[Abbasiantaeb, Zahra et al.(2024)]{abbasiantaeb2024let}
+  Abbasiantaeb, Zahra, Yuan, Yifei, et al.,
+  \textit{Let the llms talk: Simulating human-to-human conversational qa via zero-shot llm-to-llm interactions},
+  in: \textit{Proceedings of the 17th ACM International Conference on Web Search and Data Mining}, vol. Unknown Volume, pp. 8--17, 2024.
+  doi: {10.1145/3616855.3635856}
+
+
+\bibitem[Dehnert, Marco & Leach, Rebecca B (2021)]{dehnert2021becoming}
+  Dehnert, Marco, Leach, Rebecca B,
+  \textit{Becoming human?: Ableism and control in'Detroit: Become human'and the implications for human-machine communication},
+  in: \textit{Human-Machine Communication}, vol. 2, pp. 137--152, 2021.
+  doi: {10.30658/hmc.2.7}
+
+
+\bibitem[Strachan, James WA et al.(2024)]{strachan2024testing}
+  Strachan, James WA, Albergo, Dalila, et al.,
+  \textit{Testing theory of mind in large language models and humans},
+  in: \textit{Nature Human Behaviour}, vol. Unknown Volume, pp. 1--11, 2024.
+  doi: {10.1038/s41562-024-01882-z}
+
+
+\bibitem[Teubner, Timm et al.(2023)]{teubner2023welcome}
+  Teubner, Timm, Flath, Christoph M, et al.,
+  \textit{Welcome to the era of chatgpt et al. the prospects of large language models},
+  in: \textit{Business \& Information Systems Engineering}, vol. 65, pp. 95--101, 2023.
+  doi: {10.1007/s12599-023-00795-x}
+
+
+\bibitem[Min, Bonan et al.(2023)]{min2023recent}
+  Min, Bonan, Ross, Hayley, et al.,
+  \textit{Recent advances in natural language processing via large pre-trained language models: A survey},
+  in: \textit{ACM Computing Surveys}, vol. 56, pp. 1--40, 2023.
+  doi: {10.1145/3605943}
+
+
+\bibitem[Wu, Tianyu et al.(2023)]{wu2023brief}
+  Wu, Tianyu, He, Shizhu, et al.,
+  \textit{A brief overview of ChatGPT: The history, status quo and potential future development},
+  in: \textit{IEEE/CAA Journal of Automatica Sinica}, vol. 10, pp. 1122--1136, 2023.
+  doi: {10.1109/jas.2023.123618}
+
+
+\bibitem[Rand, David G et al.(2015)]{rand2015social}
+  Rand, David G, Newman, George E, et al.,
+  \textit{Social context and the dynamics of cooperative choice},
+  in: \textit{Journal of behavioral decision making}, vol. 28, pp. 159--166, 2015.
+  doi: {10.1002/bdm.1837}
+
+
+\bibitem[Gilpin, Leilani H et al.(2018)]{gilpin2018explaining}
+  Gilpin, Leilani H, Bau, David, et al.,
+  \textit{Explaining explanations: An overview of interpretability of machine learning},
+  in: \textit{2018 IEEE 5th International Conference on data science and advanced analytics (DSAA)}, vol. Unknown Volume, pp. 80--89, 2018.
+  doi: {10.1109/dsaa.2018.00018}
+
+
+\bibitem[van Dijk, Eric & De Dreu, Carsten KW (2021)]{van2021experimental}
+  van Dijk, Eric, De Dreu, Carsten KW,
+  \textit{Experimental games and social decision making},
+  in: \textit{Annual Review of Psychology}, vol. 72, pp. 415--438, 2021.
+  doi: {10.1146/annurev-psych-081420-110718}
+
+
+\bibitem[Peng, Chenming et al.(2022)]{peng2022effect}
+  Peng, Chenming, van Doorn, Jenny, et al.,
+  \textit{The effect of required warmth on consumer acceptance of artificial intelligence in service: The moderating role of AI-human collaboration},
+  in: \textit{International Journal of Information Management}, vol. 66, pp. 102533, 2022.
+  doi: {10.1016/j.ijinfomgt.2022.102533}
+
+
+\bibitem[Bochniarz, Klaudia T et al.(2022)]{bochniarz2022attitudes}
+  Bochniarz, Klaudia T, Czerwi{\'n}ski, Stanis{\l}aw K, et al.,
+  \textit{Attitudes to AI among high school students: Understanding distrust towards humans will not help us understand distrust towards AI},
+  in: \textit{Personality and Individual Differences}, vol. 185, pp. 111299, 2022.
+  doi: {10.1016/j.paid.2021.111299}
+
+
+\bibitem[Bao, Ying et al.(2021)]{bao2021investigating}
+  Bao, Ying, Cheng, Xusen, et al.,
+  \textit{Investigating the relationship between AI and trust in human-AI collaboration},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2021.
+  doi: {10.24251/hicss.2021.074}
+
+
+\bibitem[Kim, Callie Y et al.(2024)]{kim2024understanding}
+  Kim, Callie Y, Lee, Christine P, et al.,
+  \textit{Understanding large-language model (llm)-powered human-robot interaction},
+  in: \textit{Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction}, vol. Unknown Volume, pp. 371--380, 2024.
+  doi: {10.1145/3610977.3634966}
+
+
+\bibitem[Rudin, Cynthia (2019)]{rudin2019stop}
+  Rudin, Cynthia,
+  \textit{Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead},
+  in: \textit{Nature machine intelligence}, vol. 1, pp. 206--215, 2019.
+  doi: {10.1038/s42256-019-0048-x}
+
+
+\bibitem[Das, Arun & Rad, Paul (2020)]{das2020opportunities}
+  Das, Arun, Rad, Paul,
+  \textit{Opportunities and challenges in explainable artificial intelligence (xai): A survey},
+  in: \textit{arXiv preprint arXiv:2006.11371}, vol. Unknown Volume, pp. Unknown Pages, 2020.
+  doi: {10.4236/oalib.1112518}
+
+
+\bibitem[Unknown Author (2022)]{lima2022conflict}
+  Unknown Author,
+  \textit{The conflict between explainable and accountable decision-making algorithms},
+  in: \textit{Proceedings of the 2022 ACM conference on fairness, accountability, and transparency}, vol. Unknown Volume, pp. 2103--2113, 2022.
+  doi: {10.1145/3531146.3534628}
+
+
+\bibitem[Weber, Tom & Wermter, Stefan (2020)]{weber2020integrating}
+  Weber, Tom, Wermter, Stefan,
+  \textit{Integrating intrinsic and extrinsic explainability: The relevance of understanding neural networks for human-robot interaction},
+  in: \textit{arXiv preprint arXiv:2010.04602}, vol. Unknown Volume, pp. Unknown Pages, 2020.
+  doi: {10.1007/s11016-011-9549-x}
+
+
+\bibitem[Russell, Stuart (2019)]{russell2019human}
+  Russell, Stuart,
+  \textit{Human compatible: AI and the problem of control},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2019.
+  doi: {10.3917/pe.204.0186o}
+
+
+\bibitem[Bates, Douglas et al.(2015)]{bates2015parsimonious}
+  Bates, Douglas, Kliegl, Reinhold, et al.,
+  \textit{Parsimonious mixed models},
+  in: \textit{arXiv preprint arXiv:1506.04967}, vol. Unknown Volume, pp. Unknown Pages, 2015.
+  doi: {10.1007/s00357-010-9045-9}
+
+
+\bibitem[Lim, Gionnieve et al.(2023)]{10.1145/3584931.3606951}
+  Lim, Gionnieve, Kim, Hyunwoo, et al.,
+  \textit{Designing for AI-Powered Social Computing Systems},
+  in: \textit{Companion Publication of the 2023 Conference on Computer Supported Cooperative Work and Social Computing}, vol. Unknown Volume, pp. 572–575, 2023.
+  doi: {10.1145/3584931.3606951}
+
+
+\bibitem[Xing, Frank (2024)]{xing2024designing}
+  Xing, Frank,
+  \textit{Designing heterogeneous llm agents for financial sentiment analysis},
+  in: \textit{ACM Transactions on Management Information Systems}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.1145/3688399}
+
+
+\bibitem[Bilquise, Ghazala et al.(2022)]{bilquise2022emotionally}
+  Bilquise, Ghazala, Ibrahim, Samar, et al.,
+  \textit{Emotionally intelligent chatbots: a systematic literature review},
+  in: \textit{Human Behavior and Emerging Technologies}, vol. 2022, pp. 9601630, 2022.
+  doi: {10.1155/2022/9601630}
+
+
+\bibitem[Thomas, Paul et al.(2020)]{thomas2020expressions}
+  Thomas, Paul, McDuff, Daniel, et al.,
+  \textit{Expressions of style in information seeking conversation with an agent},
+  in: \textit{Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval}, vol. Unknown Volume, pp. 1171--1180, 2020.
+  doi: {10.1145/3397271.3401127}
+
+
+\bibitem[Pettit, Philip & Sugden, Robert (1989)]{pettit1989backward}
+  Pettit, Philip, Sugden, Robert,
+  \textit{The backward induction paradox},
+  in: \textit{The Journal of Philosophy}, vol. 86, pp. 169--182, 1989.
+  doi: {10.2307/2026960}
+
+
+\bibitem[Young, H Peyton (2009)]{young2009learning}
+  Young, H Peyton,
+  \textit{Learning by trial and error},
+  in: \textit{Games and economic behavior}, vol. 65, pp. 626--643, 2009.
+  doi: {10.1007/978-1-4614-6675-8_100626}
+
+
+\bibitem[Ribino, Patrizia (2023)]{ribino2023role}
+  Ribino, Patrizia,
+  \textit{The role of politeness in human--machine interactions: a systematic literature review and future perspectives},
+  in: \textit{Artificial Intelligence Review}, vol. 56, pp. 445--482, 2023.
+  doi: {10.1007/s10462-023-10540-1}
+
+
+\bibitem[Stapel, Diederik A & Koomen, Willem (2005)]{stapel2005competition}
+  Stapel, Diederik A, Koomen, Willem,
+  \textit{Competition, cooperation, and the effects of others on me.},
+  in: \textit{Journal of personality and social psychology}, vol. 88, pp. 1029, 2005.
+  doi: {10.1037/0022-3514.88.6.1029}
+
+
+\bibitem[Vistorte, Angel Olider Rojas et al.(2024)]{vistorte2024integrating}
+  Vistorte, Angel Olider Rojas, Deroncele-Acosta, Angel, et al.,
+  \textit{Integrating artificial intelligence to assess emotions in learning environments: a systematic literature review},
+  in: \textit{Frontiers in Psychology}, vol. 15, pp. 1387089, 2024.
+  doi: {10.3389/fpsyg.2024.1387089}
+
+
+\bibitem[Glikson, Ella & Woolley, Anita Williams (2020)]{glikson2020human}
+  Glikson, Ella, Woolley, Anita Williams,
+  \textit{Human trust in artificial intelligence: Review of empirical research},
+  in: \textit{Academy of Management Annals}, vol. 14, pp. 627--660, 2020.
+  doi: {10.5465/annals.2018.0057}
+
+
+\bibitem[Barr, Dale J (2013)]{barr2013random}
+  Barr, Dale J,
+  \textit{Random effects structure for testing interactions in linear mixed-effects models},
+  in: \textit{Frontiers in psychology}, vol. 4, pp. 328, 2013.
+  doi: {10.3389/fpsyg.2013.00328}
+
+
+\bibitem[Kuznetsova, Alexandra et al.(2017)]{kuznetsova2017lmertest}
+  Kuznetsova, Alexandra, Brockhoff, Per B, et al.,
+  \textit{lmerTest package: tests in linear mixed effects models},
+  in: \textit{Journal of statistical software}, vol. 82, pp. Unknown Pages, 2017.
+  doi: {10.18637/jss.v082.i13}
+
+
+\bibitem[Nowak, Martin & Sigmund, Karl (1993)]{nowak1993chaos}
+  Nowak, Martin, Sigmund, Karl,
+  \textit{Chaos and the evolution of cooperation.},
+  in: \textit{Proceedings of the National Academy of Sciences}, vol. 90, pp. 5091--5094, 1993.
+  doi: {10.1073/pnas.90.11.5091}
+
+
+\bibitem[Hadfield-Menell, Dylan et al.(2016)]{hadfield2016cooperative}
+  Hadfield-Menell, Dylan, Russell, Stuart J, et al.,
+  \textit{Cooperative inverse reinforcement learning},
+  in: \textit{Advances in neural information processing systems}, vol. 29, pp. Unknown Pages, 2016.
+  doi: {10.1109/icsmc.2012.6378020}
+
+
+\bibitem[Russell, Stuart J & Norvig, Peter (2016)]{russell2016artificial}
+  Russell, Stuart J, Norvig, Peter,
+  \textit{Artificial intelligence: a modern approach},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2016.
+  doi: {10.5860/choice.33-1577}
+
+
+\bibitem[Bender, Emily M & Koller, Alexander (2020)]{bender2020climbing}
+  Bender, Emily M, Koller, Alexander,
+  \textit{Climbing towards NLU: On meaning, form, and understanding in the age of data},
+  in: \textit{Proceedings of the 58th annual meeting of the association for computational linguistics}, vol. Unknown Volume, pp. 5185--5198, 2020.
+  doi: {10.18653/v1/2020.acl-main.463}
+
+
+\bibitem[Schick, Timo & Sch{\"u}tze, Hinrich (2020)]{schick2020exploiting}
+  Schick, Timo, Sch{\"u}tze, Hinrich,
+  \textit{Exploiting cloze questions for few shot text classification and natural language inference},
+  in: \textit{arXiv preprint arXiv:2001.07676}, vol. Unknown Volume, pp. Unknown Pages, 2020.
+  doi: {10.18653/v1/2021.eacl-main.20}
+
+
+\bibitem[Igwe, Kevin & Durrheim, Kevin (2024)]{igwe2024using}
+  Igwe, Kevin, Durrheim, Kevin,
+  \textit{Using artificial agents to nudge outgroup altruism and reduce ingroup favoritism in human-agent interaction},
+  in: \textit{Scientific reports}, vol. 14, pp. 15850, 2024.
+  doi: {10.1038/s41598-024-64682-5}
+
+
+\bibitem[Silva, Andrew et al.(2023)]{silva2023explainable}
+  Silva, Andrew, Schrum, Mariah, et al.,
+  \textit{Explainable artificial intelligence: Evaluating the objective and subjective impacts of xai on human-agent interaction},
+  in: \textit{International Journal of Human--Computer Interaction}, vol. 39, pp. 1390--1404, 2023.
+  doi: {10.1080/10447318.2022.2101698}
+
+
+\bibitem[Unknown Author (2019)]{ishowo2019behavioral}
+  Unknown Author,
+  \textit{Behavioural evidence for a transparency--efficiency tradeoff in human--machine cooperation},
+  in: \textit{Nature Machine Intelligence}, vol. 1, pp. 517--521, 2019.
+  doi: {10.1038/s42256-019-0113-5}
+
+
+\bibitem[Rudin, Cynthia (2019)]{rudin2019stop}
+  Rudin, Cynthia,
+  \textit{Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead},
+  in: \textit{Nature machine intelligence}, vol. 1, pp. 206--215, 2019.
+  doi: {10.1038/s42256-019-0048-x}
+
+
+\bibitem[Jessie Y.C. Chen et al.(2014)]{Chen2014SituationAA}
+  Jessie Y.C. Chen, Katelyn Procci, et al.,
+  \textit{Situation Awareness-Based Agent Transparency},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2014.
+  doi: {10.21236/ada600351}
+
+
+\bibitem[Fatimah Ishowo-Oloko et al.(2019)]{IshowoOloko2019BehaviouralEF}
+  Fatimah Ishowo-Oloko, Jean‐François Bonnefon, et al.,
+  \textit{Behavioural evidence for a transparency–efficiency tradeoff in human–machine cooperation},
+  in: \textit{Nature Machine Intelligence}, vol. 1, pp. 517 - 521, 2019.
+  doi: {10.1038/s42256-019-0113-5}
+
+
+\bibitem[Balasubramaniam, Nagadivya et al.(2023)]{balasubramaniam2023transparency}
+  Balasubramaniam, Nagadivya, Kauppinen, Marjo, et al.,
+  \textit{Transparency and explainability of AI systems: From ethical guidelines to requirements},
+  in: \textit{Information and Software Technology}, vol. 159, pp. 107197, 2023.
+  doi: {10.1016/j.infsof.2023.107197}
+
+
+\bibitem[Adnan, Muhammad (2024)]{adnan2024importance}
+  Adnan, Muhammad,
+  \textit{The Importance of Interpretability in AI Systems and Its Implications for Deep Learning: Ensuring Transparency in Intelligent Systems},
+  in: \textit{Deep Learning, Reinforcement Learning, and the Rise of Intelligent Systems}, vol. Unknown Volume, pp. 41--76, 2024.
+  doi: {10.4018/979-8-3693-1738-9.ch003}
+
+
+\bibitem[Crandall, Jacob W (2014)]{crandall2014towards}
+  Crandall, Jacob W,
+  \textit{Towards minimizing disappointment in repeated games},
+  in: \textit{Journal of Artificial Intelligence Research}, vol. 49, pp. 111--142, 2014.
+  doi: {10.1613/jair.4202}
+
+
+\bibitem[Dreber, Anna et al.(2008)]{dreber2008winners}
+  Dreber, Anna, Rand, David G, et al.,
+  \textit{Winners don’t punish},
+  in: \textit{Nature}, vol. 452, pp. 348--351, 2008.
+  doi: {10.1038/nature06723}
+
+
+\bibitem[Unknown Author (Unknown Year)]{Gates2024}
+  Unknown Author,
+  \textit{Unknown Title},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, Unknown Year.
+  doi: {Unknown DOI}
+
+
+\bibitem[Geiselmann, Rebecca et al.(2023)]{geiselmann2023interacting}
+  Geiselmann, Rebecca, Tsourgianni, Afroditi, et al.,
+  \textit{Interacting with agents without a mind: the case for artificial agents},
+  in: \textit{Current Opinion in Behavioral Sciences}, vol. 51, pp. 101282, 2023.
+  doi: {10.1016/j.cobeha.2023.101282}
+
+
+\bibitem[Fahnenstich, Hannah et al.(2024)]{fahnenstich2024trusting}
+  Fahnenstich, Hannah, Rieger, Tobias, et al.,
+  \textit{Trusting under risk--comparing human to AI decision support agents},
+  in: \textit{Computers in Human Behavior}, vol. 153, pp. 108107, 2024.
+  doi: {10.1016/j.chb.2023.108107}
+
+
+\bibitem[Wang, Xujinfeng et al.(2023)]{wang2023impact}
+  Wang, Xujinfeng, Yang, Yicheng, et al.,
+  \textit{The Impact of AI Transparency and Reliability on Human-AI Collaborative Decision-Making},
+  in: \textit{Artificial Intelligence, Social Computing and Wearable Technologies}, vol. 113, pp. Unknown Pages, 2023.
+  doi: {10.54941/ahfe1004203}
+
+
+\bibitem[Li, Tian-Ge et al.(2024)]{li2024impact}
+  Li, Tian-Ge, Zhang, Chu-Bing, et al.,
+  \textit{The impact of AI identity disclosure on consumer unethical behavior: A social judgment perspective},
+  in: \textit{Journal of Retailing and Consumer Services}, vol. 76, pp. 103606, 2024.
+  doi: {10.1016/j.jretconser.2023.103606}
+
+
+\bibitem[Lamparth, Max et al.(2024)]{lamparth2024human}
+  Lamparth, Max, Corso, Anthony, et al.,
+  \textit{Human vs. machine: Behavioral differences between expert humans and language models in wargame simulations},
+  in: \textit{Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society}, vol. 7, pp. 807--817, 2024.
+  doi: {10.1609/aies.v7i1.31681}
+
+
+\bibitem[L. Martinez-Vaquero et al.(2015)]{Martinez-Vaquero2015Apology}
+  L. Martinez-Vaquero, T. Han, et al.,
+  \textit{Apology and forgiveness evolve to resolve failures in cooperative agreements},
+  in: \textit{Scientific Reports}, vol. 5, pp. Unknown Pages, 2015.
+  doi: {10.1038/srep10639}
+
+
+\bibitem[Wang, Dongqi et al.(2020)]{wang2020long}
+  Wang, Dongqi, Shuai, Xuanyue, et al.,
+  \textit{Long deliberation times promote cooperation in the prisoner’s dilemma game},
+  in: \textit{Physica A: Statistical Mechanics and its Applications}, vol. 537, pp. 122719, 2020.
+  doi: {10.1016/j.physa.2019.122719}
+
+
+\bibitem[Ng, Yu-Leung (2023)]{ng2023communicative}
+  Ng, Yu-Leung,
+  \textit{When communicative AIs are cooperative actors: a prisoner’s dilemma experiment on human--communicative artificial intelligence cooperation},
+  in: \textit{Behaviour \& Information Technology}, vol. 42, pp. 2141--2151, 2023.
+  doi: {10.1080/0144929x.2022.2111273}
+
+
+\bibitem[Nicoló Fontana et al.(2024)]{fontana2024nicerhumanslargelanguage}
+  Nicoló Fontana, Francesco Pierri, et al.,
+  \textit{Nicer Than Humans: How do Large Language Models Behave in the Prisoner's Dilemma?},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.18653/v1/2024.cmcl-1.4}
+
+
+\bibitem[Lu, Yikang et al.(2024)]{lu2024llms}
+  Lu, Yikang, Aleta, Alberto, et al.,
+  \textit{LLMs and generative agent-based models for complex systems research},
+  in: \textit{Physics of Life Reviews}, vol. Unknown Volume, pp. Unknown Pages, 2024.
+  doi: {10.1016/j.plrev.2024.10.013}
+
+
+\bibitem[Duan, Wen et al.(2025)]{duan2025understanding}
+  Duan, Wen, Zhou, Shiwen, et al.,
+  \textit{Understanding the processes of trust and distrust contagion in Human--AI Teams: A qualitative approach},
+  in: \textit{Computers in Human Behavior}, vol. 165, pp. 108560, 2025.
+  doi: {10.1016/j.chb.2025.108560}
+
+
+\bibitem[Panagoulias, Dimitrios P et al.(2023)]{panagoulias2023rule}
+  Panagoulias, Dimitrios P, Palamidas, Filippos A, et al.,
+  \textit{Rule-augmented artificial intelligence-empowered systems for medical diagnosis using large language models},
+  in: \textit{2023 IEEE 35th International Conference on Tools with Artificial Intelligence (ICTAI)}, vol. Unknown Volume, pp. 70--77, 2023.
+  doi: {10.1109/ictai59109.2023.00018}
+
+
+\bibitem[Zina Chkirbene et al.(2024)]{Chkirbene2024Large}
+  Zina Chkirbene, R. Hamila, et al.,
+  \textit{Large Language Models (LLM) in Industry: A Survey of Applications, Challenges, and Trends},
+  in: \textit{2024 IEEE 21st International Conference on Smart Communities: Improving Quality of Life using AI, Robotics and IoT (HONET)}, vol. Unknown Volume, pp. 229-234, 2024.
+  doi: {10.1109/HONET63146.2024.10822885}
+
+
+\bibitem[Rane, Nitin et al.(2023)]{rane2023explainable}
+  Rane, Nitin, Choudhary, Saurabh, et al.,
+  \textit{Explainable Artificial Intelligence (XAI) approaches for transparency and accountability in financial decision-making},
+  in: \textit{Available at SSRN 4640316}, vol. 162, pp. 14, 2023.
+  doi: {10.1016/j.chb.2024.108448}
+
+
+\bibitem[Kambiz Saffarizadeh et al.(2024)]{Saffarizadeh2024"My}
+  Kambiz Saffarizadeh, Mark Keil, et al.,
+  \textit{"My Name is Alexa. What's Your Name?" The Impact of Reciprocal Self-Disclosure on Post-Interaction Trust in Conversational Agents},
+  in: \textit{J. Assoc. Inf. Syst.}, vol. 25, pp. 9, 2024.
+  doi: {10.17705/1jais.00839}
+
+
+\bibitem[Von Eschenbach, Warren J (2021)]{von2021transparency}
+  Von Eschenbach, Warren J,
+  \textit{Transparency and the black box problem: Why we do not trust AI},
+  in: \textit{Philosophy \& Technology}, vol. 34, pp. 1607--1622, 2021.
+  doi: {10.1007/s13347-021-00477-0}
+
+
+\bibitem[Stanford Human-Centered Artificial Intelligence (2023)]{StanfordHAI2023}
+  Stanford Human-Centered Artificial Intelligence,
+  \textit{Artificial Intelligence Index Report 2023},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2023.
+  doi: {10.1109/tai.2023.3339938}
+
+
+\bibitem[Yang, Qi et al.(2023)]{yang2023against}
+  Yang, Qi, Ongpin, Marlo, et al.,
+  \textit{Against Opacity: Explainable AI and Large Language Models for Effective Digital Advertising},
+  in: \textit{Proceedings of the 31st ACM International Conference on Multimedia}, vol. Unknown Volume, pp. 9299--9305, 2023.
+  doi: {10.1145/3581783.3612817}
+
+
+\bibitem[McKinsey \& Company (2023)]{McKinseyQuantumblack2023}
+  McKinsey \& Company,
+  \textit{The State of AI in 2023: Generative AI’s Breakout Year},
+  in: \textit{Unknown Journal}, vol. Unknown Volume, pp. Unknown Pages, 2023.
+  doi: {10.1109/mc.2024.3374433}
+
+
+\bibitem[Hoffmann, Jordan et al.(2022)]{hoffmann2022training}
+  Hoffmann, Jordan, Borgeaud, Sebastian, et al.,
+  \textit{Training compute-optimal large language models},
+  in: \textit{arXiv preprint arXiv:2203.15556}, vol. Unknown Volume, pp. Unknown Pages, 2022.
+  doi: {10.1101/2024.06.06.597716}
+
+
+\bibitem[Chang, Yupeng et al.(2024)]{10.1145/3641289}
+  Chang, Yupeng, Wang, Xu, et al.,
+  \textit{A Survey on Evaluation of Large Language Models},
+  in: \textit{ACM Trans. Intell. Syst. Technol.}, vol. 15, pp. 45, 2024.
+  doi: {10.1145/3641289}
+
+
