@@ -1,0 +1,1016 @@
+%Type = Inproceedings
+\bibitem[{\AA}man and Liikkanen(2010)]{aaman2010survey}
+  {\AA}man, P., Liikkanen, L.A., 
+  \textit{A survey of music recommendation aids}, 
+  in: \textit{Proceedings of the 1st Workshop on Music Recommendation and Discovery (WOMRAD) colocated with ACM RecSys}, pp. 25--28, 2010.,
+  doi = {10.1007/978-3-030-66450-3_7}
+
+
+%Type = Article
+\bibitem[{\AA}man and Liikkanen(2017)]{aaman2017interacting}
+  {\AA}man, P., Liikkanen, L.A., 
+  \textit{Interacting with context factors in music recommendation and discovery}, 
+  \textit{International Journal of Human--Computer Interaction}, vol. 33, pp. 165--179, 2017.,
+  doi = {10.1080/10447318.2016.1225881}
+
+
+%Type = Inproceedings
+\bibitem[Abowd et~al.(1999)]{abowd1999towards}
+  Abowd, G.D., Dey, A.K., Brown, P.J., Davies, N., Smith, M., Steggles, P., 
+  \textit{Towards a better understanding of context and context-awareness}, 
+  in: \textit{Handheld and Ubiquitous Computing: First International Symposium, HUC’99 Karlsruhe, Germany, September 27--29, 1999 Proceedings 1}, 
+  Springer, pp. 304--307, 1999.,
+  doi = {10.1007/3-540-48157-5_29}
+
+
+%Type = Incollection
+\bibitem[Adomavicius and Tuzhilin(2010)]{adomavicius2010context}
+  Adomavicius, G., Tuzhilin, A., 
+  \textit{Context-aware recommender systems}, in: \textit{Recommender systems handbook}, 
+  Springer, pp. 217--253, 2010.,
+  doi = {10.1145/1454008.1454068}
+
+
+%Type = Article
+\bibitem[Agres et~al.(2021)]{agres2021music}
+  Agres, K.R., Schaefer, R.S., Volk, A., van Hooren, S., Holzapfel, A., Dalla Bella, S., 
+  Müller, M., De Witte, M., Herremans, D., Ramirez Melendez, R., et~al., 
+  \textit{Music, computing, and health: a roadmap for the current and future roles of music technology for health care and well-being}, 
+  \textit{Music \& Science}, vol. 4, pp. 2059204321997709, 2021.,
+  doi = {10.31219/osf.io/mgjwv}
+
+
+%Type = Article
+\bibitem[Andjelkovic et~al.(2019)]{andjelkovic2019moodplay}
+  Andjelkovic, I., Parra, D., O’Donovan, J., 
+  \textit{Moodplay: interactive music recommendation based on artists’ mood similarity}, 
+  \textit{International Journal of Human-Computer Studies}, vol. 121, pp. 142--159, 2019.,
+  doi = {10.1016/j.ijhcs.2018.04.004}
+
+
+%Type = Article
+\bibitem[Assuncao et~al.(2022)]{assuncao2022considering}
+  Assuncao, W.G., Piccolo, L.S., Zaina, L.A., 
+  \textit{Considering emotions and contextual factors in music recommendation: a systematic literature review}, 
+  \textit{Multimedia Tools and Applications}, vol. 81, pp. 8367--8407, 2022.,
+  doi = {10.1007/s11042-022-12110-z}
+
+
+%Type = Article
+\bibitem[Ayata et~al.(2018a)]{ayata2018emotion}
+  Ayata, D., Yaslan, Y., Kamasak, M.E., 
+  \textit{Emotion based music recommendation system using wearable physiological sensors}, 
+  \textit{IEEE transactions on consumer electronics}, vol. 64, pp. 196--203, 2018.,
+  doi = {10.1109/tce.2018.2844736}
+
+
+%Type = Article
+\bibitem[Ayata et~al.(2018b)]{8374807}
+  Ayata, D., Yaslan, Y., Kamasak, M.E., 
+  \textit{Emotion based music recommendation system using wearable physiological sensors}, 
+  \textit{IEEE Transactions on Consumer Electronics}, vol. 64, pp. 196--203, 2018, 
+  \url{10.1109/TCE.2018.2844736}.,
+  doi = {10.1109/tce.2018.2844736}
+
+
+%Type = Article
+\bibitem[Bagby et~al.(1994)]{bagby1994twenty}
+  Bagby, R.M., Parker, J.D., Taylor, G.J., 
+  \textit{The twenty-item toronto alexithymia scale—i. item selection and cross-validation of the factor structure}, 
+  \textit{Journal of psychosomatic research}, vol. 38, pp. 23--32, 1994.,
+  doi = {10.1016/0022-3999(94)90005-1}
+
+
+%Type = Article
+\bibitem[Bakaeva et~al.(2022)]{bakaeva2022influence}
+  Bakaeva, Z., Shumov, D., Yakunina, E., Starshinov, Y.P., Sveshnikov, D., Torshin, V., 
+  Dorokhov, V., Karpov, V., 
+  \textit{The influence of music with the binaural beat effect on heart rate during daytime sleep in humans}, 
+  \textit{Neuroscience and Behavioral Physiology}, vol. 52, pp. 218--222, 2022.,
+  doi = {10.1007/s11055-022-01227-1}
+
+
+%Type = Inproceedings
+\bibitem[Bazire and Brézillon(2005)]{bazire2005understanding}
+  Bazire, M., Brézillon, P., 
+  \textit{Understanding context before using it}, 
+  in: \textit{Modeling and Using Context: 5th International and Interdisciplinary Conference CONTEXT 2005, Paris, France, July 5-8, 2005. Proceedings}, Springer, pp. 29--40, 2005.,
+  doi = {10.1007/11508373_3}
+
+
+%Type = Article
+\bibitem[Bonnin and Jannach(2014)]{bonnin2014automated}
+  Bonnin, G., Jannach, D., 
+  \textit{Automated generation of music playlists: Survey and experiments}, 
+  \textit{ACM Computing Surveys (CSUR)}, vol. 47, pp. 1--35, 2014.,
+  doi = {10.1145/2652481}
+
+
+%Type = Article
+\bibitem[Botonis et~al.(2021)]{botonis2021impact}
+  Botonis, P.G., Koutouvakis, N., Toubekis, A.G., 
+  \textit{The impact of daytime napping on athletic performance--a narrative review}, 
+  \textit{Scandinavian journal of medicine \& science in sports}, vol. 31, pp. 2164--2177, 2021.,
+  doi = {10.1111/sms.14060}
+
+
+%Type = Article
+\bibitem[Bowman et~al.(2024)]{bowman2024exploring}
+  Bowman, R., Cooney, O., Newbold, J.W., Thieme, A., Clark, L., Doherty, G., Cowan, B., 
+  \textit{Exploring how politeness impacts the user experience of chatbots for mental health support}, 
+  \textit{International Journal of Human-Computer Studies}, 
+  vol. 184, p. 103181, Elsevier, 2024.,
+  doi = {10.1016/j.ijhcs.2023.103181}
+
+
+%Type = Article
+\bibitem[Bradley and Lang(1994)]{bradley1994measuring}
+  Bradley, M.M., Lang, P.J., 
+  \textit{Measuring emotion: the self-assessment manikin and the semantic differential}, 
+  \textit{Journal of Behavior Therapy and Experimental Psychiatry}, vol. 25, pp. 49--59, 1994.,
+  doi = {10.1016/0005-7916(94)90063-9}
+
+
+%Type = TechReport
+\bibitem[Bradley and Lang(1999)]{bradley1999affective}
+  Bradley, M.M., Lang, P.J., 
+  \textit{Affective norms for English words (ANEW): Instruction manual and affective ratings}, 
+  Tech. rep., The Center for Research in Psychophysiology, 1999.,
+  doi = {10.3758/bf03193031}
+
+
+%Type = Inproceedings
+\bibitem[Broder(2002)]{broder2002taxonomy}
+  Broder, A., 
+  \textit{A taxonomy of web search}, 
+  in: \textit{Proceedings of the ACM SIGIR Conference on Research and Development in Information Retrieval}, ACM, pp. 3--10, 2002.,
+  doi = {10.1145/792550.792552}
+
+
+%Type = Article
+\bibitem[Burrai et~al.(2020)]{burrai2020beneficial}
+  Burrai, F., Sanna, G.D., Moccia, E., Morlando, F., Cosentino, E.R., Bui, V., Micheluzzi, V., Borghi, C., Parodi, G., 
+  \textit{Beneficial effects of listening to classical music in patients with heart failure: a randomized controlled trial}, 
+  \textit{Journal of Cardiac Failure}, vol. 26, pp. 541--549, 2020.,
+  doi = {10.1016/j.cardfail.2019.12.005}
+
+
+%Type = Article
+\bibitem[Buysse et~al.(1989)]{buysse1989pittsburgh}
+  Buysse, D.J., Reynolds III, C.F., Monk, T.H., Berman, S.R., Kupfer, D.J., 
+  \textit{The Pittsburgh sleep quality index: a new instrument for psychiatric practice and research}, 
+  \textit{Psychiatry Research}, vol. 28, pp. 193--213, 1989.,
+  doi = {10.1016/0165-1781(89)90047-4}
+
+
+%Type = Inproceedings
+\bibitem[Caine(2016)]{caine2016local}
+  Caine, K., 
+  \textit{Local standards for sample size at chi}, 
+  in: \textit{Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems}, ACM, pp. 981--992, 2016.,
+  doi = {10.1145/2858036.2858498}
+
+
+%Type = Inproceedings
+\bibitem[{\c{C}}ano et~al.(2017)]{ccano2017mood}
+  {\c{C}}ano, E., Coppola, R., Gargiulo, E., Marengo, M., Morisio, M., 
+  \textit{Mood-based on-car music recommendations}, 
+  in: \textit{Proceedings of the 2nd International Conference on Industrial Networks and Intelligent Systems}, Springer, pp. 154--163, 2017.,
+  doi = {10.1007/978-3-319-52569-3_14}
+
+
+%Type = Article
+\bibitem[Chan et~al.(2010)]{chan2010effects}
+  Chan, M.F., Chan, E.A., Mok, E., 
+  \textit{Effects of music on depression and sleep quality in elderly people: A randomised controlled trial}, 
+  \textit{Complementary Therapies in Medicine}, vol. 18, pp. 150--159, 2010.,
+  doi = {10.1016/j.ctim.2010.02.004}
+
+
+%Type = Article
+\bibitem[Chang et~al.(2012)]{chang2012effects}
+  Chang, E.T., Lai, H.L., Chen, P.W., Hsieh, Y.M., Lee, L.H., 
+  \textit{The effects of music on the sleep quality of adults with chronic insomnia using evidence from polysomnographic and self-reported analysis: A randomized control trial}, 
+  \textit{International Journal of Nursing Studies}, vol. 49, pp. 921--930, 2012.,
+  doi = {10.1016/j.ijnurstu.2012.02.019}
+
+
+%Type = Article
+\bibitem[Chen et~al.(2014)]{chen2014sedative}
+  Chen, C.K., Pei, Y.C., Chen, N.H., Huang, L.T., Chou, S.W., Wu, K.P., Ko, P.C., Wong, A.M., Wu, C.K., 
+  \textit{Sedative music facilitates deep sleep in young adults}, 
+  \textit{The Journal of Alternative and Complementary Medicine}, vol. 20, pp. 312--317, 2014.,
+  doi = {10.1089/acm.2012.0050}
+
+
+%Type = Inproceedings
+\bibitem[Chen et~al.(2013)]{chen2013a}
+  Chen, C.M., Tsai, M.F., Liu, J.Y., Yang, Y.H., 
+  \textit{Music recommendation based on multiple contextual similarity information}, 
+  in: \textit{2013 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT)}, IEEE, pp. 65--72, 2013.,
+  doi = {10.1109/wi-iat.2013.10}
+
+
+%Type = Inproceedings
+\bibitem[Chen et~al.(2013)]{chen2013b}
+  Chen, C.M., Tsai, M.F., Liu, J.Y., Yang, Y.H., 
+  \textit{Using emotional context from article for contextual music recommendation}, 
+  in: \textit{Proceedings of the 21st ACM International Conference on Multimedia}, ACM, pp. 649--652, 2013.,
+  doi = {10.1145/2502081.2502170}
+
+
+%Type = Inproceedings
+\bibitem[Chen et~al.(2015)]{chen2015amg1608}
+  Chen, Y.A., Yang, Y.H., Wang, J.C., Chen, H., 
+  \textit{The amg1608 dataset for music emotion recognition}, 
+  in: \textit{2015 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, IEEE, pp. 693--697, 2015.,
+  doi = {10.1109/icassp.2015.7178058}
+
+
+%Type = Article
+\bibitem[Cordi et~al.(2019)]{cordi2019effects}
+  Cordi, M.J., Ackermann, S., Rasch, B., 
+  \textit{Effects of relaxing music on healthy sleep}, 
+  \textit{Scientific Reports}, vol. 9, pp. 9079, 2019.,
+  doi = {10.1038/s41598-019-45608-y}
+
+
+%Type = Inproceedings
+\bibitem[de Assuncao and de Almeida Neris(2018)]{de2018algorithm}
+  de Assuncao, W.G., de Almeida Neris, V.P., 
+  \textit{An algorithm for music recommendation based on the user's musical preferences and desired emotions}, 
+  in: \textit{Proceedings of the 17th international conference on mobile and ubiquitous multimedia}, pp. 205--213, 2018.,
+  doi = {10.1145/3282894.3282915}
+
+
+%Type = Book
+\bibitem[DeVellis and Thorpe(2021)]{devellis2021scale}
+  DeVellis, R.F., Thorpe, C.T., 
+  \textit{Scale Development: Theory and Applications}, 
+  Sage Publications, 2021.,
+  doi = {10.2307/2075704}
+
+
+%Type = Article
+\bibitem[Dey(2001)]{dey2001understanding}
+  Dey, A.K., 
+  \textit{Understanding and using context}, 
+  \textit{Personal and Ubiquitous Computing}, vol. 5, pp. 4--7, 2001.,
+  doi = {10.1007/s007790170019}
+
+
+%Type = Article
+\bibitem[Dharmapriya et~al.(2021)]{dharmapriya2021music}
+  Dharmapriya, J., Dayarathne, L., Diasena, T., Arunathilake, S., Kodikara, N., Wijesekera, P., 
+  \textit{Music emotion visualization through colour}, 
+  \textit{Proceedings of the 2021 International Conference on Electronics, Information, and Communication (ICEIC)}, 
+  IEEE, pp. 1--6, 2021.,
+  doi = {10.1109/iceic51217.2021.9369788}
+
+
+%Type = Article
+\bibitem[Dickson and Schubert(2019)]{dickson2019does}
+  Dickson, G.T., Schubert, E., 
+  \textit{How does music aid sleep? Literature review}, 
+  \textit{Sleep Medicine}, vol. 63, pp. 142--150, 2019.,
+  doi = {10.1016/j.sleep.2019.05.016}
+
+
+%Type = Article
+\bibitem[Dickson and Schubert(2020)]{dickson2020musical}
+  Dickson, G.T., Schubert, E., 
+  \textit{Musical features that aid sleep}, 
+  \textit{Musicae Scientiae}, vol. 26, pp. 497--515, 2020.,
+  doi = {10.1177/1029864920972161}
+
+
+%Type = Article
+\bibitem[Dos~Reis et~al.(2020)]{dos2020use}
+  Dos~Reis, A.C., Vidal, C.L., de~Souza~Caetano, K.A., Dias, H.D., 
+  \textit{Use of recorded poetic audios to manage levels of anxiety and sleep disorders}, 
+  \textit{Journal of Religion and Health}, vol. 59, pp. 1626--1634, 2020.,
+  doi = {10.1007/s10943-019-00947-y}
+
+
+%Type = Article
+\bibitem[Dourish(2004)]{dourish2004we}
+  Dourish, P., 
+  \textit{What we talk about when we talk about context}, 
+  \textit{Personal and Ubiquitous Computing}, vol. 8, pp. 19--30, 2004.,
+  doi = {10.1007/s00779-003-0253-8}
+
+
+%Type = Article
+\bibitem[Dubey et~al.(2019)]{dubey2019effect}
+  Dubey, P., Kumar, Y., Singh, R., Jha, K., Kumar, R., 
+  \textit{Effect of music of specific frequency upon the sleep architecture and electroencephalographic pattern of individuals with delayed sleep latency: A daytime nap study}, 
+  \textit{Journal of Family Medicine and Primary Care}, vol. 8, p. 3915, 2019.,
+  doi = {10.4103/jfmpc.jfmpc_575_19}
+
+
+%Type = Article
+\bibitem[Dutheil et~al.(2021)]{dutheil2021effects}
+  Dutheil, F., Danini, B., Bagheri, R., Fantini, M.L., Pereira, B., Moustafa, F., Trousselard, M., Navel, V., 
+  \textit{Effects of a short daytime nap on the cognitive performance: A systematic review and meta-analysis}, 
+  \textit{International Journal of Environmental Research and Public Health}, vol. 18, p. 10212, 2021.,
+  doi = {10.3390/ijerph181910212}
+
+
+%Type = Article
+\bibitem[Eerola and Vuoskoski(2012)]{eerola2012review}
+  Eerola, T., Vuoskoski, J.K., 
+  \textit{A review of music and emotion studies: Approaches, emotion models, and stimuli}, 
+  \textit{Music Perception: An Interdisciplinary Journal}, vol. 30, pp. 307--340, 2012.,
+  doi = {10.1525/mp.2012.30.3.307}
+
+
+%Type = Article
+\bibitem[Ekman(1992)]{ekman1992argument}
+  Ekman, P., 
+  \textit{An argument for basic emotions}, 
+  \textit{Cognition \& Emotion}, vol. 6, pp. 169--200, 1992.,
+  doi = {10.1080/02699939208411068}
+
+
+%Type = Article
+\bibitem[Enders and Tofighi, 2007]{enders2007centering}
+  Enders, C.~K., and Tofighi, D., 
+  \textit{Centering predictor variables in cross-sectional multilevel models: a new look at an old issue}, 
+  \textit{Psychological Methods}, vol. 12, no. 2, pp. 121, 2007, 
+  American Psychological Association.,
+  doi = {10.1037/1082-989x.12.2.121}
+
+
+%Type = Article
+\bibitem[Evans and Schubert(2008)]{evans2008relationships}
+  Evans, P., Schubert, E., 
+  \textit{Relationships between expressed and felt emotions in music}, 
+  \textit{Musicae Scientiae}, vol. 12, pp. 75--99, 2008.,
+  doi = {10.1177/102986490801200105}
+
+
+%Type = Article
+\bibitem[Field(1999)]{field1999music}
+  Field, T., 
+  \textit{Music enhances sleep in preschool children}, 
+  \textit{Early Child Development and Care}, vol. 150, pp. 65--68, 1999.,
+  doi = {10.1080/0300443991500106}
+
+
+%Type = Article
+\bibitem[Gabrielsson(2001)]{gabrielsson2001emotion}
+  Gabrielsson, A., 
+  \textit{Emotion perceived and emotion felt: Same or different?}, 
+  \textit{Musicae Scientiae}, vol. 5, pp. 123--147, 2001.,
+  doi = {10.1177/10298649020050s105}
+
+
+%Type = Book
+\bibitem[Gelman, 2007]{gelman2007data}
+  Gelman, A., 
+  \textit{Data analysis using regression and multilevel/hierarchical models}, 
+  Cambridge University Press, 2007.,
+  doi = {10.18637/jss.v030.b03}
+
+
+%Type = Inproceedings
+\bibitem[Gilda et~al.(2017)]{gilda2017smart}
+  Gilda, S., Zafar, H., Soni, C., Waghurdekar, K., 
+  \textit{Smart music player integrating facial emotion recognition and music mood recommendation}, in: \textit{2017 International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET)}, IEEE, pp. 154--158, 2017.,
+  doi = {10.1109/wispnet.2017.8299738}
+
+
+%Type = Article
+\bibitem[Grekow(2018)]{grekow2018musical}
+  Grekow, J., 
+  \textit{Musical performance analysis in terms of emotions it evokes}, 
+  \textit{Journal of Intelligent Information Systems}, vol. 51, pp. 415--437, 2018.,
+  doi = {10.1007/s10844-018-0510-y}
+
+
+%Type = Article
+\bibitem[Jangraw et~al.(2023)]{jangraw2023highly}
+  Jangraw, D.C., Keren, H., Sun, H., Bedder, R.L., Rutledge, R.B., Pereira, F., 
+  Thomas, A.G., Pine, D.S., Zheng, C., Nielson, D.M., and others, 
+  \textit{A highly replicable decline in mood during rest and simple tasks}, 
+  \textit{Nature human behaviour}, vol. 7, no. 4, pp. 596--610, 2023, 
+  Nature Publishing Group UK London.,
+  doi = {10.31234/osf.io/bwv58}
+
+
+%Type = Article
+\bibitem[Jespersen et~al.(2015)]{jespersen2015music}
+  Jespersen, K.V., Koenig, J., Jennum, P., Vuust, P., 
+  \textit{Music for insomnia in adults}, 
+  \textit{Cochrane Database of Systematic Reviews}, 2015.,
+  doi = {10.1002/14651858.cd010459.pub2}
+
+
+%Type = Inproceedings
+\bibitem[Jin et~al.(2019)]{jin2019contextplay}
+  Jin, Y., Htun, N.N., Tintarev, N., Verbert, K., 
+  \textit{Contextplay: Evaluating user control for context-aware music recommendation}, 
+  in: \textit{Proceedings of the 27th ACM Conference on User Modeling, Adaptation and Personalization}, pp. 294--302, 2019.,
+  doi = {10.1007/s11042-020-09890-7}
+
+
+%Type = Book
+\bibitem[Juslin and Sloboda(2011)]{juslin2011handbook}
+  Juslin, P.N., Sloboda, J., 
+  \textit{Handbook of music and emotion: Theory, research, applications}, 
+  Oxford University Press, 2011.,
+  doi = {10.1093/acprof:oso/9780199230143.001.0001}
+
+
+%Type = Article
+\bibitem[Kabuk et~al.(2022)]{kabuk2022effect}
+  Kabuk, A., {\c{S}}endir, M., Filinte, G., 
+  \textit{The effect of reflexology massage and passive music therapy intervention before burn dressing on pain, anxiety level and sleep quality}, 
+  \textit{Burns}, vol. 48, pp. 1743--1752, 2022.,
+  doi = {10.1016/j.burns.2021.10.012}
+
+
+%Type = Article
+\bibitem[Kahn et~al.(2013)]{kahn2013sleep}
+  Kahn, M., Sheppes, G., Sadeh, A., 
+  \textit{Sleep and emotions: bidirectional links and underlying mechanisms}, 
+  \textit{International Journal of Psychophysiology}, vol. 89, pp. 218--228, 2013.,
+  doi = {10.1016/j.ijpsycho.2013.05.010}
+
+
+%Type = Article
+\bibitem[Kallinen and Ravaja(2006)]{kallinen2006emotion}
+  Kallinen, K., Ravaja, N., 
+  \textit{Emotion perceived and emotion felt: Same and different}, 
+  \textit{Musicae Scientiae}, vol. 10, pp. 191--213, 2006.,
+  doi = {10.1177/10298649020050s105}
+
+
+%Type = Article
+\bibitem[Kaminskas and Ricci(2012)]{kaminskas2012contextual}
+  Kaminskas, M., Ricci, F., 
+  \textit{Contextual music information retrieval and recommendation: State of the art and challenges}, 
+  \textit{Computer Science Review}, vol. 6, pp. 89--119, 2012.,
+  doi = {10.1016/j.cosrev.2012.04.002}
+
+
+%Type = Incollection
+\bibitem[Kle{\'c} and Wieczorkowska(2021)]{klec2021music}
+  Kle{\'c}, M., Wieczorkowska, A., 
+  \textit{Music recommendation systems: a survey}, in: \textit{Recommender Systems for Medicine and Music}, Springer, pp. 107--118, 2021.,
+  doi = {10.1007/978-3-030-66450-3_7}
+
+
+%Type = Article
+\bibitem[Knijnenburg et~al.(2012)]{knijnenburg2012explaining}
+  Knijnenburg, B.P., Willemsen, M.C., Gantner, Z., Soncu, H., Newell, C., 
+  \textit{Explaining the user experience of recommender systems}, 
+  \textit{User Modeling and User-Adapted Interaction}, vol. 22, pp. 441--504, 2012.,
+  doi = {10.1007/s11257-011-9118-4}
+
+
+%Type = Article
+\bibitem[Koenig et~al.(2013)]{koenig2013music}
+  Koenig, J., Jarczok, M., Warth, M., Harmat, L., Hesse, N., Jespersen, K., Thayer, J.F., Hillecke, T., 
+  \textit{Music listening has no positive or negative effects on sleep quality of normal sleepers: Results of a randomized controlled trial}, 
+  \textit{Nordic Journal of Music Therapy}, vol. 22, pp. 233--242, 2013.,
+  doi = {10.1080/08098131.2013.783095}
+
+
+%Type = Phdthesis
+\bibitem[Kolesnik(2014)]{kolesnik2014music}
+  Kolesnik, M., 
+  \textit{Music therapy in the alleviation of the first night effect}, 
+  Ph.D. thesis, Boston University, 2014.,
+  doi = {10.1017/s1092852923004509}
+
+
+%Type = Article
+\bibitem[Konstan and Riedl(2012)]{konstan2012recommender}
+  Konstan, J.A., Riedl, J., 
+  \textit{Recommender systems: from algorithms to user experience}, 
+  \textit{User Modeling and User-Adapted Interaction}, vol. 22, pp. 101--123, 2012.,
+  doi = {10.1007/s11257-011-9112-x}
+
+
+%Type = Article
+\bibitem[Kubo et~al.(2007)]{kubo2007impact}
+  Kubo, T., Takeyama, H., Matsumoto, S., Ebara, T., Murata, K., Tachi, N., Itani, T., 
+  \textit{Impact of nap length, timing, and sleep quality on sustaining early morning performance}, 
+  \textit{Industrial Health}, vol. 45, pp. 552--563, 2007.,
+  doi = {10.2486/indhealth.45.552}
+
+
+%Type = Article
+\bibitem[Kulkarni and Rodd(2020)]{kulkarni2020context}
+  Kulkarni, S., Rodd, S.F., 
+  \textit{Context aware recommendation systems: A review of the state of the art techniques}, 
+  \textit{Computer Science Review}, vol. 37, p. 100255, 2020.,
+  doi = {10.1016/j.cosrev.2020.100255}
+
+
+%Type = Article
+\bibitem[Kuula et~al.(2020)]{kuula2020effects}
+  Kuula, L., Halonen, R., Kajanto, K., Lipsanen, J., Makkonen, T., Peltonen, M., Pesonen, A.K., 
+  \textit{The effects of presleep slow breathing and music listening on polysomnographic sleep measures--a pilot trial}, 
+  \textit{Scientific Reports}, vol. 10, p. 7427, 2020.,
+  doi = {10.1038/s41598-020-64218-7}
+
+
+%Type = Article
+\bibitem[Lai and Good(2006)]{lai2006music}
+  Lai, H.L., Good, M., 
+  \textit{Music improves sleep quality in older adults}, 
+  \textit{Journal of Advanced Nursing}, vol. 53, pp. 134--144, 2006.,
+  doi = {10.1111/j.1365-2648.2004.03281.x}
+
+
+%Type = Article
+\bibitem[Lazic and Ogilvie(2007)]{lazic2007lack}
+  Lazic, S.E., Ogilvie, R.D., 
+  \textit{Lack of efficacy of music to improve sleep: a polysomnographic and quantitative EEG analysis}, 
+  \textit{International Journal of Psychophysiology}, vol. 63, pp. 232--239, 2007.,
+  doi = {10.1016/j.ijpsycho.2006.10.004}
+
+
+%Type = Inproceedings
+\bibitem[Lehtiniemi and Holm(2012)]{lehtiniemi2012using}
+  Lehtiniemi, A., Holm, J., 
+  \textit{Using animated mood pictures in music recommendation}, 
+  in: \textit{2012 16th International Conference on Information Visualisation}, IEEE, pp. 143--150, 2012.,
+  doi = {10.1109/iv.2012.34}
+
+
+%Type = Article
+\bibitem[Liang and Willemsen(2021)]{liang2021interactive}
+  Liang, Y., Willemsen, M.C., 
+  \textit{Interactive music genre exploration with visualization and mood control}, 
+  \textit{Proceedings of the 26th International Conference on Intelligent User Interfaces}, pp. 175--185, 2021.,
+  doi = {10.1145/3397481.3450700}
+
+
+%Type = Article
+\bibitem[Liang(2022)]{liang2022context}
+  Liang, Z., 
+  \textit{Context-aware sleep health recommender systems (CASHRS): A narrative review}, 
+  \textit{Electronics}, vol. 11, p. 3384, 2022.,
+  doi = {10.20944/preprints202205.0029.v1}
+
+
+%Type = Article
+\bibitem[Liikkanen and {\AA}man(2016)]{liikkanen2016shuffling}
+  Liikkanen, L.A., {\AA}man, P., 
+  \textit{Shuffling services: Current trends in interacting with digital music}, 
+  \textit{Interacting with Computers}, vol. 28, pp. 352--371, 2016.,
+  doi = {10.1093/iwc/iwv004}
+
+
+%Type = Article
+\bibitem[Lovato and Lack(2010)]{lovato2010effects}
+  Lovato, N., Lack, L., 
+  \textit{The effects of napping on cognitive functioning}, 
+  \textit{Progress in Brain Research}, vol. 185, pp. 155--166, 2010.,
+  doi = {10.1016/b978-0-444-53702-7.00009-9}
+
+
+%Type = Article
+\bibitem[Lozano~Murciego et~al.(2021)]{lozano2021context}
+  Lozano~Murciego, {\'{A}}., Jim{\'e}nez-Bravo, D.M., Valera~Rom{\'a}n, A., De~Paz~Santana, J.F., Moreno-Garc{\'\i}a, M.N., 
+  \textit{Context-aware recommender systems in the music domain: A systematic literature review}, 
+  \textit{Electronics}, vol. 10, p. 1555, 2021.,
+  doi = {10.3390/electronics10131555}
+
+
+%Type = Article
+\bibitem[Maestre et~al.(2017)]{maestre2017enriched}
+  Maestre, E., Papiotis, P., Marchini, M., Llimona, Q., Mayor, O., P{\'e}rez, A., Wanderley, M.M., 
+  \textit{Enriched multimodal representations of music performances: Online access and visualization}, 
+  \textit{IEEE Multimedia}, vol. 24, pp. 24--34, 2017.,
+  doi = {10.1109/mmul.2017.3}
+
+
+%Type = Article
+\bibitem[Majeed et~al.(2021)]{majeed2021does}
+  Majeed, N.M., Lua, V.Y., Chong, J.S., Lew, Z., Hartanto, A., 
+  \textit{Does bedtime music listening improve subjective sleep quality and next-morning well-being in young adults? A randomized cross-over trial}, 
+  \textit{Psychomusicology: Music, Mind, and Brain}, vol. 31, p. 149, 2021.,
+  doi = {10.1037/pmu0000283}
+
+
+%Type = Article
+\bibitem[McCrae and John(1992)]{mccrae1992introduction}
+  McCrae, R.R., John, O.P., 
+  \textit{An introduction to the five-factor model and its applications}, 
+  \textit{Journal of Personality}, vol. 60, pp. 175--215, 1992.,
+  doi = {10.1111/j.1467-6494.1992.tb00970.x}
+
+
+%Type = Book
+\bibitem[Meyer(2008)]{meyer2008emotion}
+  Meyer, L.B., 
+  \textit{Emotion and meaning in music}, 
+  University of Chicago Press, 2008.,
+  doi = {10.1111/j.0021-8529.2004.00155.x}
+
+
+%Type = Article
+\bibitem[Mollayeva et~al.(2016)]{mollayeva2016pittsburgh}
+  Mollayeva, T., Thurairajah, P., Burton, K., Mollayeva, S., Shapiro, C.M., Colantonio, A., 
+  \textit{The Pittsburgh sleep quality index as a screening tool for sleep dysfunction in clinical and non-clinical samples: A systematic review and meta-analysis}, 
+  \textit{Sleep Medicine Reviews}, vol. 25, pp. 52--73, 2016.,
+  doi = {10.1016/j.sleep.2015.02.156}
+
+
+%Type = Article
+\bibitem[Moore(2013)]{moore2013systematic}
+  Moore, K.S., 
+  \textit{A systematic review on the neural effects of music on emotion regulation: Implications for music therapy practice}, 
+  \textit{Journal of Music Therapy}, vol. 50, pp. 198--242, 2013.,
+  doi = {10.1093/jmt/50.3.198}
+
+
+%Type = Article
+\bibitem[Morin et~al.(2006)]{morin2006epidemiology}
+  Morin, C.M., LeBlanc, M., Daley, M., Gregoire, J., Merette, C., 
+  \textit{Epidemiology of insomnia: prevalence, self-help treatments, consultations, and determinants of help-seeking behaviors}, 
+  \textit{Sleep Medicine}, vol. 7, pp. 123--130, 2006.,
+  doi = {10.1016/j.sleep.2005.08.008}
+
+
+%Type = Article
+\bibitem[North and Hargreaves(1996)]{north1996situational}
+  North, A.C., Hargreaves, D.J., 
+  \textit{Situational influences on reported musical preference}, 
+  \textit{Psychomusicology: A Journal of Research in Music Cognition}, vol. 15, p. 30, 1996.,
+  doi = {10.1037/h0094081}
+
+
+%Type = Article
+\bibitem[Ottoni et~al.(2011)]{ottoni2011association}
+  Ottoni, G.L., Lorenzi, T.M., Lara, D.R., 
+  \textit{Association of temperament with subjective sleep patterns}, 
+  \textit{Journal of Affective Disorders}, vol. 128, no. 1-2, pp. 120--127, 2011.,
+  doi = {10.1016/j.jad.2010.06.014}
+
+
+%Type = Article
+\bibitem[Polignano et~al.(2021)]{polignano2021towards}
+  Polignano, M., Narducci, F., de~Gemmis, M., Semeraro, G., 
+  \textit{Towards emotion-aware recommender systems: an affective coherence model based on emotion-driven behaviours}, 
+  \textit{Expert Systems with Applications}, vol. 170, p. 114382, 2021.,
+  doi = {10.1016/j.eswa.2020.114382}
+
+
+%Type = Article
+\bibitem[Prey(2019)]{prey2019knowing}
+  Prey, R., 
+  \textit{Knowing me, knowing you: Datafication on music streaming platforms}, 
+  \textit{Big Data und Musik: Jahrbuch für Musikwirtschafts- und Musikkulturforschung 1/2018}, pp. 9--21, 2019.,
+  doi = {10.1007/978-3-658-21220-9_2}
+
+
+%Type = Inproceedings
+\bibitem[Pu et~al.(2011)]{pu2011user}
+  Pu, P., Chen, L., Hu, R., 
+  \textit{A user-centric evaluation framework for recommender systems}, in: \textit{Proceedings of the Fifth ACM Conference on Recommender Systems}, pp. 157--164, 2011.,
+  doi = {10.1007/978-3-642-12630-7_47}
+
+
+%Type = Book
+\bibitem[Ras and Wieczorkowska(2010)]{ras2010advances}
+  Ras, Z.W., Wieczorkowska, A., 
+  \textit{Advances in music information retrieval}, vol. 274, Springer, 2010.,
+  doi = {10.1007/978-3-642-11674-2}
+
+
+%Type = Article
+\bibitem[Rentfrow and Gosling(2003)]{rentfrow2003re}
+  Rentfrow, P.J., Gosling, S.D., 
+  \textit{The do re mi's of everyday life: the structure and personality correlates of music preferences}, 
+  \textit{Journal of Personality and Social Psychology}, vol. 84, p. 1236, 2003.,
+  doi = {10.1037/0022-3514.84.6.1236}
+
+
+%Type = Article
+\bibitem[Rentfrow and McDonald(2010)]{rentfrow2010preference}
+  Rentfrow, P.J., McDonald, J.A., 
+  \textit{Preference, personality, and emotion}, 2010.,
+  doi = {10.1093/acprof:oso/9780199230143.003.0024}
+
+
+%Type = Article
+\bibitem[Riedy et~al.(2021)]{riedy2021noise}
+  Riedy, S.M., Smith, M.G., Rocha, S., Basner, M., 
+  \textit{Noise as a sleep aid: A systematic review}, 
+  \textit{Sleep Medicine Reviews}, vol. 55, p. 101385, 2021.,
+  doi = {10.1016/j.smrv.2020.101385}
+
+
+%Type = Article
+\bibitem[Russell(1980)]{russell1980circumplex}
+  Russell, J.A., 
+  \textit{A circumplex model of affect}, 
+  \textit{Journal of Personality and Social Psychology}, vol. 39, p. 1161, 1980.,
+  doi = {10.1037/h0077714}
+
+
+%Type = Article
+\bibitem[Schedl et~al.(2017)]{schedl2017interrelation}
+  Schedl, M., Gomez, E., Trent, E.S., Tkal{\v{c}}i{\v{c}}, M., Eghbal-Zadeh, H., Martorell, A., 
+  \textit{On the interrelation between listener characteristics and the perception of emotions in classical orchestra music}, 
+  \textit{IEEE Transactions on Affective Computing}, vol. 9, pp. 507--525, 2017.,
+  doi = {10.1109/taffc.2017.2663421}
+
+
+%Type = Article
+\bibitem[Schedl et~al.(2015)]{schedl2015music}
+  Schedl, M., Knees, P., McFee, B., Bogdanov, D., Kaminskas, M., 
+  \textit{Music recommender systems}, 
+  \textit{Recommender Systems Handbook}, pp. 453--492, 2015.,
+  doi = {10.4135/9781483317731.n497}
+
+
+%Type = Article
+\bibitem[Schedl et~al.(2018)]{schedl2018current}
+  Schedl, M., Zamani, H., Chen, C.W., Deldjoo, Y., Elahi, M., 
+  \textit{Current challenges and visions in music recommender systems research}, 
+  \textit{International Journal of Multimedia Information Retrieval}, vol. 7, pp. 95--116, 2018.,
+  doi = {10.1007/s13735-018-0154-2}
+
+
+%Type = Article
+\bibitem[Scherer(2004)]{scherer2004emotions}
+  Scherer, K.R., 
+  \textit{Which emotions can be induced by music? What are the underlying mechanisms? And how can we measure them?}, 
+  \textit{Journal of New Music Research}, vol. 33, pp. 239--251, 2004.,
+  doi = {10.1080/0929821042000317822}
+
+
+%Type = Article
+\bibitem[Scherer et~al.(2000)]{scherer2000psychological}
+  Scherer, K.R., et~al., 
+  \textit{Psychological models of emotion}, 
+  \textit{The Neuropsychology of Emotion}, vol. 137, pp. 137--162, 2000.,
+  doi = {10.18653/v1/2021.naacl-main.230}
+
+
+%Type = Inproceedings
+\bibitem[Semertzidis et~al.(2019)]{semertzidis2019towards}
+  Semertzidis, N.A., Sargeant, B., Dwyer, J., Mueller, F.F., Zambetta, F., 
+  \textit{Towards understanding the design of positive pre-sleep through a neurofeedback artistic experience}, in: \textit{Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems}, pp. 1--14, 2019.,
+  doi = {10.1145/3290605.3300804}
+
+
+%Type = Inproceedings
+\bibitem[Sen and Larson(2015)]{sen2015sensors}
+  Sen, A., Larson, M.A., 
+  \textit{From sensors to songs: A learning-free novel music recommendation system using contextual sensor data}, in: \textit{LocalRec@ RecSys}, pp. 40--43, 2015.,
+  doi = {10.1109/icce.2019.8662028}
+
+
+%Type = Inproceedings
+\bibitem[Shen et~al.(2020)]{shen2020peia}
+  Shen, T., Jia, J., Li, Y., Ma, Y., Bu, Y., Wang, H., Chen, B., Chua, T.S., Hall, W., 
+  \textit{Peia: Personality and emotion integrated attentive model for music recommendation on social media platforms}, in: \textit{Proceedings of the AAAI Conference on Artificial Intelligence}, pp. 206--213, 2020.,
+  doi = {10.1609/aaai.v34i01.5352}
+
+
+%Type = Article
+\bibitem[Shum et~al.(2014)]{shum2014effects}
+  Shum, A., Taylor, B.J., Thayala, J., Chan, M.F., 
+  \textit{The effects of sedative music on sleep quality of older community-dwelling adults in Singapore}, 
+  \textit{Complementary Therapies in Medicine}, vol. 22, pp. 49--56, 2014.,
+  doi = {10.1016/j.ctim.2013.11.003}
+
+
+%Type = Article
+\bibitem[Snyder(1997)]{snyder1997expressive}
+  Snyder, B.A., 
+  \textit{Expressive art therapy techniques: Healing the soul through creativity}, 
+  \textit{The Journal of Humanistic Education and Development}, vol. 36, pp. 74--82, 1997.,
+  doi = {10.1002/j.2164-4683.1997.tb00375.x}
+
+
+%Type = Inproceedings
+\bibitem[Soleymani et~al.(2013)]{soleymani20131000}
+  Soleymani, M., Caro, M.N., Schmidt, E.M., Sha, C.Y., Yang, Y.H., 
+  \textit{1000 songs for emotional analysis of music}, in: \textit{Proceedings of the 2nd ACM International Workshop on Crowdsourcing for Multimedia}, pp. 1--6, 2013.,
+  doi = {10.1145/2506364.2506365}
+
+
+%Type = Article
+\bibitem[Song et~al.(2016)]{song2016perceived}
+  Song, Y., Dixon, S., Pearce, M.T., Halpern, A.R., 
+  \textit{Perceived and induced emotion responses to popular music: Categorical and dimensional models}, 
+  \textit{Music Perception: An Interdisciplinary Journal}, vol. 33, pp. 472--492, 2016.,
+  doi = {10.1525/mp.2016.33.4.472}
+
+
+%Type = Article
+\bibitem[Sutin et~al.(2020)]{sutin2020personality}
+  Sutin, A.R., Gamaldo, A.A., Stephan, Y., Strickhouser, J.E., Terracciano, A., 
+  \textit{Personality traits and the subjective and objective experience of sleep}, 
+  \textit{International Journal of Behavioral Medicine}, vol. 27, pp. 481--485, 2020.,
+  doi = {10.1007/s12529-019-09828-w}
+
+
+%Type = Inproceedings
+\bibitem[Tai and Lin(2018)]{tai2018influence}
+  Tai, S.K., Lin, Y.K., 
+  \textit{The influence of different kinds of music on brainwave signals}, in: \textit{2018 IEEE International Conference on Advanced Manufacturing (ICAM)}, IEEE, pp. 223--226, 2018.,
+  doi = {10.1109/amcon.2018.8614971}
+
+
+%Type = Article
+\bibitem[Talbot et~al.(2009)]{talbot2009effect}
+  Talbot, L.S., Hairston, I.S., Eidelman, P., Gruber, J., Harvey, A.G., 
+  \textit{The effect of mood on sleep onset latency and REM sleep in interepisode bipolar disorder}, 
+  \textit{Journal of Abnormal Psychology}, vol. 118, no. 3, pp. 448, 2009.,
+  doi = {10.1037/a0016605}
+
+
+%Type = Article
+\bibitem[Tan(2004)]{tan2004effects}
+  Tan, L.P., 
+  \textit{The effects of background music on quality of sleep in elementary school children}, 
+  \textit{Journal of Music Therapy}, vol. 41, pp. 128--150, 2004.,
+  doi = {10.1093/jmt/41.2.128}
+
+
+%Type = Article
+\bibitem[Tan et~al.(2012)]{tan2012interplay}
+  Tan, X., Yowler, C.J., Super, D.M., Fratianne, R.B., 
+  \textit{The interplay of preference, familiarity and psychophysical properties in defining relaxation music}, 
+  \textit{Journal of Music Therapy}, vol. 49, pp. 150--179, 2012.,
+  doi = {10.1093/jmt/49.2.150}
+
+
+%Type = Article
+\bibitem[Tang et~al.(2021)]{tang2021efficacy}
+  Tang, H., Chen, L., Wang, Y., Zhang, Y., Yang, N., Yang, N., 
+  \textit{Music therapy's efficacy in relieving pain, anxiety, and promoting sleep quality, in patients with small cell lung cancer receiving platinum-based chemotherapy}, 
+  \textit{Supportive Care in Cancer}, vol. 29, pp. 7299--7306, 2021.,
+  doi = {10.1007/s00520-021-06152-6}
+
+
+%Type = Article
+\bibitem[Tenera(2021)]{tenera2021towards}
+  Tenera, J.A.M., 
+  \textit{Towards context-aware recommendation systems in music streaming platforms}, 2021.,
+  doi = {10.1016/j.knosys.2016.04.020}
+
+
+%Type = Article
+\bibitem[Ten~Brink et~al.(2022)]{ten2022sleep}
+  Ten~Brink, M., Dietch, J.R., Tutek, J., Suh, S.A., Gross, J.J., Manber, R., 
+  \textit{Sleep and affect: A conceptual review}, 
+  \textit{Sleep Medicine Reviews}, p. 101670, 2022.,
+  doi = {10.31234/osf.io/y74fd}
+
+
+%Type = Article
+\bibitem[Thoma et~al.(2012)]{thoma2012emotion}
+  Thoma, M.V., Ryf, S., Mohiyeddini, C., Ehlert, U., Nater, U.M., 
+  \textit{Emotion regulation through listening to music in everyday situations}, 
+  \textit{Cognition \& Emotion}, vol. 26, pp. 550--560, 2012.,
+  doi = {10.1080/02699931.2011.595390}
+
+
+%Type = Article
+\bibitem[Tietzel and Lack(2001)]{tietzel2001short}
+  Tietzel, A.J., Lack, L.C., 
+  \textit{The short-term benefits of brief and long naps following nocturnal sleep restriction}, 
+  \textit{Sleep}, vol. 24, pp. 293--300, 2001.,
+  doi = {10.1093/sleep/24.3.293}
+
+
+%Type = Inproceedings
+\bibitem[Tintarev and Masthoff(2007)]{tintarev2007survey}
+  Tintarev, N., Masthoff, J., 
+  \textit{A survey of explanations in recommender systems}, in: \textit{2007 IEEE 23rd International Conference on Data Engineering Workshop}, IEEE, pp. 801--810, 2007.,
+  doi = {10.1109/icdew.2007.4401070}
+
+
+%Type = Incollection
+\bibitem[Tintarev and Masthoff(2010)]{tintarev2010designing}
+  Tintarev, N., Masthoff, J., 
+  \textit{Designing and evaluating explanations for recommender systems}, in: \textit{Recommender Systems Handbook}, Springer, pp. 479--510, 2010.,
+  doi = {10.1007/978-0-387-85820-3_15}
+
+
+%Type = Article
+\bibitem[Trahan et~al.(2018)]{trahan2018music}
+  Trahan, T., Durrant, S.J., M{\"u}llensiefen, D., Williamson, V.J., 
+  \textit{The music that helps people sleep and the reasons they believe it works: A mixed methods analysis of online survey reports}, 
+  \textit{PloS One}, vol. 13, p. e0206531, 2018.,
+  doi = {10.1371/journal.pone.0206531}
+
+
+%Type = Article
+\bibitem[Vandekerckhove and Cluydts(2010)]{vandekerckhove2010emotional}
+  Vandekerckhove, M., Cluydts, R., 
+  \textit{The emotional brain and sleep: An intimate relationship}, 
+  \textit{Sleep Medicine Reviews}, vol. 14, pp. 219--226, 2010.,
+  doi = {10.1016/j.smrv.2010.01.002}
+
+
+%Type = Article
+\bibitem[Van~Goethem and Sloboda(2011)]{van2011functions}
+  Van~Goethem, A., Sloboda, J., 
+  \textit{The functions of music for affect regulation}, 
+  \textit{Musicae Scientiae}, vol. 15, pp. 208--228, 2011.,
+  doi = {10.1177/1029864911401174}
+
+
+%Type = Article
+\bibitem[Vuoskoski and Eerola(2011)]{vuoskoski2011measuring}
+  Vuoskoski, J.K., Eerola, T., 
+  \textit{Measuring music-induced emotion: A comparison of emotion models, personality biases, and intensity of experiences}, 
+  \textit{Musicae Scientiae}, vol. 15, pp. 159--173, 2011.,
+  doi = {10.1177/102986491101500203}
+
+
+%Type = Inproceedings
+\bibitem[Völkel et~al.(2021)]{volkel2021eliciting}
+  Völkel, S.T., Buschek, D., Eiband, M., Cowan, B.R., Hussmann, H., 
+  \textit{Eliciting and analysing users’ envisioned dialogues with perfect voice assistants}, 
+  in: \textit{Proceedings of the 2021 CHI conference on human factors in computing systems}, 
+  ACM, pp. 1--15, 2021.,
+  doi = {10.1145/3411764.3445536}
+
+
+%Type = Article
+\bibitem[Watson et~al.(1988)]{watson1988development}
+  Watson, D., Clark, L.A., Tellegen, A., 
+  \textit{Development and validation of brief positive and negative affect measures: The PANAS scales}, 
+  \textit{Journal of Personality and Social Psychology}, vol. 54, pp. 1063, 1988.,
+  doi = {10.1037/0022-3514.54.6.1063}
+
+
+%Type = Book
+\bibitem[Wheeler(2015)]{wheeler2015music}
+  Wheeler, B.L., 
+  \textit{Music Therapy Handbook}, 
+  Guilford Publications, 2015.,
+  doi = {10.1093/jmt/thv007}
+
+
+%Type = Inproceedings
+\bibitem[Wood and Semwal(2015)]{wood2015exploring}
+  Wood, P.A., Semwal, S.K., 
+  \textit{On exploring the connection between music classification and evoking emotion}, in: \textit{2015 International Conference on Collaboration Technologies and Systems (CTS)}, IEEE, pp. 474--476, 2015.,
+  doi = {10.1109/cts.2015.7210471}
+
+
+%Type = Article
+\bibitem[Xu et~al.(2020)]{xu2020effect}
+  Xu, X., Cai, J., Yu, N., Yang, Y., Li, X., 
+  \textit{Effect of loudness and spectral centroid on the music masking of low frequency noise from road traffic}, 
+  \textit{Applied Acoustics}, vol. 166, pp. 107343, 2020, Elsevier.,
+  doi = {10.1016/j.apacoust.2020.107343}
+
+
+%Type = Article
+\bibitem[Xue et~al.(2018)]{xue2018influence}
+  Xue, C., Li, T., Yin, S., Zhu, X., Tan, Y., 
+  \textit{The influence of induced mood on music preference}, 
+  \textit{Cognitive Processing}, vol. 19, pp. 517--525, 2018.,
+  doi = {10.1007/s10339-018-0872-7}
+
+
+%Type = Inproceedings
+\bibitem[Yang et~al.(2016)]{yang2016emotion}
+  Yang, J., Chae, W., Kim, S., Choi, H., 
+  \textit{Emotion-aware music recommendation}, in: \textit{Design, User Experience, and Usability: Novel User Experiences: 5th International Conference, DUXU 2016, Held as Part of HCI International 2016, Toronto, Canada, July 17--22, 2016, Proceedings, Part II}, Springer, pp. 110--121, 2016.,
+  doi = {10.1609/aaai.v37i13.26911}
+
+
+%Type = Article
+\bibitem[Yoon and Baek(2022)]{yoon2022external}
+  Yoon, H., Baek, H.J., 
+  \textit{External auditory stimulation as a non-pharmacological sleep aid}, 
+  \textit{Sensors}, vol. 22, p. 1264, 2022.,
+  doi = {10.3390/s22031264}
+
+
+%Type = Article
+\bibitem[Yoon et~al.(2012)]{yoon2012music}
+  Yoon, K., Lee, J., Kim, M.U., 
+  \textit{Music recommendation system using emotion triggering low-level features}, 
+  \textit{IEEE Transactions on Consumer Electronics}, vol. 58, pp. 612--618, 2012.,
+  doi = {10.1109/tce.2012.6227467}
+
+
+%Type = Article
+\bibitem[Zentner et~al.(2008)]{zentner2008emotions}
+  Zentner, M., Grandjean, D., Scherer, K.R., 
+  \textit{Emotions evoked by the sound of music: Characterization, classification, and measurement}, 
+  \textit{Emotion}, vol. 8, p. 494, 2008.,
+  doi = {10.1037/1528-3542.8.4.494}
+
+
+%Type = Inproceedings
+\bibitem[Zhang et~al.(2018)]{zhang2018pmemo}
+  Zhang, K., Zhang, H., Li, S., Yang, C., Sun, L., 
+  \textit{The PMemo dataset for music emotion recognition}, in: \textit{Proceedings of the 2018 ACM on International Conference on Multimedia Retrieval}, pp. 135--142, 2018.,
+  doi = {10.1145/3206025.3206037}
