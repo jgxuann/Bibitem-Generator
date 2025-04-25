@@ -28,11 +28,6 @@ def sort_bibtex_entries(file_path, output_path):
 input_file = "/Users/jiangguanxuan/Downloads/Bibitem-Generator/reference.txt"
 output_file = "/Users/jiangguanxuan/Downloads/Bibitem-Generator/1.0.txt"
 
-# 确保输入文件存在
-import os
-if not os.path.exists(input_file):
-    raise FileNotFoundError(f"输入文件不存在: {input_file}")
-
 
 # 调用排序函数
 sort_bibtex_entries(input_file, output_file)
