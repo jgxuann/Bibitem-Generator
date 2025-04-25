@@ -17,4 +17,15 @@ This script processes the input file `reference.txt` and organizes the BibTeX en
 
 **How to run**:
 ```bash
-python [rank_by_author.py](http://_vscodecontentref_/1)
+python rank_by_author.py
+```
+### 2. `search_doi.py`
+This script takes `1.0.txt` as input and searches for missing DOIs using external APIs (e.g., CrossRef). It appends the missing DOIs to the corresponding BibTeX entries and saves the updated references as `2.0.txt`.
+
+- **Input**: `1.0.txt` (replace the path with your own file)
+- **Output**: `2.0.txt`
+**How to run**:
+```bash
+python search_doi.py
+```
+
